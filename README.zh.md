@@ -160,3 +160,7 @@ Diagnostics -> Show log
 ```text
 Android/data/salon.lifestyle.xiaodroidlink/files/probe.log
 ```
+
+## Support
+
+支持：xiaodroidlink@lifestyle.salon

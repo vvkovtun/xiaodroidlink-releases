@@ -160,3 +160,7 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 ```text
 Android/data/salon.lifestyle.xiaodroidlink/files/probe.log
 ```
+
+## Support
+
+Підтримка: xiaodroidlink@lifestyle.salon

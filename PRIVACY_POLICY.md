@@ -45,4 +45,4 @@ XiaoDroidLink does not sell user data. The app does not intentionally share noti
 
 ## Contact
 
-Support contact: replace this with the support email used in Google Play Console.
+Support contact: xiaodroidlink@lifestyle.salon

@@ -160,3 +160,7 @@ Archivo en el teléfono:
 ```text
 Android/data/salon.lifestyle.xiaodroidlink/files/probe.log
 ```
+
+## Support
+
+Soporte: xiaodroidlink@lifestyle.salon
