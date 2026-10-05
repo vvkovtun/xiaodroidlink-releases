@@ -14,7 +14,7 @@ Ce projet est indépendant. Ce n'est pas un produit officiel Xiaomi, Samsung, IC
 - Mode écran du téléphone : affichage des applications du téléphone sur l'écran de la voiture.
 - Commandes tactiles de la voiture vers le téléphone via le service d'accessibilité Android.
 - Commandes média : lecture/pause, piste précédente, piste suivante.
-- Google Maps dans le tableau de bord via la diffusion de l'écran du téléphone.
+- Appli de carte choisie dans le tableau de bord via la diffusion de l'écran du téléphone ; Google Maps reste le choix par défaut.
 - Audio via CarLink lorsque l'audio Bluetooth ne fonctionne pas.
 - Sélection des applications affichées dans la voiture.
 - Alertes vocales pour radars et alertes aériennes.
@@ -78,7 +78,7 @@ Dans XiaoDroidLink, ouvrez la section Permissions et accordez les accès nécess
 ## Réglages recommandés
 
 - Gardez le téléphone déverrouillé pour Google Maps ou le mode écran du téléphone.
-- Activez Google Maps in the dashboard si vous voulez la carte dans le tableau de bord.
+- Activez Google Maps in the dashboard si vous voulez la carte dans le tableau de bord. Utilisez Dashboard map app pour choisir Waze ou une autre appli installée.
 - Activez Audio through CarLink seulement si l'audio Bluetooth ne fonctionne pas.
 - Ajoutez les applications nécessaires dans Apps in the car.
 - Après la première connexion réussie, vous pouvez laisser Auto-connect activé.
@@ -133,12 +133,12 @@ Dans XiaoDroidLink, ouvrez la section Permissions et accordez les accès nécess
 - Si l'audio Bluetooth ne fonctionne pas, activez Audio through CarLink.
 - Après le changement audio, déconnectez puis reconnectez.
 
-### Google Maps ne s'affiche pas
+### La carte ne s'affiche pas
 
 - Activez Google Maps in the dashboard.
 - Autorisez la diffusion de l'écran.
 - Gardez le téléphone déverrouillé.
-- Lancez la navigation Google Maps sur le téléphone.
+- Lancez la navigation dans l’application de carte choisie sur le téléphone.
 
 ### La connexion s'arrête en arrière-plan
 

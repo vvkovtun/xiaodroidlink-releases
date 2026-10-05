@@ -14,7 +14,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 - 手机屏幕模式：在车机屏幕上显示手机应用。
 - 通过 Android 无障碍服务把车机触摸操作传回手机。
 - 媒体控制：播放/暂停、上一首、下一首。
-- 通过手机屏幕投射在仪表盘中显示 Google Maps。
+- 通过手机屏幕投射在仪表盘中显示所选地图应用；默认使用 Google Maps。
 - 当蓝牙音频不可用时，可通过 CarLink 传输音频。
 - 可选择要显示在车机中的应用。
 - 语音提醒：测速摄像头和空袭警报。
@@ -78,7 +78,7 @@ Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
 ## 建议设置
 
 - 使用 Google Maps 或手机屏幕模式时保持手机解锁。
-- 如果需要仪表盘地图，打开 Google Maps in the dashboard。
+- 如果需要仪表盘地图，打开 Google Maps in the dashboard。可在 Dashboard map app 中选择 Waze 或其他已安装地图应用。
 - 只有当车辆无法接收蓝牙音频时，才打开 Audio through CarLink。
 - 在 Apps in the car 中添加需要的应用。
 - 第一次成功连接后，可以保持 Auto-connect 开启。
@@ -133,12 +133,12 @@ Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
 - 如果蓝牙音频不可用，打开 Audio through CarLink。
 - 更改音频设置后断开并重新连接。
 
-### Google Maps 不显示
+### 地图不显示
 
 - 打开 Google Maps in the dashboard。
 - 允许屏幕投射。
 - 保持手机解锁。
-- 在手机上启动 Google Maps 导航。
+- 在手机上启动所选地图应用的导航。
 
 ### 后台连接中断
 

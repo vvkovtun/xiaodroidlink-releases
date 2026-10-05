@@ -14,7 +14,7 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 - Phone screen mode: show phone apps on the car display.
 - Touch control from the car screen through Android Accessibility.
 - Media controls: play/pause, previous track, next track.
-- Google Maps in the dashboard through phone screen casting.
+- Selected map app in the dashboard through phone screen casting; Google Maps is the default.
 - Audio through CarLink when Bluetooth audio does not work.
 - App picker for apps shown in the car.
 - Voice warnings for speed cameras and air alerts.
@@ -78,7 +78,7 @@ Open the Permissions section in XiaoDroidLink and grant what the app needs:
 ## Recommended Settings
 
 - Keep the phone unlocked when using Google Maps or phone screen mode.
-- Turn on Google Maps in the dashboard if you want the dashboard map.
+- Turn on Google Maps in the dashboard if you want the dashboard map. Use Dashboard map app to choose Waze or another installed map app.
 - Turn on Audio through CarLink only if the car does not accept Bluetooth audio.
 - Add the apps you need in Apps in the car.
 - After the first successful connection, you can keep Auto-connect enabled.
@@ -133,12 +133,12 @@ Open the Permissions section in XiaoDroidLink and grant what the app needs:
 - If Bluetooth audio does not work, turn on Audio through CarLink.
 - After changing audio settings, disconnect and connect again.
 
-### Google Maps does not appear
+### The map does not appear
 
 - Turn on Google Maps in the dashboard.
 - Allow screen casting.
 - Keep the phone unlocked.
-- Start Google Maps navigation on the phone.
+- Start navigation in the selected map app on the phone.
 
 ### The connection stops in the background
 

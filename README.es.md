@@ -14,7 +14,7 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 - Modo pantalla del teléfono: muestra apps del teléfono en la pantalla del coche.
 - Control táctil desde la pantalla del coche mediante Accesibilidad de Android.
 - Controles multimedia: reproducir/pausar, pista anterior, pista siguiente.
-- Google Maps en el panel mediante transmisión de pantalla del teléfono.
+- App de mapa seleccionada en el panel mediante transmisión de pantalla del teléfono; Google Maps es el valor predeterminado.
 - Audio por CarLink cuando el audio Bluetooth no funciona.
 - Selector de apps para mostrar en el coche.
 - Avisos de voz para radares y alertas aéreas.
@@ -78,7 +78,7 @@ En XiaoDroidLink, abre Permissions y concede lo necesario:
 ## Ajustes recomendados
 
 - Mantén el teléfono desbloqueado al usar Google Maps o el modo pantalla del teléfono.
-- Activa Google Maps in the dashboard si quieres el mapa en el panel.
+- Activa Google Maps in the dashboard si quieres el mapa en el panel. Usa Dashboard map app para elegir Waze u otra app instalada.
 - Activa Audio through CarLink solo si el coche no acepta audio Bluetooth.
 - Añade las apps necesarias en Apps in the car.
 - Tras la primera conexión correcta, puedes dejar Auto-connect activado.
@@ -133,12 +133,12 @@ En XiaoDroidLink, abre Permissions y concede lo necesario:
 - Si el audio Bluetooth no funciona, activa Audio through CarLink.
 - Después de cambiar el audio, desconecta y vuelve a conectar.
 
-### Google Maps no aparece
+### El mapa no aparece
 
 - Activa Google Maps in the dashboard.
 - Permite la transmisión de pantalla.
 - Mantén el teléfono desbloqueado.
-- Inicia navegación de Google Maps en el teléfono.
+- Inicia la navegación en la app de mapa seleccionada en el teléfono.
 
 ### La conexión se corta en segundo plano
 
