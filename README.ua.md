@@ -26,14 +26,17 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 
 ## Скріншоти
 
+| Вигляд на екрані машини |
+|---|
+| ![Панель XiaoDroidLink на екрані машини українською](images/xiaodroidlink-ua-car-preview.png) |
+
 | Головний екран | Дозволи |
 |---|---|
 | ![Екран підключення XiaoDroidLink українською](images/xiaodroidlink-ua-main.png) | ![Дозволи XiaoDroidLink українською](images/xiaodroidlink-ua-permissions.png) |
 
-| Налаштування | Як виглядає на екрані машини |
-|---|---|
-| ![Налаштування XiaoDroidLink українською](images/xiaodroidlink-ua-settings.png) | ![Панель XiaoDroidLink на екрані машини українською](images/xiaodroidlink-ua-car-preview.png) |
-
+| Налаштування |
+|---|
+| ![Налаштування XiaoDroidLink українською](images/xiaodroidlink-ua-settings.png) |
 ## Як встановити
 
 1. Завантаж APK-файл [XiaoDroidLink-7.1.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.1.apk).

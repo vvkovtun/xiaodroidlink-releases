@@ -26,14 +26,17 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 
 ## Capturas
 
+| Vista en la pantalla del coche |
+|---|
+| ![Panel de XiaoDroidLink en la pantalla del coche en español](images/xiaodroidlink-es-car-preview.png) |
+
 | Pantalla principal | Permisos |
 |---|---|
-| ![Pantalla principal de XiaoDroidLink](images/xiaodroidlink-en-main.png) | ![Permisos de XiaoDroidLink](images/xiaodroidlink-en-permissions.png) |
+| ![XiaoDroidLink main screen](images/xiaodroidlink-en-main.png) | ![XiaoDroidLink permissions screen](images/xiaodroidlink-en-permissions.png) |
 
 | Ajustes |
 |---|
-| ![Ajustes de XiaoDroidLink](images/xiaodroidlink-en-settings.png) |
-
+| ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Instalación
 
 1. Descarga [XiaoDroidLink-7.1.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.1.apk).

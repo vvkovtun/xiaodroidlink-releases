@@ -26,14 +26,17 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 
 ## Screenshots
 
+| Car screen preview |
+|---|
+| ![XiaoDroidLink dashboard on the car screen in English](images/xiaodroidlink-en-car-preview.png) |
+
 | Main screen | Permissions |
 |---|---|
-| ![XiaoDroidLink connect screen](images/xiaodroidlink-en-main.png) | ![XiaoDroidLink permissions screen](images/xiaodroidlink-en-permissions.png) |
+| ![XiaoDroidLink main screen](images/xiaodroidlink-en-main.png) | ![XiaoDroidLink permissions screen](images/xiaodroidlink-en-permissions.png) |
 
 | Settings |
 |---|
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
-
 ## Install
 
 1. Download [XiaoDroidLink-7.1.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.1.apk).
