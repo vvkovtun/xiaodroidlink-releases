@@ -28,11 +28,11 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 
 | Pantalla principal | Permisos |
 |---|---|
-| ![Pantalla principal de XiaoDroidLink](images/xiaodroidlink-connect.png) | ![Permisos de XiaoDroidLink](images/xiaodroidlink-permissions.png) |
+| ![Pantalla principal de XiaoDroidLink](images/xiaodroidlink-en-main.png) | ![Permisos de XiaoDroidLink](images/xiaodroidlink-en-permissions.png) |
 
-| Ajustes | Vista en la pantalla del coche |
-|---|---|
-| ![Ajustes de XiaoDroidLink](images/xiaodroidlink-settings.png) | ![Vista del coche de XiaoDroidLink](images/xiaodroidlink-car-preview.png) |
+| Ajustes |
+|---|
+| ![Ajustes de XiaoDroidLink](images/xiaodroidlink-en-settings.png) |
 
 ## Instalación
 

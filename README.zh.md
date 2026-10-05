@@ -28,11 +28,11 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 
 | 主屏幕 | 权限 |
 |---|---|
-| ![XiaoDroidLink main screen](images/xiaodroidlink-connect.png) | ![XiaoDroidLink permissions](images/xiaodroidlink-permissions.png) |
+| ![XiaoDroidLink main screen](images/xiaodroidlink-en-main.png) | ![XiaoDroidLink permissions](images/xiaodroidlink-en-permissions.png) |
 
-| 设置 | 车机屏幕预览 |
-|---|---|
-| ![XiaoDroidLink settings](images/xiaodroidlink-settings.png) | ![XiaoDroidLink car preview](images/xiaodroidlink-car-preview.png) |
+| 设置 |
+|---|
+| ![XiaoDroidLink settings](images/xiaodroidlink-en-settings.png) |
 
 ## 安装
 

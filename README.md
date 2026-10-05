@@ -28,11 +28,11 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 
 | Main screen | Permissions |
 |---|---|
-| ![XiaoDroidLink connect screen](images/xiaodroidlink-connect.png) | ![XiaoDroidLink permissions screen](images/xiaodroidlink-permissions.png) |
+| ![XiaoDroidLink connect screen](images/xiaodroidlink-en-main.png) | ![XiaoDroidLink permissions screen](images/xiaodroidlink-en-permissions.png) |
 
-| Settings | Car screen preview |
-|---|---|
-| ![XiaoDroidLink settings screen](images/xiaodroidlink-settings.png) | ![XiaoDroidLink dashboard on the car screen](images/xiaodroidlink-car-preview.png) |
+| Settings |
+|---|
+| ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 
 ## Install
 
