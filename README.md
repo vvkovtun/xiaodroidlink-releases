@@ -1,5 +1,7 @@
 # XiaoDroidLink — User Guide
 
+Languages: [English](RELEASE_README.md) · [Українська](RELEASE_README.ua.md) · [中文](RELEASE_README.zh.md) · [Français](RELEASE_README.fr.md) · [Español](RELEASE_README.es.md)
+
 XiaoDroidLink connects an Android phone to the Xiaomi YU7 screen through CarLink. It can show a dashboard or the phone screen in the car, control music, open selected apps, send car-screen touches back to the phone, and use Google Maps through screen casting.
 
 This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Android Auto, or Google product.
