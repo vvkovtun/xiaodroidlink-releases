@@ -18,19 +18,23 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 - Voice warnings for speed cameras and air alerts.
 - Languages: English, Ukrainian, Chinese, French, and Spanish.
 
+## Download APK
+
+[Download XiaoDroidLink-7.1.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.1.apk)
+
 ## Screenshots
 
 | Main screen | Permissions |
 |---|---|
 | ![XiaoDroidLink connect screen](images/xiaodroidlink-connect.png) | ![XiaoDroidLink permissions screen](images/xiaodroidlink-permissions.png) |
 
-| Connection flow | Active session |
+| Settings | Apps and safety |
 |---|---|
-| ![XiaoDroidLink connection screen](images/xiaodroidlink-connection.png) | ![XiaoDroidLink active session](images/xiaodroidlink-active.png) |
+| ![XiaoDroidLink settings screen](images/xiaodroidlink-connection.png) | ![XiaoDroidLink apps and safety screen](images/xiaodroidlink-active.png) |
 
 ## Install
 
-1. Download `XiaoDroidLink-7.1.apk`.
+1. Download [XiaoDroidLink-7.1.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.1.apk).
 2. Open the APK on your phone.
 3. If Android asks to allow installation from this source, allow it.
 4. Wait for installation to finish.

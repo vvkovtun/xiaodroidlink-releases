@@ -18,19 +18,23 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 - Голосові попередження про камери швидкості й повітряну тривогу.
 - Мови: English, Українська, 中文, Français, Español.
 
+## Завантажити APK
+
+[Завантажити XiaoDroidLink-7.1.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.1.apk)
+
 ## Скріншоти
 
 | Головний екран | Дозволи |
 |---|---|
 | ![Екран підключення XiaoDroidLink](images/xiaodroidlink-connect.png) | ![Дозволи XiaoDroidLink](images/xiaodroidlink-permissions.png) |
 
-| Підключення | Активний сеанс |
+| Налаштування | Програми і безпека |
 |---|---|
-| ![Підключення XiaoDroidLink](images/xiaodroidlink-connection.png) | ![Активний сеанс XiaoDroidLink](images/xiaodroidlink-active.png) |
+| ![Налаштування XiaoDroidLink](images/xiaodroidlink-connection.png) | ![Програми і безпека XiaoDroidLink](images/xiaodroidlink-active.png) |
 
 ## Як встановити
 
-1. Завантаж APK-файл `XiaoDroidLink-7.1.apk`.
+1. Завантаж APK-файл [XiaoDroidLink-7.1.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.1.apk).
 2. Відкрий APK на телефоні.
 3. Якщо Android питає дозвіл на встановлення з цього джерела, дозволь.
 4. Дочекайся завершення встановлення.
