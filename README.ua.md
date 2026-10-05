@@ -26,11 +26,11 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 
 | Головний екран | Дозволи |
 |---|---|
-| ![Екран підключення XiaoDroidLink](images/xiaodroidlink-connect.png) | ![Дозволи XiaoDroidLink](images/xiaodroidlink-permissions.png) |
+| ![Екран підключення XiaoDroidLink українською](images/xiaodroidlink-ua-main.png) | ![Дозволи XiaoDroidLink українською](images/xiaodroidlink-ua-permissions.png) |
 
 | Налаштування | Як виглядає на екрані машини |
 |---|---|
-| ![Налаштування XiaoDroidLink](images/xiaodroidlink-settings.png) | ![Панель XiaoDroidLink на екрані машини](images/xiaodroidlink-car-preview.png) |
+| ![Налаштування XiaoDroidLink українською](images/xiaodroidlink-ua-settings.png) | ![Панель XiaoDroidLink на екрані машини українською](images/xiaodroidlink-ua-car-preview.png) |
 
 ## Як встановити
 
