@@ -21,7 +21,7 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 - Languages: English, Ukrainian, Chinese, French, and Spanish.
 
 ## Download APK
-[Download XiaoDroidLink-7.3.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.3.apk)
+[Download XiaoDroidLink-7.4.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.4.apk)
 
 ## Screenshots
 
@@ -38,7 +38,7 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Install
 
-1. Download [XiaoDroidLink-7.3.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.3.apk).
+1. Download [XiaoDroidLink-7.4.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.4.apk).
 2. Open the APK on your phone.
 3. If Android asks to allow installation from this source, allow it.
 4. Wait for installation to finish.
