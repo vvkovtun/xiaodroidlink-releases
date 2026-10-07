@@ -85,6 +85,8 @@ Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
 
 ## 常见问题
 
+手机和车机屏幕上全部提示的完整列表及设置截图（英文）：[屏幕错误与解决方法](TROUBLESHOOTING.md)。
+
 ### 找不到车辆
 
 - 先在车机屏幕上打开 CarLink。

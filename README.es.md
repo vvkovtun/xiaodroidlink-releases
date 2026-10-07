@@ -85,6 +85,8 @@ En XiaoDroidLink, abre Permissions y concede lo necesario:
 
 ## Solución de problemas
 
+Lista completa de mensajes del teléfono y del coche, con capturas de pantalla (en inglés): [errores en pantalla y cómo resolverlos](TROUBLESHOOTING.md).
+
 ### No se encuentra el coche
 
 - Abre CarLink en la pantalla del coche.

@@ -104,6 +104,8 @@ The built-in map draws its own blue vehicle arrow. While moving, it uses the pho
 
 ## Troubleshooting
 
+Full list of phone and car screen messages, with screenshots of what to turn on: [on-screen errors and how to fix them](TROUBLESHOOTING.md).
+
 ### The car is not found
 
 - Open CarLink on the car screen.

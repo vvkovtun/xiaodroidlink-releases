@@ -85,6 +85,8 @@ Dans XiaoDroidLink, ouvrez la section Permissions et accordez les accès nécess
 
 ## Dépannage
 
+Liste complète des messages affichés sur le téléphone et dans la voiture, avec captures d'écran (en anglais) : [erreurs à l'écran et solutions](TROUBLESHOOTING.md).
+
 ### La voiture est introuvable
 
 - Ouvrez d'abord CarLink sur l'écran de la voiture.
