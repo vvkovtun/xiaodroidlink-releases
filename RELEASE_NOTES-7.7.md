@@ -1,5 +1,14 @@
 # XiaoDroidLink 7.7 (versionCode 53)
 
+## What's new
+
+- See when Bluetooth is off or the car is unavailable, and retry the connection.
+- Get an alert if the Accessibility service stops during a session.
+- Return to the car screen with one tap after using your phone.
+- Restart screen casting if it stops, with phone audio restored when capture ends.
+
+## Technical notes
+
 Connection recovery and clearer status during a YU7 CarLink session.
 
 - Shows when Bluetooth is off, requests Android to enable it, and offers a new
