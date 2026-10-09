@@ -22,7 +22,7 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 
 ## Descargar APK
 
-[Descargar XiaoDroidLink-7.11.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.11.apk)
+[Descargar XiaoDroidLink-7.12.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.12.apk)
 
 ## Capturas
 
@@ -39,7 +39,7 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Instalación
 
-1. Descarga [XiaoDroidLink-7.11.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.11.apk).
+1. Descarga [XiaoDroidLink-7.12.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.12.apk).
 2. Abre el APK en el teléfono.
 3. Si Android pide permitir instalación desde esta fuente, acéptalo.
 4. Espera a que termine la instalación.
