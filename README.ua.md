@@ -21,9 +21,22 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 - Голосові попередження про камери швидкості й повітряну тривогу.
 - Мови: English, Українська, 中文, Français, Español.
 
+## Встановити з Google Play
+
+Застосунок у Google Play поки в закритому тестуванні, тому спершу треба приєднатися до групи тестувальників.
+
+1. Відкрий групу: [https://groups.google.com/g/xiaodroid-testers](https://groups.google.com/g/xiaodroid-testers)
+2. Натисни «Приєднатися до групи» (з того самого облікового запису Google, що й у Google Play на телефоні).
+3. Відкрий XiaoDroidLink у Google Play: [https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
+4. Натисни «Встановити».
+
+Якщо Google Play пише, що застосунок не знайдено, — ти ще не приєднався до групи або ввійшов під іншим обліковим записом. Після приєднання доступ може з'явитися за кілька хвилин.
+
+Далі оновлення приходять через Google Play самі. Не змішуй два способи: версія з Google Play і APK нижче підписані по-різному, тому одну не можна встановити поверх іншої.
+
 ## Завантажити APK
 
-[Завантажити XiaoDroidLink-7.13.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.13.apk)
+[Завантажити XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk)
 
 ## Скріншоти
 
@@ -40,7 +53,7 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 | ![Налаштування XiaoDroidLink українською](images/xiaodroidlink-ua-settings.png) |
 ## Як встановити
 
-1. Завантаж APK-файл [XiaoDroidLink-7.13.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.13.apk).
+1. Завантаж APK-файл [XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk).
 2. Відкрий APK на телефоні.
 3. Якщо Android питає дозвіл на встановлення з цього джерела, дозволь.
 4. Дочекайся завершення встановлення.

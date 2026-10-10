@@ -20,9 +20,22 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 - Avisos de voz para radares y alertas aéreas.
 - Idiomas: English, Українська, 中文, Français, Español.
 
+## Instalar desde Google Play
+
+La app está en prueba cerrada en Google Play, así que primero hay que unirse al grupo de testers.
+
+1. Abre el grupo: [https://groups.google.com/g/xiaodroid-testers](https://groups.google.com/g/xiaodroid-testers)
+2. Toca «Unirse al grupo» (con la misma cuenta de Google que usas en Google Play en el teléfono).
+3. Abre XiaoDroidLink en Google Play: [https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
+4. Toca «Instalar».
+
+Si Google Play dice que no encuentra la app, aún no te has unido al grupo o has iniciado sesión con otra cuenta. El acceso puede tardar unos minutos tras unirte.
+
+Después las actualizaciones llegan solas por Google Play. No mezcles los dos métodos: la versión de Google Play y el APK de abajo tienen firmas distintas, así que una no se puede instalar sobre la otra.
+
 ## Descargar APK
 
-[Descargar XiaoDroidLink-7.13.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.13.apk)
+[Descargar XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk)
 
 ## Capturas
 
@@ -39,7 +52,7 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Instalación
 
-1. Descarga [XiaoDroidLink-7.13.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.13.apk).
+1. Descarga [XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk).
 2. Abre el APK en el teléfono.
 3. Si Android pide permitir instalación desde esta fuente, acéptalo.
 4. Espera a que termine la instalación.

@@ -21,8 +21,21 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 - Voice warnings for speed cameras and air alerts.
 - Languages: English, Ukrainian, Chinese, French, and Spanish.
 
+## Install from Google Play
+
+The app is in closed testing on Google Play, so you first join the testers group.
+
+1. Open the group: [https://groups.google.com/g/xiaodroid-testers](https://groups.google.com/g/xiaodroid-testers)
+2. Tap "Join group" (use the same Google account as in Google Play on your phone).
+3. Open XiaoDroidLink in Google Play: [https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
+4. Tap "Install".
+
+If Google Play says the app is not found, you have not joined the group yet or you are signed in with another account. Access can take a few minutes to appear after joining.
+
+Updates then arrive through Google Play automatically. Do not mix the two ways: the Google Play version and the APK below are signed differently, so one cannot be installed over the other.
+
 ## Download APK
-[Download XiaoDroidLink-7.13.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.13.apk)
+[Download XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk)
 
 ## Screenshots
 
@@ -39,7 +52,7 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Install
 
-1. Download [XiaoDroidLink-7.13.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.13.apk).
+1. Download [XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk).
 2. Open the APK on your phone.
 3. If Android asks to allow installation from this source, allow it.
 4. Wait for installation to finish.

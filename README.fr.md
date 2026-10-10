@@ -20,9 +20,22 @@ Ce projet est indépendant. Ce n'est pas un produit officiel Xiaomi, Samsung, IC
 - Alertes vocales pour radars et alertes aériennes.
 - Langues : English, Українська, 中文, Français, Español.
 
+## Installer depuis Google Play
+
+L'application est en test fermé sur Google Play : il faut d'abord rejoindre le groupe de testeurs.
+
+1. Ouvrez le groupe : [https://groups.google.com/g/xiaodroid-testers](https://groups.google.com/g/xiaodroid-testers)
+2. Touchez « Rejoindre le groupe » (avec le même compte Google que dans Google Play sur le téléphone).
+3. Ouvrez XiaoDroidLink dans Google Play : [https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
+4. Touchez « Installer ».
+
+Si Google Play indique que l'application est introuvable, vous n'avez pas encore rejoint le groupe ou vous êtes connecté avec un autre compte. L'accès peut prendre quelques minutes après l'inscription.
+
+Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez pas les deux méthodes : la version Google Play et l'APK ci-dessous sont signés différemment, l'un ne s'installe donc pas par-dessus l'autre.
+
 ## Télécharger l'APK
 
-[Télécharger XiaoDroidLink-7.13.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.13.apk)
+[Télécharger XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk)
 
 ## Captures d'écran
 
@@ -39,7 +52,7 @@ Ce projet est indépendant. Ce n'est pas un produit officiel Xiaomi, Samsung, IC
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Installation
 
-1. Téléchargez [XiaoDroidLink-7.13.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.13.apk).
+1. Téléchargez [XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk).
 2. Ouvrez l'APK sur le téléphone.
 3. Si Android demande l'autorisation d'installer depuis cette source, acceptez.
 4. Attendez la fin de l'installation.
