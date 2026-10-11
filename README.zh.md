@@ -35,7 +35,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 
 ## 下载 APK
 
-[下载 XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk)
+[下载 XiaoDroidLink-7.15.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.15.apk)
 
 ## 截图
 
@@ -52,7 +52,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## 安装
 
-1. 下载 [XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk)。
+1. 下载 [XiaoDroidLink-7.15.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.15.apk)。
 2. 在手机上打开 APK 文件。
 3. 如果 Android 要求允许从此来源安装，请允许。
 4. 等待安装完成。
@@ -87,6 +87,27 @@ Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
 6. 在 XiaoDroidLink 中输入验证码。
 7. 连接后选择 Dashboard 或 Phone screen 模式。
 8. 行程结束后，在应用或通知中点击 Disconnect。
+
+## 通过车辆蓝牙通话和语音
+
+音乐通过 CarLink（Wi‑Fi）传到车上。通话、导航语音和 ChatGPT 走车辆蓝牙，需要单独连接。请在停车时操作。
+
+1. 按上面的步骤连接车辆，等待车机屏幕出现画面。
+2. 手机上会出现通知 `车辆蓝牙未连接`，点按它。
+3. 应用会自动断开连接并打开蓝牙设置。在列表中选择你的车。
+4. 不要再点其他东西。几秒钟后应用会自动重新连接，画面恢复。
+5. 检查：通话或 ChatGPT 的声音应从车内扬声器播放。
+
+需要了解：
+
+- 不要在启动 CarLink 之前提前连接车辆蓝牙。CarLink 启动时车辆会断开这种连接。可靠的方式是通过通知操作。
+- 如果蓝牙显示已连接，但通话仍从手机播放，请再次点按同一通知并重新选择车辆。
+- 手机不会自动连接车辆蓝牙。每次行程开始时需要手动选择一次车辆。
+- 选择车辆的时间为 90 秒。超时后应用会在没有蓝牙的情况下回到车机画面，通知会再次出现。
+- 之后不要关闭车机屏幕上的 CarLink。只要它保持打开，蓝牙在断线和重新连接后仍会保持。如果关闭后重新打开，需要重复以上步骤。
+- 蓝牙已连接时，音乐会在画面出现约 10 秒后才在车内播放。这是有意的延迟，避免车辆断开蓝牙。
+- CarLink 运行时 YU7 不接受蓝牙音乐，因此 `通过 CarLink 播放音频` 必须保持开启。
+- 已在 Xiaomi YU7 Max 上测试。车辆偶尔仍会断开蓝牙，此时重复第 2–4 步。
 
 ## 建议设置
 

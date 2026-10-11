@@ -35,7 +35,7 @@ Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez
 
 ## Télécharger l'APK
 
-[Télécharger XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk)
+[Télécharger XiaoDroidLink-7.15.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.15.apk)
 
 ## Captures d'écran
 
@@ -52,7 +52,7 @@ Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Installation
 
-1. Téléchargez [XiaoDroidLink-7.14.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.14.apk).
+1. Téléchargez [XiaoDroidLink-7.15.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.15.apk).
 2. Ouvrez l'APK sur le téléphone.
 3. Si Android demande l'autorisation d'installer depuis cette source, acceptez.
 4. Attendez la fin de l'installation.
@@ -87,6 +87,27 @@ Dans XiaoDroidLink, ouvrez la section Permissions et accordez les accès nécess
 6. Entrez ce code dans XiaoDroidLink.
 7. Après la connexion, choisissez Dashboard ou Phone screen.
 8. À la fin du trajet, touchez Disconnect dans l'application ou la notification.
+
+## Appels et voix par le Bluetooth de la voiture
+
+La musique arrive dans la voiture par CarLink (Wi‑Fi). Les appels, la voix de navigation et ChatGPT passent par le Bluetooth de la voiture, qu'il faut connecter séparément. Faites-le à l'arrêt.
+
+1. Connectez-vous à la voiture comme décrit ci-dessus et attendez l'image sur son écran.
+2. Le téléphone affiche la notification `Le Bluetooth de la voiture n'est pas connecté`. Touchez-la.
+3. L'application arrête elle-même la connexion et ouvre les réglages Bluetooth. Choisissez votre voiture dans la liste.
+4. Ne touchez à rien d'autre. En quelques secondes l'application se reconnecte et l'image revient.
+5. Vérifiez : un appel ou la voix de ChatGPT doit sortir des haut-parleurs de la voiture.
+
+Bon à savoir :
+
+- Ne connectez pas le Bluetooth de la voiture à l'avance, avant de lancer CarLink. La voiture coupe cette connexion au démarrage de CarLink. Le chemin fiable est celui de la notification.
+- Si le Bluetooth est affiché comme connecté mais que les appels sortent toujours du téléphone, touchez la même notification et choisissez de nouveau la voiture.
+- Le téléphone ne se connecte pas seul au Bluetooth de la voiture. Il faut choisir la voiture à la main une fois au début du trajet.
+- Vous avez 90 secondes pour choisir la voiture. Passé ce délai, l'application revient à l'écran de la voiture sans Bluetooth et la notification réapparaît.
+- Ensuite, ne fermez pas CarLink sur l'écran de la voiture. Tant qu'il reste ouvert, le Bluetooth tient malgré les coupures et les nouvelles connexions. Si vous le fermez et le rouvrez, refaites les étapes.
+- Avec le Bluetooth connecté, la musique démarre dans la voiture environ 10 secondes après l'image. Ce délai est voulu, pour que la voiture ne coupe pas le Bluetooth.
+- Le YU7 n'accepte pas la musique par Bluetooth pendant CarLink, donc `Son via CarLink` doit rester activé.
+- Testé sur le Xiaomi YU7 Max. Il arrive que la voiture coupe quand même le Bluetooth : refaites les étapes 2 à 4.
 
 ## Réglages recommandés
 
