@@ -13,6 +13,10 @@ XiaoDroidLink processes the following data only when the user enables the relate
 - Address search text and route endpoints when the user searches for or starts a route.
 - Screen content after the user accepts Android's MediaProjection prompt, to show a selected phone app or the phone screen on the paired car display.
 - Notification content after the user grants notification access, to show media state, navigation directions, and selected messenger status on the car dashboard.
+- Incoming call notifications (caller name and the notification's Answer/Decline actions), to show a call card on the car dashboard. Nothing is stored or sent to the developer.
+- Favourite contacts: only the name and number of each contact the user picks in the system contact picker (up to four), stored on the phone for the Contacts widget. The app does not read the address book.
+- Phone call permission (optional), so a tap on a favourite contact starts the call. Without it the phone's dialer opens instead.
+- Calendar (optional, read-only): the title, time and location of the next event within 24 hours, shown on the Calendar widget. It is read on the phone and not stored or sent to the developer.
 - Audio after the user enables optional audio through CarLink, to play phone audio through the paired car.
 - Accessibility window information and gestures after the user enables the service, to forward user-initiated touches from the car display and launch apps selected by the user.
 - Installed app names and icons to let the user choose apps for the car dashboard.

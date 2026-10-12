@@ -10,7 +10,8 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 
 - Підключення до Xiaomi YU7 через CarLink.
 - Введення 6-значного коду з екрана машини.
-- Режим `Панель`: годинник, музика, карта, повідомлення, програми, дані машини.
+- Головний екран із віджетів: до трьох екранів, п'ять готових наборів, 19 віджетів (карта, поворот, швидкість, камери, зарядки, маршрути «Додому/Робота», музика, повідомлення, контакти, календар, вікно програми з телефона та інші). Розставляти, міняти розмір і налаштовувати їх можна на екрані машини: шестерня → «Віджети».
+- Картка вхідного дзвінка з кнопками «Прийняти» й «Відхилити».
 - Режим `Екран телефона`: показ застосунків телефона на дисплеї машини.
 - Дотики з екрана машини в телефон через спеціальні можливості Android.
 - Керування музикою: play/pause, попередній і наступний трек.
@@ -36,7 +37,7 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 
 ## Завантажити APK
 
-[Завантажити XiaoDroidLink-7.15.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.15.apk)
+[Завантажити XiaoDroidLink-7.16.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.16.apk)
 
 ## Скріншоти
 
@@ -53,7 +54,7 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 | ![Налаштування XiaoDroidLink українською](images/xiaodroidlink-ua-settings.png) |
 ## Як встановити
 
-1. Завантаж APK-файл [XiaoDroidLink-7.15.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.15.apk).
+1. Завантаж APK-файл [XiaoDroidLink-7.16.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.16.apk).
 2. Відкрий APK на телефоні.
 3. Якщо Android питає дозвіл на встановлення з цього джерела, дозволь.
 4. Дочекайся завершення встановлення.

@@ -10,7 +10,8 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 
 - 连接小米 YU7 CarLink。
 - 输入车机屏幕上的 6 位验证码完成配对。
-- 仪表盘模式：时钟、音乐、地图、消息、应用和车辆数据。
+- 由小组件组成的主屏幕：最多三个屏幕、五种预设布局、19 个小组件（地图、下一个转弯、车速、测速摄像头、充电站、回家/公司路线、音乐、消息、联系人、日历、手机应用窗口等）。可在车机屏幕上排列、调整大小和设置：齿轮 → 小组件。
+- 来电卡片，带“接听”和“拒接”按钮。
 - 手机屏幕模式：在车机屏幕上显示手机应用。
 - 通过 Android 无障碍服务把车机触摸操作传回手机。
 - 媒体控制：播放/暂停、上一首、下一首。
@@ -35,7 +36,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 
 ## 下载 APK
 
-[下载 XiaoDroidLink-7.15.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.15.apk)
+[下载 XiaoDroidLink-7.16.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.16.apk)
 
 ## 截图
 
@@ -52,7 +53,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## 安装
 
-1. 下载 [XiaoDroidLink-7.15.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.15.apk)。
+1. 下载 [XiaoDroidLink-7.16.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.16.apk)。
 2. 在手机上打开 APK 文件。
 3. 如果 Android 要求允许从此来源安装，请允许。
 4. 等待安装完成。

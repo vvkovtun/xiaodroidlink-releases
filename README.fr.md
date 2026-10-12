@@ -10,7 +10,8 @@ Ce projet est indépendant. Ce n'est pas un produit officiel Xiaomi, Samsung, IC
 
 - Connexion CarLink avec Xiaomi YU7.
 - Appairage par code à 6 chiffres affiché dans la voiture.
-- Mode tableau de bord : horloge, musique, carte, messages, applications et données voiture.
+- Écran d'accueil composé de widgets : jusqu'à trois écrans, cinq modèles prêts, 19 widgets (carte, prochain virage, vitesse, radars, bornes, itinéraires Domicile/Travail, musique, messages, contacts, agenda, fenêtre d'une appli du téléphone, etc.). Disposez-les, redimensionnez-les et réglez-les sur l'écran de la voiture : roue dentée → Widgets.
+- Carte d'appel entrant avec les boutons Répondre et Refuser.
 - Mode écran du téléphone : affichage des applications du téléphone sur l'écran de la voiture.
 - Commandes tactiles de la voiture vers le téléphone via le service d'accessibilité Android.
 - Commandes média : lecture/pause, piste précédente, piste suivante.
@@ -35,7 +36,7 @@ Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez
 
 ## Télécharger l'APK
 
-[Télécharger XiaoDroidLink-7.15.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.15.apk)
+[Télécharger XiaoDroidLink-7.16.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.16.apk)
 
 ## Captures d'écran
 
@@ -52,7 +53,7 @@ Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Installation
 
-1. Téléchargez [XiaoDroidLink-7.15.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.15.apk).
+1. Téléchargez [XiaoDroidLink-7.16.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.16.apk).
 2. Ouvrez l'APK sur le téléphone.
 3. Si Android demande l'autorisation d'installer depuis cette source, acceptez.
 4. Attendez la fin de l'installation.
