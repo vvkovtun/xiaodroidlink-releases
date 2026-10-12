@@ -36,7 +36,7 @@ Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez
 
 ## Télécharger l'APK
 
-[Télécharger XiaoDroidLink-7.17.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.17.apk)
+[Télécharger XiaoDroidLink-7.18.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.18.apk)
 
 ## Captures d'écran
 
@@ -53,7 +53,7 @@ Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Installation
 
-1. Téléchargez [XiaoDroidLink-7.17.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.17.apk).
+1. Téléchargez [XiaoDroidLink-7.18.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.18.apk).
 2. Ouvrez l'APK sur le téléphone.
 3. Si Android demande l'autorisation d'installer depuis cette source, acceptez.
 4. Attendez la fin de l'installation.
