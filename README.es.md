@@ -11,6 +11,7 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 - Conexión CarLink con Xiaomi YU7.
 - Emparejamiento con código de 6 dígitos mostrado en la pantalla del coche.
 - Pantalla de inicio hecha de widgets: hasta tres pantallas, cinco diseños listos, 19 widgets (mapa, próximo giro, velocidad, radares, cargadores, rutas Casa/Trabajo, música, mensajes, contactos, calendario, ventana de una app del teléfono y más). Ordénelos, cambie su tamaño y ajústelos en la pantalla del coche: engranaje → Widgets.
+- Ocho estilos con vistas de mapa, multimedia y viaje. El botón Pantallas 1/3 › del dock cambia entre las tres pantallas; el engranaje abre el catálogo de estilos.
 - Tarjeta de llamada entrante con los botones Responder y Rechazar.
 - Modo pantalla del teléfono: muestra apps del teléfono en la pantalla del coche.
 - Control táctil desde la pantalla del coche mediante Accesibilidad de Android.
@@ -36,13 +37,23 @@ Después las actualizaciones llegan solas por Google Play. No mezcles los dos m�
 
 ## Descargar APK
 
-[Descargar XiaoDroidLink-7.18.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.18.apk)
+[Descargar XiaoDroidLink-7.19.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.19.apk)
 
 ## Capturas
+
+La opción de vista previa sin coche permite ver el panel en el teléfono.
 
 | Vista en la pantalla del coche |
 |---|
 | ![Panel de XiaoDroidLink en la pantalla del coche en español](images/xiaodroidlink-es-car-preview.png) |
+
+| Pantalla 2 de 3: multimedia | Pantalla 3 de 3: viaje |
+|---|---|
+| ![XiaoDroidLink media screen](images/xiaodroidlink-en-car-media.png) | ![XiaoDroidLink trip screen](images/xiaodroidlink-en-car-drive.png) |
+
+| Catálogo de diseños |
+|---|
+| ![XiaoDroidLink design catalog](images/xiaodroidlink-en-car-catalog.png) |
 
 | Pantalla principal | Permisos |
 |---|---|
@@ -53,7 +64,7 @@ Después las actualizaciones llegan solas por Google Play. No mezcles los dos m�
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Instalación
 
-1. Descarga [XiaoDroidLink-7.18.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.18.apk).
+1. Descarga [XiaoDroidLink-7.19.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.19.apk).
 2. Abre el APK en el teléfono.
 3. Si Android pide permitir instalación desde esta fuente, acéptalo.
 4. Espera a que termine la instalación.

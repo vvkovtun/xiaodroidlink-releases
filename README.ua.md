@@ -11,6 +11,8 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 - Підключення до Xiaomi YU7 через CarLink.
 - Введення 6-значного коду з екрана машини.
 - Головний екран із віджетів: до трьох екранів, п'ять готових наборів, 19 віджетів (карта, поворот, швидкість, камери, зарядки, маршрути «Додому/Робота», музика, повідомлення, контакти, календар, вікно програми з телефона та інші). Розставляти, міняти розмір і налаштовувати їх можна на екрані машини: шестерня → «Віджети».
+- Меню «Програми» на екрані машини: кнопка «Змінити» додає чи прибирає програми телефона без телефона в руках. При першому запуску туди самі потрапляють популярні встановлені програми.
+- Вісім дизайнів із зразками карти, медіа й поїздки. Кнопка «Екрани 1/3 ›» у доку перемикає три робочі екрани; шестерня → «Каталог дизайнів» відкриває вибір стилю.
 - Картка вхідного дзвінка з кнопками «Прийняти» й «Відхилити».
 - Режим `Екран телефона`: показ застосунків телефона на дисплеї машини.
 - Дотики з екрана машини в телефон через спеціальні можливості Android.
@@ -37,13 +39,23 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 
 ## Завантажити APK
 
-[Завантажити XiaoDroidLink-7.18.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.18.apk)
+[Завантажити XiaoDroidLink-7.19.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.19.apk)
 
 ## Скріншоти
+
+Панель можна відкрити на телефоні кнопкою «Перегляд без машини».
 
 | Вигляд на екрані машини |
 |---|
 | ![Панель XiaoDroidLink на екрані машини українською](images/xiaodroidlink-ua-car-preview.png) |
+
+| Екран 2 з 3: медіа | Екран 3 з 3: поїздка |
+|---|---|
+| ![XiaoDroidLink екран медіа](images/xiaodroidlink-ua-car-media.png) | ![XiaoDroidLink екран поїздки](images/xiaodroidlink-ua-car-drive.png) |
+
+| Каталог дизайнів |
+|---|
+| ![XiaoDroidLink каталог дизайнів](images/xiaodroidlink-ua-car-catalog.png) |
 
 | Головний екран | Дозволи |
 |---|---|
@@ -54,7 +66,7 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 | ![Налаштування XiaoDroidLink українською](images/xiaodroidlink-ua-settings.png) |
 ## Як встановити
 
-1. Завантаж APK-файл [XiaoDroidLink-7.18.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.18.apk).
+1. Завантаж APK-файл [XiaoDroidLink-7.19.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.19.apk).
 2. Відкрий APK на телефоні.
 3. Якщо Android питає дозвіл на встановлення з цього джерела, дозволь.
 4. Дочекайся завершення встановлення.
