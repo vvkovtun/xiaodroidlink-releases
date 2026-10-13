@@ -32,6 +32,7 @@ The following optional functions send encrypted HTTPS requests to third-party se
 - OSRM for route calculation and rerouting.
 - Open-Meteo for weather near the current location.
 - Overpass API for speed-camera data near the current location.
+- lrclib.net for song lyrics: the title, artist and length of the track that is playing are sent, only while the Lyrics widget is on a home screen.
 - Tryvoha.online for current air-alert information. The alert feed itself does not receive the phone location; region matching is performed on the device.
 
 Location and route requests are used only to return the requested feature. These public service providers may process technical request information, including the IP address, under their own privacy policies and retention rules. Users may configure self-hosted Nominatim and OSRM endpoints in the app.

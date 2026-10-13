@@ -10,7 +10,7 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 
 - Xiaomi YU7 CarLink connection.
 - 6-digit code pairing from the car screen.
-- Home screen made of widgets: up to three screens, five ready-made layouts, 19 widgets (map, next turn, speed, cameras, chargers, Home/Work routes, music, messages, contacts, calendar, a phone-app window and more). Arrange, resize and configure them on the car screen: gear → Widgets.
+- Home screen made of widgets: up to three screens, five ready-made layouts, 23 widgets (map, next turn, speed, cameras, chargers, Home/Work routes, music, messages, contacts, calendar, a phone-app window and more). Arrange, resize and configure them on the car screen: gear → Widgets.
 - Apps menu on the car screen: tap Edit to add or remove phone apps without touching the phone. Popular installed apps appear there on first start.
 - Eight visual designs with map, media, and trip previews. The dock's Screens 1/3 › button cycles through three live screens; gear → design catalog opens the style picker.
 - Incoming call card with Answer and Decline buttons.
@@ -38,7 +38,7 @@ If Google Play says the app is not found, you have not joined the group yet or y
 Updates then arrive through Google Play automatically. Do not mix the two ways: the Google Play version and the APK below are signed differently, so one cannot be installed over the other.
 
 ## Download APK
-[Download XiaoDroidLink-7.21.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.21.apk)
+[Download XiaoDroidLink-7.22.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.22.apk)
 
 ## Screenshots
 
@@ -65,7 +65,7 @@ Tap Preview without car in the phone app to inspect the dashboard.
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Install
 
-1. Download [XiaoDroidLink-7.21.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.21.apk).
+1. Download [XiaoDroidLink-7.22.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.22.apk).
 2. Open the APK on your phone.
 3. If Android asks to allow installation from this source, allow it.
 4. Wait for installation to finish.

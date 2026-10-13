@@ -10,7 +10,7 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 
 - Conexión CarLink con Xiaomi YU7.
 - Emparejamiento con código de 6 dígitos mostrado en la pantalla del coche.
-- Pantalla de inicio hecha de widgets: hasta tres pantallas, cinco diseños listos, 19 widgets (mapa, próximo giro, velocidad, radares, cargadores, rutas Casa/Trabajo, música, mensajes, contactos, calendario, ventana de una app del teléfono y más). Ordénelos, cambie su tamaño y ajústelos en la pantalla del coche: engranaje → Widgets.
+- Pantalla de inicio hecha de widgets: hasta tres pantallas, cinco diseños listos, 23 widgets (mapa, próximo giro, velocidad, radares, cargadores, rutas Casa/Trabajo, música, mensajes, contactos, calendario, ventana de una app del teléfono y más). Ordénelos, cambie su tamaño y ajústelos en la pantalla del coche: engranaje → Widgets.
 - Ocho estilos con vistas de mapa, multimedia y viaje. El botón Pantallas 1/3 › del dock cambia entre las tres pantallas; el engranaje abre el catálogo de estilos.
 - Tarjeta de llamada entrante con los botones Responder y Rechazar.
 - Modo pantalla del teléfono: muestra apps del teléfono en la pantalla del coche.
@@ -37,7 +37,7 @@ Después las actualizaciones llegan solas por Google Play. No mezcles los dos m�
 
 ## Descargar APK
 
-[Descargar XiaoDroidLink-7.21.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.21.apk)
+[Descargar XiaoDroidLink-7.22.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.22.apk)
 
 ## Capturas
 
@@ -64,7 +64,7 @@ La opción de vista previa sin coche permite ver el panel en el teléfono.
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Instalación
 
-1. Descarga [XiaoDroidLink-7.21.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.21.apk).
+1. Descarga [XiaoDroidLink-7.22.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.22.apk).
 2. Abre el APK en el teléfono.
 3. Si Android pide permitir instalación desde esta fuente, acéptalo.
 4. Espera a que termine la instalación.
