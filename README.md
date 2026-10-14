@@ -10,9 +10,10 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 
 - Xiaomi YU7 CarLink connection.
 - 6-digit code pairing from the car screen.
-- Home screen made of widgets: up to three screens, five ready-made layouts, 23 widgets (map, next turn, speed, cameras, chargers, Home/Work routes, music, messages, contacts, calendar, a phone-app window and more). Arrange, resize and configure them on the car screen: gear → Widgets.
+- Widget home screen: three ready-made screens plus a blank fourth for your own layout, five presets and 23 widgets. The Edit button beside the screen switcher opens the editor on the car display.
 - Apps menu on the car screen: tap Edit to add or remove phone apps without touching the phone. Popular installed apps appear there on first start.
-- Eight visual designs with map, media, and trip previews. The dock's Screens 1/3 › button cycles through three live screens; gear → design catalog opens the style picker.
+- Eight visual designs with map, media, and trip previews. The dock's Screens 1/4 › button cycles through four screens; gear → design catalog opens the style picker.
+- Every design has day and night artwork. Gear → Dashboard theme offers Auto (by sun), Dark, and Light; gear → Bottom dock changes five app shortcuts and the Music button player.
 - Incoming call card with Answer and Decline buttons.
 - Phone screen mode: show phone apps on the car display.
 - Touch control from the car screen through Android Accessibility.
@@ -38,7 +39,7 @@ If Google Play says the app is not found, you have not joined the group yet or y
 Updates then arrive through Google Play automatically. Do not mix the two ways: the Google Play version and the APK below are signed differently, so one cannot be installed over the other.
 
 ## Download APK
-[Download XiaoDroidLink-7.26.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.26.apk)
+[Download XiaoDroidLink-7.27.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.27.apk)
 
 ## Screenshots
 
@@ -65,7 +66,7 @@ Tap Preview without car in the phone app to inspect the dashboard.
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Install
 
-1. Download [XiaoDroidLink-7.26.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.26.apk).
+1. Download [XiaoDroidLink-7.27.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.27.apk).
 2. Open the APK on your phone.
 3. If Android asks to allow installation from this source, allow it.
 4. Wait for installation to finish.
