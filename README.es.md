@@ -37,7 +37,7 @@ Después las actualizaciones llegan solas por Google Play. No mezcles los dos m�
 
 ## Descargar APK
 
-[Descargar XiaoDroidLink-7.40.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.40.apk)
+[Descargar XiaoDroidLink-7.41.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.41.apk)
 
 ## Capturas
 
@@ -64,7 +64,7 @@ La opción de vista previa sin coche permite ver el panel en el teléfono.
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Instalación
 
-1. Descarga [XiaoDroidLink-7.40.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.40.apk).
+1. Descarga [XiaoDroidLink-7.41.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.41.apk).
 2. Abre el APK en el teléfono.
 3. Si Android pide permitir instalación desde esta fuente, acéptalo.
 4. Espera a que termine la instalación.
