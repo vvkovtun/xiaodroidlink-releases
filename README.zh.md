@@ -22,6 +22,14 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 - 语音提醒：测速摄像头和空袭警报。
 - 支持语言：English、Українська、中文、Français、Español。
 
+## 视频
+
+| 英文演示（49 秒） | 乌克兰语演示（50 秒） |
+|---|---|
+| [![XiaoDroidLink presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4) | [![XiaoDroidLink — презентація українською](https://i.ytimg.com/vi/dEqKUfcbPsQ/hqdefault.jpg)](https://www.youtube.com/shorts/dEqKUfcbPsQ) |
+
+每项功能和小组件的详细说明（英文）：[All features](FEATURES.md) · [Home screen widgets](WIDGETS.md)。
+
 ## 从 Google Play 安装
 
 应用目前在 Google Play 进行封闭测试，需要先加入测试者群组。
@@ -37,7 +45,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 
 ## 下载 APK
 
-[下载 XiaoDroidLink-7.53.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.53.apk)
+[下载 XiaoDroidLink-7.54.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.54.apk)
 
 ## 截图
 
@@ -64,7 +72,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## 安装
 
-1. 下载 [XiaoDroidLink-7.53.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.53.apk)。
+1. 下载 [XiaoDroidLink-7.54.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.54.apk)。
 2. 在手机上打开 APK 文件。
 3. 如果 Android 要求允许从此来源安装，请允许。
 4. 等待安装完成。
