@@ -24,9 +24,9 @@ Ce projet est indépendant. Ce n'est pas un produit officiel Xiaomi, Samsung, IC
 
 ## Vidéos
 
-| Présentation en anglais (49 s) | En ukrainien (50 s) |
-|---|---|
-| [![XiaoDroidLink presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4) | [![XiaoDroidLink — презентація українською](https://i.ytimg.com/vi/dEqKUfcbPsQ/hqdefault.jpg)](https://www.youtube.com/shorts/dEqKUfcbPsQ) |
+Présentation en anglais (49 s) :
+
+[![XiaoDroidLink presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4)
 
 Chaque fonction et widget en détail (en anglais) : [All features](FEATURES.md) · [Home screen widgets](WIDGETS.md).
 
@@ -45,7 +45,7 @@ Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez
 
 ## Télécharger l'APK
 
-[Télécharger XiaoDroidLink-7.54.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.54.apk)
+[Télécharger XiaoDroidLink-7.55.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.55.apk)
 
 ## Captures d'écran
 
@@ -72,7 +72,7 @@ Le bouton d'aperçu sans voiture de l'application permet de voir le tableau de b
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Installation
 
-1. Téléchargez [XiaoDroidLink-7.54.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.54.apk).
+1. Téléchargez [XiaoDroidLink-7.55.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.55.apk).
 2. Ouvrez l'APK sur le téléphone.
 3. Si Android demande l'autorisation d'installer depuis cette source, acceptez.
 4. Attendez la fin de l'installation.

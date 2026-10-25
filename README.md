@@ -27,9 +27,9 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 
 ## Videos
 
-| Presentation in English (49 s) | Українською (50 с) |
-|---|---|
-| [![XiaoDroidLink — presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4) | [![XiaoDroidLink — презентація українською](https://i.ytimg.com/vi/dEqKUfcbPsQ/hqdefault.jpg)](https://www.youtube.com/shorts/dEqKUfcbPsQ) |
+Presentation in English (49 s):
+
+[![XiaoDroidLink — presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4)
 
 Every feature and widget in detail: [All features](FEATURES.md) · [Home screen widgets](WIDGETS.md).
 
@@ -47,7 +47,7 @@ If Google Play says the app is not found, you have not joined the group yet or y
 Updates then arrive through Google Play automatically. Do not mix the two ways: the Google Play version and the APK below are signed differently, so one cannot be installed over the other.
 
 ## Download APK
-[Download XiaoDroidLink-7.54.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.54.apk)
+[Download XiaoDroidLink-7.55.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.55.apk)
 
 ## Screenshots
 
@@ -74,7 +74,7 @@ Tap Preview without car in the phone app to inspect the dashboard.
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Install
 
-1. Download [XiaoDroidLink-7.54.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.54.apk).
+1. Download [XiaoDroidLink-7.55.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.55.apk).
 2. Open the APK on your phone.
 3. If Android asks to allow installation from this source, allow it.
 4. Wait for installation to finish.

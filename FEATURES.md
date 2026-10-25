@@ -6,9 +6,9 @@ Languages: [English](FEATURES.md) · [Українська](FEATURES.ua.md)
 
 ## Videos
 
-| Presentation in English (49 s) | Презентація українською (50 с) |
-|---|---|
-| [![XiaoDroidLink — presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4) | [![XiaoDroidLink — презентація українською](https://i.ytimg.com/vi/dEqKUfcbPsQ/hqdefault.jpg)](https://www.youtube.com/shorts/dEqKUfcbPsQ) |
+Presentation in English (49 s):
+
+[![XiaoDroidLink — presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4)
 
 Short demo (13 s) of the home screen, music, messages, assistant and navigation: [youtube.com/shorts/pdWGhQM3KLc](https://www.youtube.com/shorts/pdWGhQM3KLc). All videos are on the [@XiaoDroidLink](https://www.youtube.com/@XiaoDroidLink/shorts) channel.
 
@@ -38,7 +38,7 @@ Short demo (13 s) of the home screen, music, messages, assistant and navigation:
 ## Music
 
 - Control any phone player: play and pause, previous and next track, seeking, likes.
-- Cover art and title show in the "Music" widget and in the car's player.
+- Cover art and title show in the "Music" widget, in the car's player and on the strip at the bottom of the windshield (HUD).
 - **Voice song search:** tap the microphone on the card and say the song. In YouTube Music an exact match starts right away, otherwise you get three choices.
 - **Lyrics** in sync with the music, in the "Lyrics" widget.
 - **Sound over CarLink (Wi‑Fi).** Music goes to the car over Wi‑Fi, and the phone speaker is muted meanwhile. If the car goes silent, tap pause and then play on the car display: the phone hands its sound to the car again.
@@ -92,5 +92,4 @@ Tip: don't turn on an Accessibility **shortcut** for XiaoDroidLink (the floating
 ## What doesn't work, and why
 
 - **Car battery charge.** The Xiaomi YU7 doesn't send it over CarLink.
-- **Song title on the instrument cluster.** The YU7 only shows it for Bluetooth music, and it doesn't accept Bluetooth music during CarLink.
 - **Calls over Wi‑Fi.** That needs Android system permissions, so calls go through the car's Bluetooth.

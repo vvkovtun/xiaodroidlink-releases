@@ -27,9 +27,9 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 
 ## Відео
 
-| Презентація українською (50 с) | English (49 s) |
-|---|---|
-| [![XiaoDroidLink — презентація українською](https://i.ytimg.com/vi/dEqKUfcbPsQ/hqdefault.jpg)](https://www.youtube.com/shorts/dEqKUfcbPsQ) | [![XiaoDroidLink — presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4) |
+Презентація українською (50 с):
+
+[![XiaoDroidLink — презентація українською](https://i.ytimg.com/vi/dEqKUfcbPsQ/hqdefault.jpg)](https://www.youtube.com/shorts/dEqKUfcbPsQ)
 
 Докладно про кожну функцію й віджет: [Усі можливості](FEATURES.ua.md) · [Віджети головного екрана](WIDGETS.ua.md).
 
@@ -48,7 +48,7 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 
 ## Завантажити APK
 
-[Завантажити XiaoDroidLink-7.54.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.54.apk)
+[Завантажити XiaoDroidLink-7.55.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.55.apk)
 
 ## Скріншоти
 
@@ -75,7 +75,7 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 | ![Налаштування XiaoDroidLink українською](images/xiaodroidlink-ua-settings.png) |
 ## Як встановити
 
-1. Завантаж APK-файл [XiaoDroidLink-7.54.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.54.apk).
+1. Завантаж APK-файл [XiaoDroidLink-7.55.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.55.apk).
 2. Відкрий APK на телефоні.
 3. Якщо Android питає дозвіл на встановлення з цього джерела, дозволь.
 4. Дочекайся завершення встановлення.

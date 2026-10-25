@@ -100,6 +100,7 @@ Option: "Notification text".
 
 **Quick actions** (2×1, 3×1, 4×1, 2×2 …)
 Up to eight buttons: Home, Work, favourite contacts, addresses, map points and apps. Until you change anything, the buttons fill themselves from your addresses, contacts and the "Apps" menu. Build your own set in edit mode, where you can also type an address on the on-screen keyboard.
+**⚡ Request button** sends a request to your own URL (a webhook), so from the car you can open a gate, switch on lights or run an IFTTT applet or a Home Assistant automation. Set the name and the URL (`https://` only) in the phone app: Settings → "Requests for Quick actions". After a tap the car screen shows "done" or why it failed. The URL is stored only on the phone. IFTTT Webhooks need the paid Pro plan.
 
 ### Drive
 
