@@ -23,6 +23,7 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 - Audio through CarLink when Bluetooth audio does not work.
 - App picker for apps shown in the car.
 - Voice warnings for speed cameras and air alerts.
+- Car assistant in your language: press the steering wheel button, say a command, and the phone tells the car in Chinese.
 - Languages: English, Ukrainian, Chinese, French, and Spanish.
 
 ## Videos
@@ -47,7 +48,7 @@ If Google Play says the app is not found, you have not joined the group yet or y
 Updates then arrive through Google Play automatically. Do not mix the two ways: the Google Play version and the APK below are signed differently, so one cannot be installed over the other.
 
 ## Download APK
-[Download XiaoDroidLink-7.60.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.60.apk)
+[Download XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk)
 
 ## Screenshots
 
@@ -74,7 +75,7 @@ Tap Preview without car in the phone app to inspect the dashboard.
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Install
 
-1. Download [XiaoDroidLink-7.60.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.60.apk).
+1. Download [XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk).
 2. Open the APK on your phone.
 3. If Android asks to allow installation from this source, allow it.
 4. Wait for installation to finish.
@@ -130,6 +131,60 @@ Good to know:
 - With Bluetooth connected, music starts in the car about 10 seconds after the picture. The delay is deliberate, so that the car does not drop Bluetooth.
 - The YU7 does not accept music over Bluetooth while CarLink runs, so `Audio through CarLink` must stay on.
 - Tested on the Xiaomi YU7 Max. Now and then the car still drops Bluetooth — repeat steps 2–4.
+
+## Car Assistant In Your Language
+
+The car assistant (XiaoAI, 超级小爱) understands only Chinese. XiaoDroidLink translates for it: you say a command in your language, the phone repeats it in Chinese **through its own speaker**, and the car does it. This way you can control climate, seats, windows, the front trunk, wipers, lights and drive modes.
+
+### Turn It On
+
+1. On the phone: XiaoDroidLink → Settings → the **"Car assistant in your language"** switch.
+2. Allow microphone access if the phone asks.
+3. The phone needs a Chinese text-to-speech voice. Samsung and Google usually have it already. If not, the car shows a hint: Settings → Text-to-speech → install Chinese.
+
+With the switch off, the steering wheel assistant button opens the phone AI as before (ChatGPT, Gemini or the system assistant chosen in "Microphone button").
+
+### Use It
+
+1. Press the **assistant button on the steering wheel** (the left scroll wheel). The car assistant wakes up and the phone listens at the same time. The car shows "Say what the car should do…".
+2. Say a command, for example "open the front trunk".
+3. About 3 seconds later the phone says it in Chinese, and the car does it and answers (also in Chinese). If the phone did not recognise the phrase, the car shows "Didn't understand: …".
+
+To talk to the **phone AI**, press the wheel button and say "artificial intelligence", "AI", "ChatGPT" or "Gemini". The phone asks the car assistant to quit ("退出小爱") and opens the AI.
+
+**Buttons instead of voice:** Edit → Quick actions → Set up → **"🗣 Car voice…"**. It has 43 commands on two pages ("→ More commands"). A tap adds the button to the widget, another tap removes it. After you press the button in the widget, the phone beeps: press the assistant button on the steering wheel, and 2.5 seconds later the phone speaks the command.
+
+### What You Can Say
+
+Use ordinary words. The phone looks for what you want to change and whether it is on or off ("off", "close", "fold" mean off).
+
+| What | Example phrases |
+|---|---|
+| Air conditioning | "turn on the air conditioning", "turn off the climate" |
+| Temperature | "set the temperature to 21 degrees" (any number from 16 to 32), "warmer", "cooler" |
+| Seats | "turn on seat heating", "turn off seat heating", "seat ventilation", "turn off ventilation", "seat massage" |
+| Wheel, glass, mirrors | "steering wheel heating", "rear defrost", "mirror heating" |
+| Windows | "open the windows" ✓, "close the windows" ✓ |
+| Front and rear trunk | "open the front trunk" ✓ (or "hood", "frunk"), "open the trunk", "close the trunk" |
+| Charge port | "open the charge port", "close the charge port" |
+| Mirrors | "fold the mirrors", "unfold the mirrors" |
+| Suspension | "raise the suspension", "lower the suspension" |
+| Wipers | "turn on the wipers" ✓, "turn off the wipers", "wipers faster", "washer" |
+| Lights | "turn on the low beam", "rear fog light", "reading light" |
+| Ambient light | "ambient light", "ambient light brighter", "turn off the ambient light" |
+| Drive modes | "snow mode", "sport mode", "comfort mode", "regen standard", "regen strong" |
+| Sound and screens | "louder", "quieter", "mute navigation", "screen brighter", "instrument cluster brighter" |
+| Phone AI | "artificial intelligence", "AI", "ChatGPT", "Gemini" |
+
+✓ — verified in the car. The other commands come from the YU7's own "Voice Skills" menu and should work the same way, but each one has not been tested yet. The car itself decides whether to do a command: some actions may be allowed only when parked.
+
+### Limitations
+
+- You need the **steering wheel button**. The phone cannot wake the car assistant with "小爱同学": the car only flashes briefly and stops listening (tested with every voice wake setting).
+- Keep the phone **in the cabin** (on the charger or in a holder), not in a pocket or bag: the car has to hear its speaker.
+- The **front trunk cannot be closed by voice**, only opened: the car does not allow it.
+- The car answers in Chinese.
+- If the app language is Chinese, the phone passes the phrase as is. In Chinese you can also simply talk to the car assistant.
 
 ## Recommended Settings
 

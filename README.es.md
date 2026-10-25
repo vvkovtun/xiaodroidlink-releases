@@ -20,6 +20,7 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 - Audio por CarLink cuando el audio Bluetooth no funciona.
 - Selector de apps para mostrar en el coche.
 - Avisos de voz para radares y alertas aéreas.
+- Asistente del coche en tu idioma: botón del volante, una orden, y el teléfono se la dice al coche en chino.
 - Idiomas: English, Українська, 中文, Français, Español.
 
 ## Vídeos
@@ -45,7 +46,7 @@ Después las actualizaciones llegan solas por Google Play. No mezcles los dos m�
 
 ## Descargar APK
 
-[Descargar XiaoDroidLink-7.60.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.60.apk)
+[Descargar XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk)
 
 ## Capturas
 
@@ -72,7 +73,7 @@ La opción de vista previa sin coche permite ver el panel en el teléfono.
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Instalación
 
-1. Descarga [XiaoDroidLink-7.60.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.60.apk).
+1. Descarga [XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk).
 2. Abre el APK en el teléfono.
 3. Si Android pide permitir instalación desde esta fuente, acéptalo.
 4. Espera a que termine la instalación.
@@ -128,6 +129,59 @@ Conviene saber:
 - Con el Bluetooth conectado, la música empieza a sonar en el coche unos 10 segundos después de la imagen. El retraso es intencionado, para que el coche no corte el Bluetooth.
 - El YU7 no acepta música por Bluetooth mientras CarLink funciona, así que `Sonido por CarLink` debe estar activado.
 - Probado en el Xiaomi YU7 Max. De vez en cuando el coche corta el Bluetooth igualmente: repite los pasos 2–4.
+
+## Asistente del coche en tu idioma
+
+El asistente del coche (XiaoAI, 超级小爱) solo entiende chino. XiaoDroidLink traduce para él: dices una orden en tu idioma, el teléfono la repite en chino **por su propio altavoz** y el coche la ejecuta. Así puedes manejar el clima, los asientos, las ventanillas, el maletero delantero, los limpiaparabrisas, las luces y los modos de conducción.
+
+### Activar
+
+1. En el teléfono: XiaoDroidLink → Ajustes → el interruptor **«Asistente del coche en tu idioma»**.
+2. Permite el micrófono si el teléfono lo pide.
+3. El teléfono necesita una voz china de texto a voz. Samsung y Google normalmente ya la tienen. Si no, el coche muestra una pista: Ajustes → Texto a voz → instala el chino.
+
+Con el interruptor apagado, el botón del asistente en el volante abre como antes la IA del teléfono (ChatGPT, Gemini o el asistente del sistema elegido en «Botón de micrófono»).
+
+### Usar
+
+1. Pulsa el **botón del asistente en el volante** (rueda izquierda). El asistente del coche se despierta y el teléfono escucha a la vez. El coche muestra «Di qué debe hacer el coche…».
+2. Di una orden, por ejemplo «abre el maletero delantero».
+3. Unos 3 segundos después el teléfono la dice en chino, y el coche la ejecuta y responde (también en chino). Si el teléfono no reconoció la frase, el coche muestra «No entendí: …».
+
+Para hablar con la **IA del teléfono**, pulsa el botón del volante y di «inteligencia artificial», «AI», «ChatGPT» o «Gemini». El teléfono pide al asistente del coche que salga («退出小爱») y abre la IA.
+
+**Botones sin voz:** Editar → Acciones rápidas → Configurar → **«🗣 Voz del coche…»**. 43 órdenes en dos páginas («→ Más órdenes»). Un toque añade el botón al widget, otro lo quita. Tras pulsar el botón del widget, el teléfono pita: pulsa entonces el botón del asistente en el volante, y 2,5 segundos después el teléfono dice la orden.
+
+### Qué puedes decir
+
+Habla con normalidad. El teléfono busca qué quieres cambiar y si es encender o apagar («apaga», «cierra» significan apagar).
+
+| Qué | Ejemplos |
+|---|---|
+| Aire acondicionado | «enciende el aire», «apaga el aire» |
+| Temperatura | «temperatura 21 grados» (de 16 a 32), «más calor», «más frío» |
+| Asientos | «calefacción del asiento», «apaga la calefacción del asiento», «asiento ventilado», «masaje» |
+| Volante, luneta, retrovisores | «volante calefactado», «desempañado trasero», «retrovisores calefactados» |
+| Ventanillas | «abre las ventanillas» ✓, «cierra las ventanillas» ✓ |
+| Maleteros | «abre el maletero delantero» ✓ (o «capó»), «abre el maletero», «cierra el maletero» |
+| Puerto de carga | «abre el puerto de carga», «cierra el puerto de carga» |
+| Retrovisores | «pliega los retrovisores», «despliega los retrovisores» |
+| Suspensión | «sube la suspensión», «baja la suspensión» |
+| Limpiaparabrisas | «limpiaparabrisas» ✓, «apaga los limpiaparabrisas», «limpiaparabrisas más rápido», «lavaparabrisas» |
+| Luces | «luces de cruce», «antiniebla», «luz de lectura» |
+| Luz ambiental | «luz ambiental», «luz ambiental con más brillo», «apaga la luz ambiental» |
+| Modos de conducción | «modo nieve», «modo sport», «modo confort», «regeneración estándar», «regeneración fuerte» |
+| Sonido y pantallas | «más alto», «más bajo», «navegación en silencio», «pantalla con más brillo», «cuadro con más brillo» |
+| IA del teléfono | «inteligencia artificial», «AI», «ChatGPT», «Gemini» |
+
+✓ — comprobado en el coche. Las demás órdenes vienen del menú «Voice Skills» del propio YU7 y deberían funcionar igual, pero aún no se ha probado cada una. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
+
+### Limitaciones
+
+- Hace falta el **botón del volante**. El teléfono no puede despertar al asistente con «小爱同学»: el coche solo parpadea un momento y no sigue escuchando (probado con todos los ajustes de activación por voz).
+- Deja el teléfono **en el habitáculo** (en el cargador o en un soporte), no en un bolsillo o bolso: el coche tiene que oír su altavoz.
+- El **maletero delantero no se cierra por voz**, solo se abre: el coche no lo permite.
+- El coche responde en chino.
 
 ## Ajustes recomendados
 

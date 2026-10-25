@@ -20,6 +20,7 @@ Ce projet est indépendant. Ce n'est pas un produit officiel Xiaomi, Samsung, IC
 - Audio via CarLink lorsque l'audio Bluetooth ne fonctionne pas.
 - Sélection des applications affichées dans la voiture.
 - Alertes vocales pour radars et alertes aériennes.
+- Assistant de la voiture dans votre langue : bouton du volant, une commande, et le téléphone la transmet en chinois à la voiture.
 - Langues : English, Українська, 中文, Français, Español.
 
 ## Vidéos
@@ -45,7 +46,7 @@ Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez
 
 ## Télécharger l'APK
 
-[Télécharger XiaoDroidLink-7.60.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.60.apk)
+[Télécharger XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk)
 
 ## Captures d'écran
 
@@ -72,7 +73,7 @@ Le bouton d'aperçu sans voiture de l'application permet de voir le tableau de b
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Installation
 
-1. Téléchargez [XiaoDroidLink-7.60.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.60.apk).
+1. Téléchargez [XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk).
 2. Ouvrez l'APK sur le téléphone.
 3. Si Android demande l'autorisation d'installer depuis cette source, acceptez.
 4. Attendez la fin de l'installation.
@@ -128,6 +129,59 @@ Bon à savoir :
 - Avec le Bluetooth connecté, la musique démarre dans la voiture environ 10 secondes après l'image. Ce délai est voulu, pour que la voiture ne coupe pas le Bluetooth.
 - Le YU7 n'accepte pas la musique par Bluetooth pendant CarLink, donc `Son via CarLink` doit rester activé.
 - Testé sur le Xiaomi YU7 Max. Il arrive que la voiture coupe quand même le Bluetooth : refaites les étapes 2 à 4.
+
+## Assistant de la voiture dans votre langue
+
+L'assistant de la voiture (XiaoAI, 超级小爱) ne comprend que le chinois. XiaoDroidLink traduit pour lui : vous dites une commande dans votre langue, le téléphone la répète en chinois **par son propre haut-parleur**, et la voiture l'exécute. Vous pouvez ainsi piloter le climat, les sièges, les vitres, le coffre avant, les essuie-glaces, les feux et les modes de conduite.
+
+### Activer
+
+1. Sur le téléphone : XiaoDroidLink → Réglages → l'interrupteur **« Assistant de la voiture dans votre langue »**.
+2. Autorisez le micro si le téléphone le demande.
+3. Le téléphone a besoin d'une voix chinoise de synthèse vocale. Samsung et Google l'ont en général déjà. Sinon, la voiture affiche une aide : Paramètres → Synthèse vocale → installez le chinois.
+
+Interrupteur désactivé, le bouton de l'assistant au volant ouvre comme avant l'IA du téléphone (ChatGPT, Gemini ou l'assistant système choisi dans « Bouton micro »).
+
+### Utiliser
+
+1. Appuyez sur le **bouton de l'assistant au volant** (molette gauche). L'assistant de la voiture se réveille et le téléphone écoute en même temps. La voiture affiche « Dites ce que la voiture doit faire… ».
+2. Dites une commande, par exemple « ouvre le capot ».
+3. Environ 3 secondes plus tard, le téléphone la dit en chinois, la voiture l'exécute et répond (en chinois aussi). Si le téléphone n'a pas reconnu la phrase, la voiture affiche « Pas compris : … ».
+
+Pour parler à l'**IA du téléphone**, appuyez sur le bouton du volant et dites « intelligence artificielle », « AI », « ChatGPT » ou « Gemini ». Le téléphone demande à l'assistant de la voiture de quitter (« 退出小爱 ») et ouvre l'IA.
+
+**Boutons sans la voix :** Modifier → Actions rapides → Configurer → **« 🗣 Voix voiture… »**. 43 commandes sur deux pages (« → Plus de commandes »). Un appui ajoute le bouton au widget, un second l'enlève. Après un appui sur le bouton du widget, le téléphone bipe : appuyez alors sur le bouton de l'assistant au volant, et 2,5 secondes plus tard le téléphone dit la commande.
+
+### Ce que vous pouvez dire
+
+Parlez normalement. Le téléphone cherche ce que vous voulez changer et s'il faut allumer ou éteindre (« éteins », « ferme » veulent dire éteindre).
+
+| Quoi | Exemples |
+|---|---|
+| Climatisation | « allume la clim », « éteins la clim » |
+| Température | « température 21 degrés » (de 16 à 32), « plus chaud », « plus frais » |
+| Sièges | « siège chauffant », « éteins le siège chauffant », « siège ventilé », « massage » |
+| Volant, vitre, rétros | « volant chauffant », « dégivrage arrière », « rétros chauffants » |
+| Vitres | « ouvre les vitres » ✓, « ferme les vitres » ✓ |
+| Coffres | « ouvre le capot » ✓ (ou « coffre avant »), « ouvre le coffre », « ferme le coffre » |
+| Trappe de charge | « ouvre la trappe de charge », « ferme la trappe » |
+| Rétroviseurs | « rabats les rétros », « déplie les rétros » |
+| Suspension | « suspension plus haute », « baisse la suspension » |
+| Essuie-glaces | « essuie-glaces » ✓, « éteins les essuie-glaces », « essuie-glaces plus vite », « lave-glace » |
+| Feux | « feux de croisement », « antibrouillard », « liseuse » (« lecture ») |
+| Éclairage d'ambiance | « ambiance », « ambiance plus lumineuse », « éteins l'ambiance » |
+| Modes de conduite | « mode neige », « mode sport », « mode confort », « récupération standard », « récupération forte » |
+| Son et écrans | « plus fort », « moins fort », « navigation en silence », « écran plus lumineux », « tableau de bord plus lumineux » |
+| IA du téléphone | « intelligence artificielle », « AI », « ChatGPT », « Gemini » |
+
+✓ — vérifié dans la voiture. Les autres commandes viennent du menu « Voice Skills » de la YU7 et devraient marcher de la même façon, mais chacune n'a pas encore été testée. C'est la voiture qui décide d'exécuter : certaines actions peuvent n'être permises qu'à l'arrêt.
+
+### Limites
+
+- Il faut le **bouton du volant**. Le téléphone ne peut pas réveiller l'assistant avec « 小爱同学 » : la voiture clignote brièvement et n'écoute pas la suite (testé avec tous les réglages d'activation vocale).
+- Gardez le téléphone **dans l'habitacle** (sur le chargeur ou un support), pas dans une poche ou un sac : la voiture doit entendre son haut-parleur.
+- Le **coffre avant ne se ferme pas à la voix**, il s'ouvre seulement : la voiture ne le permet pas.
+- La voiture répond en chinois.
 
 ## Réglages recommandés
 

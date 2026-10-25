@@ -20,6 +20,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 - 当蓝牙音频不可用时，可通过 CarLink 传输音频。
 - 可选择要显示在车机中的应用。
 - 语音提醒：测速摄像头和空袭警报。
+- 用你的语言使用车机助手：按方向盘按钮说出指令，手机用中文转告车辆。
 - 支持语言：English、Українська、中文、Français、Español。
 
 ## 视频
@@ -45,7 +46,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 
 ## 下载 APK
 
-[下载 XiaoDroidLink-7.60.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.60.apk)
+[下载 XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk)
 
 ## 截图
 
@@ -72,7 +73,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## 安装
 
-1. 下载 [XiaoDroidLink-7.60.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.60.apk)。
+1. 下载 [XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk)。
 2. 在手机上打开 APK 文件。
 3. 如果 Android 要求允许从此来源安装，请允许。
 4. 等待安装完成。
@@ -128,6 +129,42 @@ Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
 - 蓝牙已连接时，音乐会在画面出现约 10 秒后才在车内播放。这是有意的延迟，避免车辆断开蓝牙。
 - CarLink 运行时 YU7 不接受蓝牙音乐，因此 `通过 CarLink 播放音频` 必须保持开启。
 - 已在 Xiaomi YU7 Max 上测试。车辆偶尔仍会断开蓝牙，此时重复第 2–4 步。
+
+## 用你的语言使用车机助手
+
+车机助手（超级小爱）只听得懂中文。XiaoDroidLink 为其他语言的用户转述：用户用自己的语言说出指令，手机**用自己的扬声器**以中文复述，车辆执行。可以控制空调、座椅、车窗、前备箱、雨刮、灯光和驾驶模式。
+
+如果你会说中文，直接对车机助手说就行，不需要这个功能。应用语言为中文时，手机会把听到的中文原样转述。
+
+### 开启
+
+1. 手机上：XiaoDroidLink → 设置 → 打开 **“用你的语言使用车机助手”** 开关。
+2. 如果手机询问，允许使用麦克风。
+3. 手机需要中文语音合成（Samsung 和 Google 一般自带）。如果没有，车机屏幕会提示：设置 → 文字转语音 → 安装中文。
+
+开关关闭时，方向盘语音按钮仍和以前一样打开手机 AI（在“麦克风按钮”中选择的 ChatGPT、Gemini 或系统助手）。
+
+### 使用
+
+1. 按下**方向盘上的语音按钮**（左侧滚轮）。车机助手被唤醒，手机同时开始聆听，车机屏幕显示“请说出要车辆做什么…”。
+2. 用应用语言说出指令。
+3. 约 3 秒后，手机用中文说出指令，车辆执行并用中文回答。如果手机没有识别出指令，车机屏幕显示“没听懂：…”。
+
+说“人工智能”、“AI”、“ChatGPT”或“Gemini”可打开**手机 AI**：手机先让车机助手退出（“退出小爱”），再打开 AI。
+
+**不用语音的按钮：**编辑 → 快捷操作 → 设置 → **“🗣 车机语音…”**，两页共 43 条指令（“→ 更多指令”）。点按添加到小组件，再点一次移除。点按小组件中的按钮后手机会响一声：此时按下方向盘语音按钮，2.5 秒后手机说出指令。
+
+### 支持的指令
+
+空调开/关；温度 16–32 度、调高、调低；座椅加热、通风、按摩；方向盘加热；后窗除霜；后视镜加热、折叠、展开；车窗开 ✓ / 关 ✓；打开前备箱 ✓；后备箱开/关；充电口开/关；悬挂升高/降低；雨刮 ✓、雨刮快一点、雨刮洗涤；近光灯；后雾灯；阅读灯；氛围灯、调亮；雪地模式；运动模式；舒适模式；能量回收标准/强；音乐音量大一点/小一点；导航静音；中控屏、仪表屏调亮。
+
+✓ 表示已在车上验证。其余指令来自 YU7 自带的“语音技能”菜单，应同样有效，但尚未逐条测试。是否执行由车辆决定：部分操作可能只在驻车时允许。
+
+### 限制
+
+- 必须使用**方向盘按钮**。手机无法用“小爱同学”唤醒车机助手：车机只会短暂闪烁，不继续聆听（所有语音唤醒设置都试过）。
+- 手机需放在**车内**（充电座或支架上），不要放在口袋或包里：车辆需要听到手机扬声器的声音。
+- **前备箱只能用语音打开，不能关闭**：车辆不允许。
 
 ## 建议设置
 
