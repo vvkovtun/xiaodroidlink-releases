@@ -55,7 +55,8 @@ Short demo (13 s) of the home screen, music, messages, assistant and navigation:
   - a blue car arrow even without a heading from the phone.
 - **Route from the car display:** "Route" on the map, then type the address on the on-screen keyboard or say it through the car microphone, then pick the address and route.
 - **Home and Work** in one tap, plus recent places, calendar events with an address and the nearest chargers.
-- **Inertial map tracking** smooths GPS jumps and bridges short signal losses, up to about 10 seconds.
+- **Inertial map tracking** smooths GPS jumps. If GPS drops out or is spoofed (jamming), the arrow keeps moving at the car's speed: along the route line with directions when a route is set, otherwise by heading and the phone's gyroscope for up to 3 minutes.
+- **Map without a connection:** the built-in map keeps the places you have already driven (up to 300 MB) and has a night look with readable street names.
 - You can point address search and routing at your own servers in settings.
 
 ## Safety on the road

@@ -46,7 +46,8 @@ The map chosen in settings: the built-in OpenStreetMap, or Google Maps, Waze or 
 - the microphone lets you say an address;
 - "Route" opens the route planner on the car display.
 
-The built-in map has `+` and `−`, "Driving ↑" (zoom 15, car centred, direction of travel up) and "Route".
+The built-in map has the same button strip: "Address", "Route", "Home", "Work", "Where am I" (follow the car again) and "Compass" (north up or direction of travel up). `+` and `−` sit on the map itself. At night the map is dark and street names stay readable. While driving, the car sits below the centre so you see more of the road ahead.
+The phone keeps the map of places you have already driven (up to 300 MB), so it stays there without a connection. If GPS drops out or is spoofed (jamming), the arrow turns grey and keeps moving at the car's speed: along the route line with turn directions when a route is set, otherwise by heading and the phone's gyroscope for up to 3 minutes. A "GPS lost" note shows at the bottom of the map.
 Option: "Phone map: fill card (crop edges)".
 Only one "live" widget can be on a screen: either the phone map or "Phone screen".
 
