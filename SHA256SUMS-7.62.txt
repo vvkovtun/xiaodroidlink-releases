@@ -1,0 +1,2 @@
+89837cb1a377aa038c9b88c57d2eda466d63acd07f7cca0fa6640e80908dc970  XiaoDroidLink-7.62.apk
+c3ac77cb2f2a3b51a50ab4edee619f6657bfabefd204af37e59a8a771bf509e2  XiaoDroidLink-7.62.aab

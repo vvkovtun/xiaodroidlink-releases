@@ -48,7 +48,7 @@ If Google Play says the app is not found, you have not joined the group yet or y
 Updates then arrive through Google Play automatically. Do not mix the two ways: the Google Play version and the APK below are signed differently, so one cannot be installed over the other.
 
 ## Download APK
-[Download XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk)
+[Download XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk)
 
 ## Screenshots
 
@@ -75,7 +75,7 @@ Tap Preview without car in the phone app to inspect the dashboard.
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Install
 
-1. Download [XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk).
+1. Download [XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk).
 2. Open the APK on your phone.
 3. If Android asks to allow installation from this source, allow it.
 4. Wait for installation to finish.
@@ -158,6 +158,8 @@ To talk to the **phone AI**, press the wheel button and say "artificial intellig
 
 Use ordinary words. The phone looks for what you want to change and whether it is on or off ("off", "close", "fold" mean off).
 
+In Ukrainian the app also understands Russian and mixed words ("открой окно", "выключи кондиционер", "подогрев руля").
+
 | What | Example phrases |
 |---|---|
 | Air conditioning | "turn on the air conditioning", "turn off the climate" |
@@ -174,7 +176,10 @@ Use ordinary words. The phone looks for what you want to change and whether it i
 | Ambient light | "ambient light", "ambient light brighter", "turn off the ambient light" |
 | Drive modes | "snow mode", "sport mode", "comfort mode", "regen standard", "regen strong" |
 | Sound and screens | "louder", "quieter", "mute navigation", "screen brighter", "instrument cluster brighter" |
+| Battery and range | "battery level", "how far can I drive", "range" — the car answers aloud and the phone shows the numbers: "Battery 72%, range 350 km". The battery also appears in the widgets. |
 | Phone AI | "artificial intelligence", "AI", "ChatGPT", "Gemini" |
+
+You can add "driver" or "passenger" for seats, windows, temperature and the reading light: "passenger seat heating", "open the driver window", "driver temperature 22 degrees". The ambient light can change colour: "ambient light blue" (red, orange, yellow, green, cyan, blue, purple, pink, white). Just "light" turns on the cabin light.
 
 ✓ — verified in the car. The other commands come from the YU7's own "Voice Skills" menu and should work the same way, but each one has not been tested yet. The car itself decides whether to do a command: some actions may be allowed only when parked.
 

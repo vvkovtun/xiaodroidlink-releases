@@ -46,7 +46,7 @@ Después las actualizaciones llegan solas por Google Play. No mezcles los dos m�
 
 ## Descargar APK
 
-[Descargar XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk)
+[Descargar XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk)
 
 ## Capturas
 
@@ -73,7 +73,7 @@ La opción de vista previa sin coche permite ver el panel en el teléfono.
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Instalación
 
-1. Descarga [XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk).
+1. Descarga [XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk).
 2. Abre el APK en el teléfono.
 3. Si Android pide permitir instalación desde esta fuente, acéptalo.
 4. Espera a que termine la instalación.
@@ -172,7 +172,10 @@ Habla con normalidad. El teléfono busca qué quieres cambiar y si es encender o
 | Luz ambiental | «luz ambiental», «luz ambiental con más brillo», «apaga la luz ambiental» |
 | Modos de conducción | «modo nieve», «modo sport», «modo confort», «regeneración estándar», «regeneración fuerte» |
 | Sonido y pantallas | «más alto», «más bajo», «navegación en silencio», «pantalla con más brillo», «cuadro con más brillo» |
+| Batería y autonomía | «batería», «autonomía» — el coche responde en voz alta y el teléfono muestra las cifras: «Batería 72 %, autonomía 350 km». La batería aparece también en los widgets. |
 | IA del teléfono | «inteligencia artificial», «AI», «ChatGPT», «Gemini» |
+
+Para asientos, ventanillas, temperatura y luz de lectura puedes añadir «conductor» o «pasajero»: «calefacción del asiento del pasajero», «abre la ventanilla del conductor», «temperatura del conductor 22 grados». La luz ambiental cambia de color: «luz ambiental azul» (roja, naranja, amarilla, verde, celeste, azul, morada, rosa, blanca). Solo «luz» enciende la luz del habitáculo.
 
 ✓ — comprobado en el coche. Las demás órdenes vienen del menú «Voice Skills» del propio YU7 y deberían funcionar igual, pero aún no se ha probado cada una. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
 

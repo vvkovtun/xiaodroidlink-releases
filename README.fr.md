@@ -46,7 +46,7 @@ Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez
 
 ## Télécharger l'APK
 
-[Télécharger XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk)
+[Télécharger XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk)
 
 ## Captures d'écran
 
@@ -73,7 +73,7 @@ Le bouton d'aperçu sans voiture de l'application permet de voir le tableau de b
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Installation
 
-1. Téléchargez [XiaoDroidLink-7.61.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.61.apk).
+1. Téléchargez [XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk).
 2. Ouvrez l'APK sur le téléphone.
 3. Si Android demande l'autorisation d'installer depuis cette source, acceptez.
 4. Attendez la fin de l'installation.
@@ -172,7 +172,10 @@ Parlez normalement. Le téléphone cherche ce que vous voulez changer et s'il fa
 | Éclairage d'ambiance | « ambiance », « ambiance plus lumineuse », « éteins l'ambiance » |
 | Modes de conduite | « mode neige », « mode sport », « mode confort », « récupération standard », « récupération forte » |
 | Son et écrans | « plus fort », « moins fort », « navigation en silence », « écran plus lumineux », « tableau de bord plus lumineux » |
+| Batterie et autonomie | « batterie », « autonomie » — la voiture répond à voix haute et le téléphone affiche les chiffres : « Batterie 72 %, autonomie 350 km ». La batterie apparaît aussi dans les widgets. |
 | IA du téléphone | « intelligence artificielle », « AI », « ChatGPT », « Gemini » |
+
+Pour les sièges, les vitres, la température et la liseuse, vous pouvez préciser « conducteur » ou « passager » : « siège chauffant passager », « ouvre la vitre conducteur », « température conducteur 22 degrés ». L'éclairage d'ambiance change de couleur : « ambiance bleue » (rouge, orange, jaune, verte, bleu clair, bleue, violette, rose, blanche). Simplement « lumière » allume l'éclairage de l'habitacle.
 
 ✓ — vérifié dans la voiture. Les autres commandes viennent du menu « Voice Skills » de la YU7 et devraient marcher de la même façon, mais chacune n'a pas encore été testée. C'est la voiture qui décide d'exécuter : certaines actions peuvent n'être permises qu'à l'arrêt.
 
