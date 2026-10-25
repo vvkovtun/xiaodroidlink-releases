@@ -103,6 +103,8 @@ Option: "Notification text".
 Up to eight buttons: Home, Work, favourite contacts, addresses, map points and apps. Until you change anything, the buttons fill themselves from your addresses, contacts and the "Apps" menu. Build your own set in edit mode, where you can also type an address on the on-screen keyboard.
 **⚡ Request button** sends a request to your own URL (a webhook), so from the car you can open a gate, switch on lights or run an IFTTT applet or a Home Assistant automation. Set the name and the URL (`https://` only) in the phone app: Settings → "⚡ Requests: smart home, IFTTT" → "+ Add request". The button appears in the widget right away. If you remove it, it stays in the "+" list in the car (Edit → Quick actions), and "⚡ Request…" there reminds you where to add a new one. After a tap the car screen shows "done" or why it failed. The URL is stored only on the phone. IFTTT Webhooks need the paid Pro plan.
 
+**🗣 Car voice buttons** control the car itself: climate and temperature, seat heating and ventilation, steering wheel and mirror heating, windows, front and rear trunk, charge port, wipers, lights, ambient light, drive modes, regeneration, volume. Add them in the car: Edit → Quick actions → Set up → "🗣 Car voice…" (43 commands on two pages). After a tap the phone beeps: press the assistant button on the steering wheel, and 2.5 s later the phone speaks the command in Chinese.
+
 ### Drive
 
 **Speed** (1×1, 2×2, 3×2, 3×4)
