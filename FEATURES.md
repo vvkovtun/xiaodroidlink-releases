@@ -63,7 +63,7 @@ Short demo (13 s) of the home screen, music, messages, assistant and navigation:
 
 - **Speed cameras** across Ukraine from OpenStreetMap, only those in your direction. A voice warns ahead of time.
 - **Air-raid alerts** for your district and region, with a spoken warning. Protection against GPS jamming: if the location suddenly jumps far away, it is ignored for 20 minutes.
-- **Voice in the driver's headrest.** While music plays, warnings and route directions play as a separate stream, like the YU7's own prompts, and don't stop the music. When the music is stopped they come from the cabin speakers: a headrest prompt at that moment makes the YU7 drop the phone's music until reconnecting.
+- **Voice in the driver's headrest.** Warnings and route directions play as a separate stream, like the YU7's own prompts, and don't stop the music.
 - **Private mode** hides message text and senders when you have passengers.
 - The home screen can't be edited while driving.
 
