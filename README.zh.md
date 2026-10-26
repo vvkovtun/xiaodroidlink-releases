@@ -33,20 +33,15 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 
 ## 从 Google Play 安装
 
-应用目前在 Google Play 进行封闭测试，需要先加入测试者群组。
+XiaoDroidLink 已在 Google Play 上架。
 
-1. 打开群组：[https://groups.google.com/g/xiaodroid-testers](https://groups.google.com/g/xiaodroid-testers)
-2. 点按“加入群组”（使用手机上 Google Play 的同一个 Google 账号）。
-3. 在 Google Play 打开 XiaoDroidLink：[https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
-4. 点按“安装”。
+1. 在手机上用 Google Play 打开 XiaoDroidLink：[https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
+2. 点按“安装”。
+3. 打开 XiaoDroidLink。
 
-如果 Google Play 提示找不到应用，说明你还没有加入群组，或登录的是其他账号。加入后可能需要几分钟才能生效。
+之后更新会通过 Google Play 自动推送。
 
-之后更新会通过 Google Play 自动推送。两种方式不要混用：Google Play 版本和下面的 APK 签名不同，无法互相覆盖安装。
-
-## 下载 APK
-
-[下载 XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk)
+如果你之前用 APK 文件安装过 XiaoDroidLink，请先卸载：APK 和 Google Play 版本签名不同，Google Play 无法覆盖安装。重新安装后，请再次输入车机屏幕上的代码。
 
 ## 截图
 
@@ -71,21 +66,6 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 | 设置 |
 |---|
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
-## 安装
-
-1. 下载 [XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk)。
-2. 在手机上打开 APK 文件。
-3. 如果 Android 要求允许从此来源安装，请允许。
-4. 等待安装完成。
-5. 打开 XiaoDroidLink。
-
-如果安装 APK 后 Android 不允许启用无障碍服务，请打开：
-
-```text
-Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
-```
-
-然后回到 XiaoDroidLink，再次打开权限页面。
 
 ## 首次设置
 
@@ -132,7 +112,7 @@ Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
 
 ## 用你的语言使用车机助手
 
-车机助手（超级小爱）只听得懂中文。XiaoDroidLink 为其他语言的用户转述：用户用自己的语言说出指令，手机**用自己的扬声器**以中文复述，车辆执行。可以控制空调、座椅、车窗、前备箱、雨刮、车内灯和氛围灯。
+车机助手（超级小爱）只听得懂中文。XiaoDroidLink 为其他语言的用户转述：用户用自己的语言说出指令，手机**用自己的扬声器**以中文复述，车辆执行。可以控制空调、座椅、车窗、前备箱、雨刮、灯光和屏幕主题。
 
 如果你会说中文，直接对车机助手说就行，不需要这个功能。应用语言为中文时，手机会把听到的中文原样转述。
 
@@ -152,13 +132,13 @@ Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
 
 说“人工智能”、“AI”、“ChatGPT”或“Gemini”可打开**手机 AI**：手机先让车机助手退出（“退出小爱”），再打开 AI。
 
-**不用语音的按钮：**编辑 → 快捷操作 → 设置 → **“🗣 车机语音…”**，三页共 52 条指令（“→ 更多指令”）。点按添加到小组件，再点一次移除。点按小组件中的按钮后手机会响一声：此时按下方向盘语音按钮，2.5 秒后手机说出指令。
+**屏幕上的指令列表：**车机上点齿轮 → **“🗣 助手指令”**（设置顶部）；手机上在“用你的语言使用车机助手”开关下方点 **“助手指令”**。列表只包含已在车上验证的指令，以及车辆无法语音控制的功能。
 
 ### 支持的指令
 
-已在车上验证：温度调高、调低；座椅加热（可加“驾驶员”或“乘客”）、通风、按摩；方向盘加热；后窗除霜；后视镜加热、折叠；车窗开、关；打开前备箱；后备箱开、关；充电口开、关；雨刮、雨刮洗涤；车内灯开、关；氛围灯。
+已在车上验证：温度调高、调低；座椅加热（可加“驾驶员”“乘客”或“后排”）、通风、按摩；方向盘加热；后窗除霜；前挡除雾；后视镜加热、折叠、展开；车窗开、关；打开前备箱；后备箱开、关；充电口开、关；雨刮、雨刮洗涤；车内灯开、关；后雾灯；浅色、深色模式。远光灯无法语音控制，请使用左侧拨杆，手机会提示。
 
-这里只列出 2026 年 10 月 25–26 日在车上验证过的指令。手机还能转述更多指令（温度数值、驾驶模式、远光灯、前挡除雾、氛围灯颜色、电量和续航、设置页面），仍在测试中，验证后会补充到这里。是否执行由车辆决定：部分操作可能只在驻车时允许。
+这里只列出 2026 年 10 月 25–26 日在车上验证过的指令。手机还能转述更多指令（温度数值、驾驶模式、氛围灯及颜色、电量和续航、音量数值），仍在测试中，验证后会补充到这里。是否执行由车辆决定：部分操作可能只在驻车时允许。
 
 ### 限制
 

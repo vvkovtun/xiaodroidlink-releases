@@ -33,20 +33,15 @@ Cada función y widget en detalle (en inglés): [All features](FEATURES.md) · [
 
 ## Instalar desde Google Play
 
-La app está en prueba cerrada en Google Play, así que primero hay que unirse al grupo de testers.
+XiaoDroidLink está en Google Play.
 
-1. Abre el grupo: [https://groups.google.com/g/xiaodroid-testers](https://groups.google.com/g/xiaodroid-testers)
-2. Toca «Unirse al grupo» (con la misma cuenta de Google que usas en Google Play en el teléfono).
-3. Abre XiaoDroidLink en Google Play: [https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
-4. Toca «Instalar».
+1. Abre XiaoDroidLink en Google Play en el teléfono: [https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
+2. Toca «Instalar».
+3. Abre XiaoDroidLink.
 
-Si Google Play dice que no encuentra la app, aún no te has unido al grupo o has iniciado sesión con otra cuenta. El acceso puede tardar unos minutos tras unirte.
+Las actualizaciones llegan solas por Google Play.
 
-Después las actualizaciones llegan solas por Google Play. No mezcles los dos métodos: la versión de Google Play y el APK de abajo tienen firmas distintas, así que una no se puede instalar sobre la otra.
-
-## Descargar APK
-
-[Descargar XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk)
+Si antes instalaste XiaoDroidLink desde un archivo APK, desinstálalo primero: el APK y la versión de Google Play tienen firmas distintas, así que Google Play no puede instalar encima. Después de reinstalar, introduce de nuevo el código de la pantalla del coche.
 
 ## Capturas
 
@@ -71,21 +66,6 @@ La opción de vista previa sin coche permite ver el panel en el teléfono.
 | Ajustes |
 |---|
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
-## Instalación
-
-1. Descarga [XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk).
-2. Abre el APK en el teléfono.
-3. Si Android pide permitir instalación desde esta fuente, acéptalo.
-4. Espera a que termine la instalación.
-5. Abre XiaoDroidLink.
-
-Si Android no permite activar Accesibilidad después de instalar el APK, abre:
-
-```text
-Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
-```
-
-Luego vuelve a XiaoDroidLink y abre la sección de permisos.
 
 ## Primera configuración
 
@@ -132,7 +112,7 @@ Conviene saber:
 
 ## Asistente del coche en tu idioma
 
-El asistente del coche (XiaoAI, 超级小爱) solo entiende chino. XiaoDroidLink traduce para él: dices una orden en tu idioma, el teléfono la repite en chino **por su propio altavoz** y el coche la ejecuta. Así puedes manejar el clima, los asientos, las ventanillas, el maletero delantero, los limpiaparabrisas, la luz del habitáculo y la ambiental.
+El asistente del coche (XiaoAI, 超级小爱) solo entiende chino. XiaoDroidLink traduce para él: dices una orden en tu idioma, el teléfono la repite en chino **por su propio altavoz** y el coche la ejecuta. Así puedes manejar el clima, los asientos, las ventanillas, el maletero delantero, los limpiaparabrisas, las luces y el tema de la pantalla.
 
 ### Activar
 
@@ -150,7 +130,7 @@ Con el interruptor apagado, el botón del asistente en el volante abre como ante
 
 Para hablar con la **IA del teléfono**, pulsa el botón del volante y di «inteligencia artificial», «AI», «ChatGPT» o «Gemini». El teléfono pide al asistente del coche que salga («退出小爱») y abre la IA.
 
-**Botones sin voz:** Editar → Acciones rápidas → Configurar → **«🗣 Voz del coche…»**. 52 órdenes en tres páginas («→ Más órdenes»). Un toque añade el botón al widget, otro lo quita. Tras pulsar el botón del widget, el teléfono pita: pulsa entonces el botón del asistente en el volante, y 2,5 segundos después el teléfono dice la orden.
+**Lista de órdenes en pantalla:** en el coche, engranaje → **«🗣 Órdenes del asistente»** (arriba en los ajustes); en el teléfono, el botón **«Órdenes del asistente»** bajo el interruptor «Asistente del coche en tu idioma». Solo aparecen las órdenes verificadas en el coche y lo que el coche no hace por voz.
 
 ### Qué puedes decir
 
@@ -160,19 +140,19 @@ Habla con normalidad. El teléfono busca qué quieres cambiar y si es encender o
 |---|---|
 | Temperatura | «más calor», «más frío» |
 | Asientos | «calefacción del asiento», «apaga la calefacción del asiento», «asiento ventilado», «apaga la ventilación», «masaje» |
-| Volante, luneta, retrovisores | «volante calefactado», «desempañado trasero», «retrovisores calefactados» |
+| Volante, cristales, retrovisores | «volante calefactado», «desempañado trasero», «desempañado del parabrisas», «retrovisores calefactados» |
 | Ventanillas | «abre las ventanillas», «cierra las ventanillas» |
 | Maleteros | «abre el maletero delantero» (o «capó»), «abre el maletero», «cierra el maletero» |
 | Puerto de carga | «abre el puerto de carga», «cierra el puerto de carga» |
-| Retrovisores | «pliega los retrovisores» |
+| Retrovisores | «pliega los retrovisores», «despliega los retrovisores» |
 | Limpiaparabrisas | «limpiaparabrisas», «lavaparabrisas» |
-| Luz del habitáculo | «enciende la luz», «apaga la luz» |
-| Luz ambiental | «luz ambiental» |
+| Luces | «enciende la luz», «apaga la luz» (habitáculo), «antiniebla» (trasera) |
+| Tema de la pantalla | «tema claro», «tema oscuro» |
 | IA del teléfono | «inteligencia artificial», «AI», «ChatGPT», «Gemini» |
 
-Para la calefacción del asiento puedes añadir «conductor» o «pasajero»: «calefacción del asiento del pasajero», «calefacción del asiento del conductor».
+Para la calefacción del asiento puedes añadir «conductor» o «pasajero»: «calefacción del asiento del pasajero», «calefacción del asiento del conductor», «calefacción de los asientos traseros». El coche no enciende las luces largas por voz, solo con la palanca izquierda; el teléfono te lo indica.
 
-Aquí solo están las órdenes comprobadas en el coche el 25 y 26 de octubre de 2026. El teléfono entiende más (temperatura en grados, modos de conducción, luces largas, parabrisas, colores de la luz ambiental, batería y autonomía, páginas de ajustes); aún las estamos probando y las añadiremos aquí. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
+Aquí solo están las órdenes comprobadas en el coche el 25 y 26 de octubre de 2026. El teléfono entiende más (temperatura en grados, modos de conducción, luz ambiental y colores, batería y autonomía, volumen en cifras); aún las estamos probando y las añadiremos aquí. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
 
 ### Limitaciones
 

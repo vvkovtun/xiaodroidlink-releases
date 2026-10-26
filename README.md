@@ -36,19 +36,15 @@ Every feature and widget in detail: [All features](FEATURES.md) · [Home screen 
 
 ## Install from Google Play
 
-The app is in closed testing on Google Play, so you first join the testers group.
+XiaoDroidLink is available on Google Play.
 
-1. Open the group: [https://groups.google.com/g/xiaodroid-testers](https://groups.google.com/g/xiaodroid-testers)
-2. Tap "Join group" (use the same Google account as in Google Play on your phone).
-3. Open XiaoDroidLink in Google Play: [https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
-4. Tap "Install".
+1. Open XiaoDroidLink in Google Play on your phone: [https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
+2. Tap "Install".
+3. Open XiaoDroidLink.
 
-If Google Play says the app is not found, you have not joined the group yet or you are signed in with another account. Access can take a few minutes to appear after joining.
+Updates arrive through Google Play automatically.
 
-Updates then arrive through Google Play automatically. Do not mix the two ways: the Google Play version and the APK below are signed differently, so one cannot be installed over the other.
-
-## Download APK
-[Download XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk)
+If you installed XiaoDroidLink from an APK file before, uninstall it first: the APK and the Google Play version are signed differently, so Google Play cannot install over it. After reinstalling, enter the code from the car screen again.
 
 ## Screenshots
 
@@ -73,21 +69,6 @@ Tap Preview without car in the phone app to inspect the dashboard.
 | Settings |
 |---|
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
-## Install
-
-1. Download [XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk).
-2. Open the APK on your phone.
-3. If Android asks to allow installation from this source, allow it.
-4. Wait for installation to finish.
-5. Open XiaoDroidLink.
-
-If Android does not let you enable Accessibility after installing the APK, open:
-
-```text
-Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
-```
-
-Then return to XiaoDroidLink and open the Permissions section again.
 
 ## First Setup
 
@@ -134,7 +115,7 @@ Good to know:
 
 ## Car Assistant In Your Language
 
-The car assistant (XiaoAI, 超级小爱) understands only Chinese. XiaoDroidLink translates for it: you say a command in your language, the phone repeats it in Chinese **through its own speaker**, and the car does it. This way you can control climate, seats, windows, the front trunk, wipers, cabin and ambient lights.
+The car assistant (XiaoAI, 超级小爱) understands only Chinese. XiaoDroidLink translates for it: you say a command in your language, the phone repeats it in Chinese **through its own speaker**, and the car does it. This way you can control climate, seats, windows, the front trunk, wipers, lights and the screen theme.
 
 ### Turn It On
 
@@ -152,7 +133,7 @@ With the switch off, the steering wheel assistant button opens the phone AI as b
 
 To talk to the **phone AI**, press the wheel button and say "artificial intelligence", "AI", "ChatGPT" or "Gemini". The phone asks the car assistant to quit ("退出小爱") and opens the AI.
 
-**Buttons instead of voice:** Edit → Quick actions → Set up → **"🗣 Car voice…"**. It has 52 commands on three pages ("→ More commands"). A tap adds the button to the widget, another tap removes it. After you press the button in the widget, the phone beeps: press the assistant button on the steering wheel, and 2.5 seconds later the phone speaks the command.
+**Command list on the screen:** in the car, gear → **"🗣 Assistant commands"** (top of the settings); on the phone, the **"Assistant commands"** button under the "Car assistant in your language" switch. Both show only the commands verified in the car, plus what the car does not do by voice.
 
 ### What You Can Say
 
@@ -164,19 +145,19 @@ In Ukrainian the app also understands Russian and mixed words ("открой о�
 |---|---|
 | Temperature | "warmer", "cooler" |
 | Seats | "seat heating", "turn off seat heating", "seat ventilation", "turn off ventilation", "seat massage" |
-| Wheel, glass, mirrors | "steering wheel heating", "rear defrost", "mirror heating" |
+| Wheel, glass, mirrors | "steering wheel heating", "rear defrost", "windshield defog", "mirror heating" |
 | Windows | "open the windows", "close the windows" |
 | Front and rear trunk | "open the front trunk" (or "hood", "frunk"), "open the trunk", "close the trunk" |
 | Charge port | "open the charge port", "close the charge port" |
-| Mirrors | "fold the mirrors" |
+| Mirrors | "fold the mirrors", "unfold the mirrors" |
 | Wipers | "turn on the wipers", "washer" |
-| Cabin light | "turn on the light", "turn off the light" |
-| Ambient light | "ambient light" |
+| Lights | "turn on the light", "turn off the light" (cabin), "fog light" (rear) |
+| Screen theme | "light theme", "dark theme" |
 | Phone AI | "artificial intelligence", "AI", "ChatGPT", "Gemini" |
 
-For seat heating you can add "driver" or "passenger": "passenger seat heating", "driver seat heating".
+For seat heating you can add "driver" or "passenger": "passenger seat heating", "driver seat heating", "rear seat heating". The car does not switch the high beam by voice, only with the left stalk; the phone tells you so.
 
-Only commands verified in the car on 25–26 October 2026 are listed. The phone understands more (temperature as a number, drive modes, high beam, windshield, ambient colours, battery and range, settings pages); we are still testing them and will add them here. The car itself decides whether to do a command: some actions may be allowed only when parked.
+Only commands verified in the car on 25–26 October 2026 are listed. The phone understands more (temperature as a number, drive modes, ambient light and colours, battery and range, volume as a number); we are still testing them and will add them here. The car itself decides whether to do a command: some actions may be allowed only when parked.
 
 ### Limitations
 

@@ -33,20 +33,15 @@ Chaque fonction et widget en détail (en anglais) : [All features](FEATURES.md) 
 
 ## Installer depuis Google Play
 
-L'application est en test fermé sur Google Play : il faut d'abord rejoindre le groupe de testeurs.
+XiaoDroidLink est disponible sur Google Play.
 
-1. Ouvrez le groupe : [https://groups.google.com/g/xiaodroid-testers](https://groups.google.com/g/xiaodroid-testers)
-2. Touchez « Rejoindre le groupe » (avec le même compte Google que dans Google Play sur le téléphone).
-3. Ouvrez XiaoDroidLink dans Google Play : [https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
-4. Touchez « Installer ».
+1. Ouvrez XiaoDroidLink dans Google Play sur le téléphone : [https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink](https://play.google.com/store/apps/details?id=salon.lifestyle.xiaodroidlink)
+2. Touchez « Installer ».
+3. Ouvrez XiaoDroidLink.
 
-Si Google Play indique que l'application est introuvable, vous n'avez pas encore rejoint le groupe ou vous êtes connecté avec un autre compte. L'accès peut prendre quelques minutes après l'inscription.
+Les mises à jour arrivent automatiquement par Google Play.
 
-Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez pas les deux méthodes : la version Google Play et l'APK ci-dessous sont signés différemment, l'un ne s'installe donc pas par-dessus l'autre.
-
-## Télécharger l'APK
-
-[Télécharger XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk)
+Si vous aviez installé XiaoDroidLink depuis un fichier APK, désinstallez-le d'abord : l'APK et la version Google Play sont signés différemment, Google Play ne peut donc pas l'installer par-dessus. Après la réinstallation, saisissez de nouveau le code affiché par la voiture.
 
 ## Captures d'écran
 
@@ -71,21 +66,6 @@ Le bouton d'aperçu sans voiture de l'application permet de voir le tableau de b
 | Réglages |
 |---|
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
-## Installation
-
-1. Téléchargez [XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk).
-2. Ouvrez l'APK sur le téléphone.
-3. Si Android demande l'autorisation d'installer depuis cette source, acceptez.
-4. Attendez la fin de l'installation.
-5. Ouvrez XiaoDroidLink.
-
-Si Android ne permet pas d'activer l'accessibilité après l'installation de l'APK, ouvrez :
-
-```text
-Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
-```
-
-Revenez ensuite dans XiaoDroidLink et ouvrez la section Permissions.
 
 ## Première configuration
 
@@ -132,7 +112,7 @@ Bon à savoir :
 
 ## Assistant de la voiture dans votre langue
 
-L'assistant de la voiture (XiaoAI, 超级小爱) ne comprend que le chinois. XiaoDroidLink traduit pour lui : vous dites une commande dans votre langue, le téléphone la répète en chinois **par son propre haut-parleur**, et la voiture l'exécute. Vous pouvez ainsi piloter le climat, les sièges, les vitres, le coffre avant, les essuie-glaces, l’éclairage de l’habitacle et d’ambiance.
+L'assistant de la voiture (XiaoAI, 超级小爱) ne comprend que le chinois. XiaoDroidLink traduit pour lui : vous dites une commande dans votre langue, le téléphone la répète en chinois **par son propre haut-parleur**, et la voiture l'exécute. Vous pouvez ainsi piloter le climat, les sièges, les vitres, le coffre avant, les essuie-glaces, les feux et le thème de l’écran.
 
 ### Activer
 
@@ -150,7 +130,7 @@ Interrupteur désactivé, le bouton de l'assistant au volant ouvre comme avant l
 
 Pour parler à l'**IA du téléphone**, appuyez sur le bouton du volant et dites « intelligence artificielle », « AI », « ChatGPT » ou « Gemini ». Le téléphone demande à l'assistant de la voiture de quitter (« 退出小爱 ») et ouvre l'IA.
 
-**Boutons sans la voix :** Modifier → Actions rapides → Configurer → **« 🗣 Voix voiture… »**. 52 commandes sur trois pages (« → Plus de commandes »). Un appui ajoute le bouton au widget, un second l'enlève. Après un appui sur le bouton du widget, le téléphone bipe : appuyez alors sur le bouton de l'assistant au volant, et 2,5 secondes plus tard le téléphone dit la commande.
+**Liste des commandes à l'écran :** dans la voiture, engrenage → **« 🗣 Commandes de l'assistant »** (en haut des réglages) ; sur le téléphone, le bouton **« Commandes de l'assistant »** sous l'interrupteur « Assistant de la voiture dans votre langue ». Seules les commandes vérifiées dans la voiture y figurent, ainsi que ce que la voiture ne fait pas à la voix.
 
 ### Ce que vous pouvez dire
 
@@ -160,19 +140,19 @@ Parlez normalement. Le téléphone cherche ce que vous voulez changer et s'il fa
 |---|---|
 | Température | « plus chaud », « plus frais » |
 | Sièges | « siège chauffant », « éteins le siège chauffant », « siège ventilé », « éteins la ventilation », « massage » |
-| Volant, vitre, rétros | « volant chauffant », « dégivrage arrière », « rétros chauffants » |
+| Volant, vitre, rétros | « volant chauffant », « dégivrage arrière », « désembuage du pare-brise », « rétros chauffants » |
 | Vitres | « ouvre les vitres », « ferme les vitres » |
 | Coffres | « ouvre le capot » (ou « coffre avant »), « ouvre le coffre », « ferme le coffre » |
 | Trappe de charge | « ouvre la trappe de charge », « ferme la trappe de charge » |
-| Rétroviseurs | « rabats les rétros » |
+| Rétroviseurs | « rabats les rétros », « déplie les rétros » |
 | Essuie-glaces | « essuie-glaces », « lave-glace » |
-| Lumière de l'habitacle | « allume la lumière », « éteins la lumière » |
-| Éclairage d'ambiance | « ambiance » |
+| Feux | « allume la lumière », « éteins la lumière » (habitacle), « antibrouillard » (arrière) |
+| Thème de l'écran | « thème clair », « thème sombre » |
 | IA du téléphone | « intelligence artificielle », « AI », « ChatGPT », « Gemini » |
 
-Pour le siège chauffant, vous pouvez préciser « conducteur » ou « passager » : « siège chauffant passager », « siège chauffant conducteur ».
+Pour le siège chauffant, vous pouvez préciser « conducteur » ou « passager » : « siège chauffant passager », « siège chauffant conducteur », « sièges arrière chauffants ». La voiture n’allume pas les feux de route à la voix, seulement avec la manette gauche ; le téléphone vous le dit.
 
-Seules les commandes vérifiées dans la voiture les 25 et 26 octobre 2026 figurent ici. Le téléphone en comprend d’autres (température en degrés, modes de conduite, feux de route, pare-brise, couleurs d’ambiance, batterie et autonomie, pages de réglages) ; nous les testons encore et les ajouterons ici. C’est la voiture qui décide d’exécuter : certaines actions peuvent n’être permises qu’à l’arrêt.
+Seules les commandes vérifiées dans la voiture les 25 et 26 octobre 2026 figurent ici. Le téléphone en comprend d’autres (température en degrés, modes de conduite, éclairage d’ambiance et couleurs, batterie et autonomie, volume en chiffres) ; nous les testons encore et les ajouterons ici. C’est la voiture qui décide d’exécuter : certaines actions peuvent n’être permises qu’à l’arrêt.
 
 ### Limites
 
