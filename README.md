@@ -151,7 +151,7 @@ In Ukrainian the app also understands Russian and mixed words ("открой о�
 
 | What | Example phrases |
 |---|---|
-| Temperature | "warmer", "cooler" |
+| Temperature | "warmer", "cooler", "temperature 22" |
 | Seats | "seat heating", "turn off seat heating", "seat ventilation", "turn off ventilation", "seat massage" |
 | Wheel, glass, mirrors | "steering wheel heating", "rear defrost", "windshield defog", "mirror heating" |
 | Windows | "open the windows", "close the windows" |
@@ -159,13 +159,13 @@ In Ukrainian the app also understands Russian and mixed words ("открой о�
 | Charge port | "open the charge port", "close the charge port" |
 | Mirrors | "fold the mirrors", "unfold the mirrors" |
 | Wipers | "turn on the wipers", "washer" |
-| Lights | "turn on the light", "turn off the light" (cabin), "fog light" (rear) |
+| Lights | "turn on the light", "turn off the light" (cabin), "fog light" (rear), "ambient light red", "ambient light blue" |
 | Screen theme | "light theme", "dark theme" |
 | Phone AI | "artificial intelligence", "AI", "ChatGPT", "Gemini" |
 
 For seat heating you can add "driver" or "passenger": "passenger seat heating", "driver seat heating", "rear seat heating". The car does not switch the high beam by voice, only with the left stalk; the phone tells you so.
 
-Only commands verified in the car on 25–26 October 2026 are listed. The phone understands more (temperature as a number, drive modes, ambient light and colours, battery and range, volume as a number); we are still testing them and will add them here. The car itself decides whether to do a command: some actions may be allowed only when parked.
+Only commands verified in the car on 25–26 October 2026 are listed. The phone understands more (drive modes, air conditioning, battery and range, volume as a number); we are still testing them and will add them here. The car itself decides whether to do a command: some actions may be allowed only when parked.
 
 ### Limitations
 
