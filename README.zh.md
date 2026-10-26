@@ -1,6 +1,6 @@
 # XiaoDroidLink — 用户指南
 
-语言：[English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md)
+语言：[English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md)
 
 XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机屏幕。它可以在车机上显示仪表盘或手机屏幕，控制音乐，打开选定应用，把车机触摸操作传回手机，并通过屏幕投射显示 Google Maps。
 
@@ -21,7 +21,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 - 可选择要显示在车机中的应用。
 - 语音提醒：测速摄像头和空袭警报。
 - 用你的语言使用车机助手：按方向盘按钮说出指令，手机用中文转告车辆。
-- 支持语言：English、Українська、中文、Français、Español。
+- 支持 14 种语言：English、Українська、中文、Français、Español、Deutsch、Polski、Қазақша、Azərbaycanca、Oʻzbekcha、Тоҷикӣ、ქართული、Հայերեն、Кыргызча。
 
 ## 视频
 
@@ -119,6 +119,8 @@ XiaoDroidLink 已在 Google Play 上架。
 ## 用你的语言使用车机助手
 
 车机助手（超级小爱）只听得懂中文。XiaoDroidLink 为其他语言的用户转述：用户用自己的语言说出指令，手机**用自己的扬声器**以中文复述，车辆执行。可以控制空调、座椅、车窗、前备箱、雨刮、灯光和屏幕主题。
+
+支持用乌克兰语、俄语、英语、法语和西班牙语说指令，从 7.67 起还支持德语、波兰语、哈萨克语、阿塞拜疆语、乌兹别克语、塔吉克语、格鲁吉亚语、亚美尼亚语和吉尔吉斯语。这九种语言的指令已翻译，但尚未在车上测试。
 
 如果你会说中文，直接对车机助手说就行，不需要这个功能。应用语言为中文时，手机会把听到的中文原样转述。
 

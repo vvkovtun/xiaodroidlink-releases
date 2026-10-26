@@ -26,7 +26,7 @@ Short demo (13 s) of the home screen, music, messages, assistant and navigation:
 - **Eight designs:** Winter, Bronze, Blue Wave, Neon, Ocean, Sunset, Classic, Retro GT. Each has a day and a night version, with glass over a photo. Pick one in gear → "Design catalog", which shows map, media and drive samples.
 - **Dashboard theme:** "Auto" (day and night by sunrise and sunset), "Dark" or "Light".
 - **Dock** on the left or at the bottom, your choice. Change its five shortcuts and the player for the "Music" button in gear → "Bottom dock".
-- Languages: English, Українська, 中文, Français, Español. The phone's language is used by default.
+- Languages (14): English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча. The phone's language is used by default.
 
 ## Phone apps in the car
 

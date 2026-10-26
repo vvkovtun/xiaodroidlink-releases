@@ -1,6 +1,6 @@
 # XiaoDroidLink — Guide utilisateur
 
-Langues : [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md)
+Langues : [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md)
 
 XiaoDroidLink connecte un téléphone Android à l'écran Xiaomi YU7 via CarLink. L'application peut afficher un tableau de bord ou l'écran du téléphone dans la voiture, contrôler la musique, ouvrir les applications choisies, renvoyer les gestes tactiles de l'écran de la voiture vers le téléphone et utiliser Google Maps par diffusion d'écran.
 
@@ -21,7 +21,7 @@ Ce projet est indépendant. Ce n'est pas un produit officiel Xiaomi, Samsung, IC
 - Sélection des applications affichées dans la voiture.
 - Alertes vocales pour radars et alertes aériennes.
 - Assistant de la voiture dans votre langue : bouton du volant, une commande, et le téléphone la transmet en chinois à la voiture.
-- Langues : English, Українська, 中文, Français, Español.
+- Langues (14) : English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча.
 
 ## Vidéos
 
@@ -119,6 +119,8 @@ Bon à savoir :
 ## Assistant de la voiture dans votre langue
 
 L'assistant de la voiture (XiaoAI, 超级小爱) ne comprend que le chinois. XiaoDroidLink traduit pour lui : vous dites une commande dans votre langue, le téléphone la répète en chinois **par son propre haut-parleur**, et la voiture l'exécute. Vous pouvez ainsi piloter le climat, les sièges, les vitres, le coffre avant, les essuie-glaces, les feux et le thème de l’écran.
+
+Les commandes sont comprises en ukrainien, russe, anglais, français et espagnol, et depuis la 7.67 aussi en allemand, polonais, kazakh, azerbaïdjanais, ouzbek, tadjik, géorgien, arménien et kirghiz. Dans ces neuf langues, les commandes sont traduites mais pas encore testées dans la voiture.
 
 ### Activer
 

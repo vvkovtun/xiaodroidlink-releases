@@ -1,6 +1,6 @@
 # XiaoDroidLink — Guía de usuario
 
-Idiomas: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md)
+Idiomas: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md)
 
 XiaoDroidLink conecta un teléfono Android a la pantalla del Xiaomi YU7 mediante CarLink. La aplicación puede mostrar un panel o la pantalla del teléfono en el coche, controlar la música, abrir apps seleccionadas, enviar los toques de la pantalla del coche al teléfono y usar Google Maps mediante transmisión de pantalla.
 
@@ -21,7 +21,7 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 - Selector de apps para mostrar en el coche.
 - Avisos de voz para radares y alertas aéreas.
 - Asistente del coche en tu idioma: botón del volante, una orden, y el teléfono se la dice al coche en chino.
-- Idiomas: English, Українська, 中文, Français, Español.
+- Idiomas (14): English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча.
 
 ## Vídeos
 
@@ -119,6 +119,8 @@ Conviene saber:
 ## Asistente del coche en tu idioma
 
 El asistente del coche (XiaoAI, 超级小爱) solo entiende chino. XiaoDroidLink traduce para él: dices una orden en tu idioma, el teléfono la repite en chino **por su propio altavoz** y el coche la ejecuta. Así puedes manejar el clima, los asientos, las ventanillas, el maletero delantero, los limpiaparabrisas, las luces y el tema de la pantalla.
+
+Las órdenes se entienden en ucraniano, ruso, inglés, francés y español, y desde la 7.67 también en alemán, polaco, kazajo, azerí, uzbeko, tayiko, georgiano, armenio y kirguís. En estos nueve idiomas las órdenes están traducidas, pero aún no se han probado en el coche.
 
 ### Activar
 

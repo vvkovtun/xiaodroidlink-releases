@@ -1,6 +1,6 @@
 # XiaoDroidLink — User Guide
 
-Languages: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md)
+Languages: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md)
 
 XiaoDroidLink connects an Android phone to the Xiaomi YU7 screen through CarLink. It can show a dashboard or the phone screen in the car, control music, open selected apps, send car-screen touches back to the phone, and use Google Maps through screen casting.
 
@@ -24,7 +24,7 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 - App picker for apps shown in the car.
 - Voice warnings for speed cameras and air alerts.
 - Car assistant in your language: press the steering wheel button, say a command, and the phone tells the car in Chinese.
-- Languages: English, Ukrainian, Chinese, French, and Spanish.
+- Languages (14): English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча.
 
 ## Videos
 
@@ -122,6 +122,8 @@ Good to know:
 ## Car Assistant In Your Language
 
 The car assistant (XiaoAI, 超级小爱) understands only Chinese. XiaoDroidLink translates for it: you say a command in your language, the phone repeats it in Chinese **through its own speaker**, and the car does it. This way you can control climate, seats, windows, the front trunk, wipers, lights and the screen theme.
+
+Commands are understood in Ukrainian, Russian, English, French and Spanish, and since 7.67 also in German, Polish, Kazakh, Azerbaijani, Uzbek, Tajik, Georgian, Armenian and Kyrgyz. The commands in these nine languages are translated but not yet tested in the car.
 
 ### Turn It On
 
