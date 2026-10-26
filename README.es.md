@@ -146,7 +146,7 @@ Habla con normalidad. El teléfono busca qué quieres cambiar y si es encender o
 
 | Qué | Ejemplos |
 |---|---|
-| Temperatura | «más calor», «más frío», «temperatura 22» |
+| Temperatura | «más calor», «más frío», «temperatura 22», «enciende el aire», «apaga el aire» |
 | Asientos | «calefacción del asiento», «apaga la calefacción del asiento», «asiento ventilado», «apaga la ventilación», «masaje» |
 | Volante, cristales, retrovisores | «volante calefactado», «desempañado trasero», «desempañado del parabrisas», «retrovisores calefactados» |
 | Ventanillas | «abre las ventanillas», «cierra las ventanillas» |
@@ -160,7 +160,7 @@ Habla con normalidad. El teléfono busca qué quieres cambiar y si es encender o
 
 Para la calefacción del asiento puedes añadir «conductor» o «pasajero»: «calefacción del asiento del pasajero», «calefacción del asiento del conductor», «calefacción de los asientos traseros». El coche no enciende las luces largas por voz, solo con la palanca izquierda; el teléfono te lo indica.
 
-Aquí solo están las órdenes comprobadas en el coche el 25 y 26 de octubre de 2026. El teléfono entiende más (modos de conducción, aire acondicionado, batería y autonomía, volumen en cifras); aún las estamos probando y las añadiremos aquí. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
+Aquí solo están las órdenes comprobadas en el coche el 25 y 26 de octubre de 2026. El teléfono entiende más (modos de conducción, batería y autonomía, volumen en cifras); aún las estamos probando y las añadiremos aquí. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
 
 ### Limitaciones
 
