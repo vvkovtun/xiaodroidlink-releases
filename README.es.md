@@ -46,7 +46,7 @@ Después las actualizaciones llegan solas por Google Play. No mezcles los dos m�
 
 ## Descargar APK
 
-[Descargar XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk)
+[Descargar XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk)
 
 ## Capturas
 
@@ -73,7 +73,7 @@ La opción de vista previa sin coche permite ver el panel en el teléfono.
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Instalación
 
-1. Descarga [XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk).
+1. Descarga [XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk).
 2. Abre el APK en el teléfono.
 3. Si Android pide permitir instalación desde esta fuente, acéptalo.
 4. Espera a que termine la instalación.
@@ -132,7 +132,7 @@ Conviene saber:
 
 ## Asistente del coche en tu idioma
 
-El asistente del coche (XiaoAI, 超级小爱) solo entiende chino. XiaoDroidLink traduce para él: dices una orden en tu idioma, el teléfono la repite en chino **por su propio altavoz** y el coche la ejecuta. Así puedes manejar el clima, los asientos, las ventanillas, el maletero delantero, los limpiaparabrisas, las luces y los modos de conducción.
+El asistente del coche (XiaoAI, 超级小爱) solo entiende chino. XiaoDroidLink traduce para él: dices una orden en tu idioma, el teléfono la repite en chino **por su propio altavoz** y el coche la ejecuta. Así puedes manejar el clima, los asientos, las ventanillas, el maletero delantero, los limpiaparabrisas, la luz del habitáculo y la ambiental.
 
 ### Activar
 
@@ -150,7 +150,7 @@ Con el interruptor apagado, el botón del asistente en el volante abre como ante
 
 Para hablar con la **IA del teléfono**, pulsa el botón del volante y di «inteligencia artificial», «AI», «ChatGPT» o «Gemini». El teléfono pide al asistente del coche que salga («退出小爱») y abre la IA.
 
-**Botones sin voz:** Editar → Acciones rápidas → Configurar → **«🗣 Voz del coche…»**. 43 órdenes en dos páginas («→ Más órdenes»). Un toque añade el botón al widget, otro lo quita. Tras pulsar el botón del widget, el teléfono pita: pulsa entonces el botón del asistente en el volante, y 2,5 segundos después el teléfono dice la orden.
+**Botones sin voz:** Editar → Acciones rápidas → Configurar → **«🗣 Voz del coche…»**. 52 órdenes en tres páginas («→ Más órdenes»). Un toque añade el botón al widget, otro lo quita. Tras pulsar el botón del widget, el teléfono pita: pulsa entonces el botón del asistente en el volante, y 2,5 segundos después el teléfono dice la orden.
 
 ### Qué puedes decir
 
@@ -158,26 +158,21 @@ Habla con normalidad. El teléfono busca qué quieres cambiar y si es encender o
 
 | Qué | Ejemplos |
 |---|---|
-| Aire acondicionado | «enciende el aire», «apaga el aire» |
-| Temperatura | «temperatura 21 grados» (de 16 a 32), «más calor», «más frío» |
-| Asientos | «calefacción del asiento», «apaga la calefacción del asiento», «asiento ventilado», «masaje» |
+| Temperatura | «más calor», «más frío» |
+| Asientos | «calefacción del asiento», «apaga la calefacción del asiento», «asiento ventilado», «apaga la ventilación», «masaje» |
 | Volante, luneta, retrovisores | «volante calefactado», «desempañado trasero», «retrovisores calefactados» |
-| Ventanillas | «abre las ventanillas» ✓, «cierra las ventanillas» ✓ |
-| Maleteros | «abre el maletero delantero» ✓ (o «capó»), «abre el maletero», «cierra el maletero» |
+| Ventanillas | «abre las ventanillas», «cierra las ventanillas» |
+| Maleteros | «abre el maletero delantero» (o «capó»), «abre el maletero», «cierra el maletero» |
 | Puerto de carga | «abre el puerto de carga», «cierra el puerto de carga» |
-| Retrovisores | «pliega los retrovisores», «despliega los retrovisores» |
-| Suspensión | «sube la suspensión», «baja la suspensión» |
-| Limpiaparabrisas | «limpiaparabrisas» ✓, «apaga los limpiaparabrisas», «limpiaparabrisas más rápido», «lavaparabrisas» |
-| Luces | «luces de cruce», «antiniebla», «luz de lectura» |
-| Luz ambiental | «luz ambiental», «luz ambiental con más brillo», «apaga la luz ambiental» |
-| Modos de conducción | «modo nieve», «modo sport», «modo confort», «regeneración estándar», «regeneración fuerte» |
-| Sonido y pantallas | «más alto», «más bajo», «navegación en silencio», «pantalla con más brillo», «cuadro con más brillo» |
-| Batería y autonomía | «batería», «autonomía» — el coche responde en voz alta y el teléfono muestra las cifras: «Batería 72 %, autonomía 350 km». La batería aparece también en los widgets. |
+| Retrovisores | «pliega los retrovisores» |
+| Limpiaparabrisas | «limpiaparabrisas», «lavaparabrisas» |
+| Luz del habitáculo | «enciende la luz», «apaga la luz» |
+| Luz ambiental | «luz ambiental» |
 | IA del teléfono | «inteligencia artificial», «AI», «ChatGPT», «Gemini» |
 
-Para asientos, ventanillas, temperatura y luz de lectura puedes añadir «conductor» o «pasajero»: «calefacción del asiento del pasajero», «abre la ventanilla del conductor», «temperatura del conductor 22 grados». La luz ambiental cambia de color: «luz ambiental azul» (roja, naranja, amarilla, verde, celeste, azul, morada, rosa, blanca). Solo «luz» enciende la luz del habitáculo.
+Para la calefacción del asiento puedes añadir «conductor» o «pasajero»: «calefacción del asiento del pasajero», «calefacción del asiento del conductor».
 
-✓ — comprobado en el coche. Las demás órdenes vienen del menú «Voice Skills» del propio YU7 y deberían funcionar igual, pero aún no se ha probado cada una. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
+Aquí solo están las órdenes comprobadas en el coche el 25 y 26 de octubre de 2026. El teléfono entiende más (temperatura en grados, modos de conducción, luces largas, parabrisas, colores de la luz ambiental, batería y autonomía, páginas de ajustes); aún las estamos probando y las añadiremos aquí. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
 
 ### Limitaciones
 

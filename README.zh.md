@@ -46,7 +46,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 
 ## 下载 APK
 
-[下载 XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk)
+[下载 XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk)
 
 ## 截图
 
@@ -73,7 +73,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## 安装
 
-1. 下载 [XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk)。
+1. 下载 [XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk)。
 2. 在手机上打开 APK 文件。
 3. 如果 Android 要求允许从此来源安装，请允许。
 4. 等待安装完成。
@@ -132,7 +132,7 @@ Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
 
 ## 用你的语言使用车机助手
 
-车机助手（超级小爱）只听得懂中文。XiaoDroidLink 为其他语言的用户转述：用户用自己的语言说出指令，手机**用自己的扬声器**以中文复述，车辆执行。可以控制空调、座椅、车窗、前备箱、雨刮、灯光和驾驶模式。
+车机助手（超级小爱）只听得懂中文。XiaoDroidLink 为其他语言的用户转述：用户用自己的语言说出指令，手机**用自己的扬声器**以中文复述，车辆执行。可以控制空调、座椅、车窗、前备箱、雨刮、车内灯和氛围灯。
 
 如果你会说中文，直接对车机助手说就行，不需要这个功能。应用语言为中文时，手机会把听到的中文原样转述。
 
@@ -152,15 +152,13 @@ Settings -> Apps -> XiaoDroidLink -> three-dot menu -> Allow restricted settings
 
 说“人工智能”、“AI”、“ChatGPT”或“Gemini”可打开**手机 AI**：手机先让车机助手退出（“退出小爱”），再打开 AI。
 
-**不用语音的按钮：**编辑 → 快捷操作 → 设置 → **“🗣 车机语音…”**，两页共 43 条指令（“→ 更多指令”）。点按添加到小组件，再点一次移除。点按小组件中的按钮后手机会响一声：此时按下方向盘语音按钮，2.5 秒后手机说出指令。
+**不用语音的按钮：**编辑 → 快捷操作 → 设置 → **“🗣 车机语音…”**，三页共 52 条指令（“→ 更多指令”）。点按添加到小组件，再点一次移除。点按小组件中的按钮后手机会响一声：此时按下方向盘语音按钮，2.5 秒后手机说出指令。
 
 ### 支持的指令
 
-空调开/关；温度 16–32 度、调高、调低；座椅加热、通风、按摩；方向盘加热；后窗除霜；后视镜加热、折叠、展开；车窗开 ✓ / 关 ✓；打开前备箱 ✓；后备箱开/关；充电口开/关；悬挂升高/降低；雨刮 ✓、雨刮快一点、雨刮洗涤；近光灯；后雾灯；阅读灯；氛围灯、调亮；雪地模式；运动模式；舒适模式；能量回收标准/强；音乐音量大一点/小一点；导航静音；中控屏、仪表屏调亮。询问电量和续航（如“电量多少”）时，手机会听取车辆的回答，并在屏幕上以应用语言显示数字。
+已在车上验证：温度调高、调低；座椅加热（可加“驾驶员”或“乘客”）、通风、按摩；方向盘加热；后窗除霜；后视镜加热、折叠；车窗开、关；打开前备箱；后备箱开、关；充电口开、关；雨刮、雨刮洗涤；车内灯开、关；氛围灯。
 
-座椅、车窗、温度和阅读灯可加“驾驶员”或“乘客”（转述为“主驾”“副驾”）。氛围灯可换颜色：红、橙、黄、绿、青、蓝、紫、粉、白。
-
-✓ 表示已在车上验证。其余指令来自 YU7 自带的“语音技能”菜单，应同样有效，但尚未逐条测试。是否执行由车辆决定：部分操作可能只在驻车时允许。
+这里只列出 2026 年 10 月 25–26 日在车上验证过的指令。手机还能转述更多指令（温度数值、驾驶模式、远光灯、前挡除雾、氛围灯颜色、电量和续航、设置页面），仍在测试中，验证后会补充到这里。是否执行由车辆决定：部分操作可能只在驻车时允许。
 
 ### 限制
 

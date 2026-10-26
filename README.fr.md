@@ -46,7 +46,7 @@ Les mises à jour arrivent ensuite automatiquement par Google Play. Ne mélangez
 
 ## Télécharger l'APK
 
-[Télécharger XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk)
+[Télécharger XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk)
 
 ## Captures d'écran
 
@@ -73,7 +73,7 @@ Le bouton d'aperçu sans voiture de l'application permet de voir le tableau de b
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Installation
 
-1. Téléchargez [XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk).
+1. Téléchargez [XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk).
 2. Ouvrez l'APK sur le téléphone.
 3. Si Android demande l'autorisation d'installer depuis cette source, acceptez.
 4. Attendez la fin de l'installation.
@@ -132,7 +132,7 @@ Bon à savoir :
 
 ## Assistant de la voiture dans votre langue
 
-L'assistant de la voiture (XiaoAI, 超级小爱) ne comprend que le chinois. XiaoDroidLink traduit pour lui : vous dites une commande dans votre langue, le téléphone la répète en chinois **par son propre haut-parleur**, et la voiture l'exécute. Vous pouvez ainsi piloter le climat, les sièges, les vitres, le coffre avant, les essuie-glaces, les feux et les modes de conduite.
+L'assistant de la voiture (XiaoAI, 超级小爱) ne comprend que le chinois. XiaoDroidLink traduit pour lui : vous dites une commande dans votre langue, le téléphone la répète en chinois **par son propre haut-parleur**, et la voiture l'exécute. Vous pouvez ainsi piloter le climat, les sièges, les vitres, le coffre avant, les essuie-glaces, l’éclairage de l’habitacle et d’ambiance.
 
 ### Activer
 
@@ -150,7 +150,7 @@ Interrupteur désactivé, le bouton de l'assistant au volant ouvre comme avant l
 
 Pour parler à l'**IA du téléphone**, appuyez sur le bouton du volant et dites « intelligence artificielle », « AI », « ChatGPT » ou « Gemini ». Le téléphone demande à l'assistant de la voiture de quitter (« 退出小爱 ») et ouvre l'IA.
 
-**Boutons sans la voix :** Modifier → Actions rapides → Configurer → **« 🗣 Voix voiture… »**. 43 commandes sur deux pages (« → Plus de commandes »). Un appui ajoute le bouton au widget, un second l'enlève. Après un appui sur le bouton du widget, le téléphone bipe : appuyez alors sur le bouton de l'assistant au volant, et 2,5 secondes plus tard le téléphone dit la commande.
+**Boutons sans la voix :** Modifier → Actions rapides → Configurer → **« 🗣 Voix voiture… »**. 52 commandes sur trois pages (« → Plus de commandes »). Un appui ajoute le bouton au widget, un second l'enlève. Après un appui sur le bouton du widget, le téléphone bipe : appuyez alors sur le bouton de l'assistant au volant, et 2,5 secondes plus tard le téléphone dit la commande.
 
 ### Ce que vous pouvez dire
 
@@ -158,26 +158,21 @@ Parlez normalement. Le téléphone cherche ce que vous voulez changer et s'il fa
 
 | Quoi | Exemples |
 |---|---|
-| Climatisation | « allume la clim », « éteins la clim » |
-| Température | « température 21 degrés » (de 16 à 32), « plus chaud », « plus frais » |
-| Sièges | « siège chauffant », « éteins le siège chauffant », « siège ventilé », « massage » |
+| Température | « plus chaud », « plus frais » |
+| Sièges | « siège chauffant », « éteins le siège chauffant », « siège ventilé », « éteins la ventilation », « massage » |
 | Volant, vitre, rétros | « volant chauffant », « dégivrage arrière », « rétros chauffants » |
-| Vitres | « ouvre les vitres » ✓, « ferme les vitres » ✓ |
-| Coffres | « ouvre le capot » ✓ (ou « coffre avant »), « ouvre le coffre », « ferme le coffre » |
-| Trappe de charge | « ouvre la trappe de charge », « ferme la trappe » |
-| Rétroviseurs | « rabats les rétros », « déplie les rétros » |
-| Suspension | « suspension plus haute », « baisse la suspension » |
-| Essuie-glaces | « essuie-glaces » ✓, « éteins les essuie-glaces », « essuie-glaces plus vite », « lave-glace » |
-| Feux | « feux de croisement », « antibrouillard », « liseuse » (« lecture ») |
-| Éclairage d'ambiance | « ambiance », « ambiance plus lumineuse », « éteins l'ambiance » |
-| Modes de conduite | « mode neige », « mode sport », « mode confort », « récupération standard », « récupération forte » |
-| Son et écrans | « plus fort », « moins fort », « navigation en silence », « écran plus lumineux », « tableau de bord plus lumineux » |
-| Batterie et autonomie | « batterie », « autonomie » — la voiture répond à voix haute et le téléphone affiche les chiffres : « Batterie 72 %, autonomie 350 km ». La batterie apparaît aussi dans les widgets. |
+| Vitres | « ouvre les vitres », « ferme les vitres » |
+| Coffres | « ouvre le capot » (ou « coffre avant »), « ouvre le coffre », « ferme le coffre » |
+| Trappe de charge | « ouvre la trappe de charge », « ferme la trappe de charge » |
+| Rétroviseurs | « rabats les rétros » |
+| Essuie-glaces | « essuie-glaces », « lave-glace » |
+| Lumière de l'habitacle | « allume la lumière », « éteins la lumière » |
+| Éclairage d'ambiance | « ambiance » |
 | IA du téléphone | « intelligence artificielle », « AI », « ChatGPT », « Gemini » |
 
-Pour les sièges, les vitres, la température et la liseuse, vous pouvez préciser « conducteur » ou « passager » : « siège chauffant passager », « ouvre la vitre conducteur », « température conducteur 22 degrés ». L'éclairage d'ambiance change de couleur : « ambiance bleue » (rouge, orange, jaune, verte, bleu clair, bleue, violette, rose, blanche). Simplement « lumière » allume l'éclairage de l'habitacle.
+Pour le siège chauffant, vous pouvez préciser « conducteur » ou « passager » : « siège chauffant passager », « siège chauffant conducteur ».
 
-✓ — vérifié dans la voiture. Les autres commandes viennent du menu « Voice Skills » de la YU7 et devraient marcher de la même façon, mais chacune n'a pas encore été testée. C'est la voiture qui décide d'exécuter : certaines actions peuvent n'être permises qu'à l'arrêt.
+Seules les commandes vérifiées dans la voiture les 25 et 26 octobre 2026 figurent ici. Le téléphone en comprend d’autres (température en degrés, modes de conduite, feux de route, pare-brise, couleurs d’ambiance, batterie et autonomie, pages de réglages) ; nous les testons encore et les ajouterons ici. C’est la voiture qui décide d’exécuter : certaines actions peuvent n’être permises qu’à l’arrêt.
 
 ### Limites
 

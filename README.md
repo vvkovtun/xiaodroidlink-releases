@@ -48,7 +48,7 @@ If Google Play says the app is not found, you have not joined the group yet or y
 Updates then arrive through Google Play automatically. Do not mix the two ways: the Google Play version and the APK below are signed differently, so one cannot be installed over the other.
 
 ## Download APK
-[Download XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk)
+[Download XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk)
 
 ## Screenshots
 
@@ -75,7 +75,7 @@ Tap Preview without car in the phone app to inspect the dashboard.
 | ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
 ## Install
 
-1. Download [XiaoDroidLink-7.62.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.62.apk).
+1. Download [XiaoDroidLink-7.63.apk](https://github.com/vvkovtun/xiaodroidlink-releases/raw/main/XiaoDroidLink-7.63.apk).
 2. Open the APK on your phone.
 3. If Android asks to allow installation from this source, allow it.
 4. Wait for installation to finish.
@@ -134,7 +134,7 @@ Good to know:
 
 ## Car Assistant In Your Language
 
-The car assistant (XiaoAI, 超级小爱) understands only Chinese. XiaoDroidLink translates for it: you say a command in your language, the phone repeats it in Chinese **through its own speaker**, and the car does it. This way you can control climate, seats, windows, the front trunk, wipers, lights and drive modes.
+The car assistant (XiaoAI, 超级小爱) understands only Chinese. XiaoDroidLink translates for it: you say a command in your language, the phone repeats it in Chinese **through its own speaker**, and the car does it. This way you can control climate, seats, windows, the front trunk, wipers, cabin and ambient lights.
 
 ### Turn It On
 
@@ -152,7 +152,7 @@ With the switch off, the steering wheel assistant button opens the phone AI as b
 
 To talk to the **phone AI**, press the wheel button and say "artificial intelligence", "AI", "ChatGPT" or "Gemini". The phone asks the car assistant to quit ("退出小爱") and opens the AI.
 
-**Buttons instead of voice:** Edit → Quick actions → Set up → **"🗣 Car voice…"**. It has 43 commands on two pages ("→ More commands"). A tap adds the button to the widget, another tap removes it. After you press the button in the widget, the phone beeps: press the assistant button on the steering wheel, and 2.5 seconds later the phone speaks the command.
+**Buttons instead of voice:** Edit → Quick actions → Set up → **"🗣 Car voice…"**. It has 52 commands on three pages ("→ More commands"). A tap adds the button to the widget, another tap removes it. After you press the button in the widget, the phone beeps: press the assistant button on the steering wheel, and 2.5 seconds later the phone speaks the command.
 
 ### What You Can Say
 
@@ -162,26 +162,21 @@ In Ukrainian the app also understands Russian and mixed words ("открой о�
 
 | What | Example phrases |
 |---|---|
-| Air conditioning | "turn on the air conditioning", "turn off the climate" |
-| Temperature | "set the temperature to 21 degrees" (any number from 16 to 32), "warmer", "cooler" |
-| Seats | "turn on seat heating", "turn off seat heating", "seat ventilation", "turn off ventilation", "seat massage" |
+| Temperature | "warmer", "cooler" |
+| Seats | "seat heating", "turn off seat heating", "seat ventilation", "turn off ventilation", "seat massage" |
 | Wheel, glass, mirrors | "steering wheel heating", "rear defrost", "mirror heating" |
-| Windows | "open the windows" ✓, "close the windows" ✓ |
-| Front and rear trunk | "open the front trunk" ✓ (or "hood", "frunk"), "open the trunk", "close the trunk" |
+| Windows | "open the windows", "close the windows" |
+| Front and rear trunk | "open the front trunk" (or "hood", "frunk"), "open the trunk", "close the trunk" |
 | Charge port | "open the charge port", "close the charge port" |
-| Mirrors | "fold the mirrors", "unfold the mirrors" |
-| Suspension | "raise the suspension", "lower the suspension" |
-| Wipers | "turn on the wipers" ✓, "turn off the wipers", "wipers faster", "washer" |
-| Lights | "turn on the low beam", "rear fog light", "reading light" |
-| Ambient light | "ambient light", "ambient light brighter", "turn off the ambient light" |
-| Drive modes | "snow mode", "sport mode", "comfort mode", "regen standard", "regen strong" |
-| Sound and screens | "louder", "quieter", "mute navigation", "screen brighter", "instrument cluster brighter" |
-| Battery and range | "battery level", "how far can I drive", "range" — the car answers aloud and the phone shows the numbers: "Battery 72%, range 350 km". The battery also appears in the widgets. |
+| Mirrors | "fold the mirrors" |
+| Wipers | "turn on the wipers", "washer" |
+| Cabin light | "turn on the light", "turn off the light" |
+| Ambient light | "ambient light" |
 | Phone AI | "artificial intelligence", "AI", "ChatGPT", "Gemini" |
 
-You can add "driver" or "passenger" for seats, windows, temperature and the reading light: "passenger seat heating", "open the driver window", "driver temperature 22 degrees". The ambient light can change colour: "ambient light blue" (red, orange, yellow, green, cyan, blue, purple, pink, white). Just "light" turns on the cabin light.
+For seat heating you can add "driver" or "passenger": "passenger seat heating", "driver seat heating".
 
-✓ — verified in the car. The other commands come from the YU7's own "Voice Skills" menu and should work the same way, but each one has not been tested yet. The car itself decides whether to do a command: some actions may be allowed only when parked.
+Only commands verified in the car on 25–26 October 2026 are listed. The phone understands more (temperature as a number, drive modes, high beam, windshield, ambient colours, battery and range, settings pages); we are still testing them and will add them here. The car itself decides whether to do a command: some actions may be allowed only when parked.
 
 ### Limitations
 
