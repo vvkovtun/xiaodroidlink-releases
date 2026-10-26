@@ -43,6 +43,12 @@ Las actualizaciones llegan solas por Google Play.
 
 Si antes instalaste XiaoDroidLink desde un archivo APK, desinstálalo primero: el APK y la versión de Google Play tienen firmas distintas, así que Google Play no puede instalar encima. Después de reinstalar, introduce de nuevo el código de la pantalla del coche.
 
+## Qué teléfonos sirven
+
+- Android 13 o posterior.
+- Probado en el coche con un Samsung Galaxy S25 Ultra.
+- Los teléfonos con un codificador de vídeo más débil (muchos MediaTek y Unisoc, p. ej. Infinix, Tecno, algunos Galaxy A) envían al coche una imagen algo más pequeña con las mismas proporciones. «Vista sin coche» funciona en ellos (comprobado en un Infinix Hot 40); en el coche aún no se ha probado. Si la imagen no ocupa toda la pantalla o no aparece, escribe a xiaodroidlink@lifestyle.salon.
+
 ## Capturas
 
 La opción de vista previa sin coche permite ver el panel en el teléfono.

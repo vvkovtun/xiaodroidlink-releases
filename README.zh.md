@@ -43,6 +43,12 @@ XiaoDroidLink 已在 Google Play 上架。
 
 如果你之前用 APK 文件安装过 XiaoDroidLink，请先卸载：APK 和 Google Play 版本签名不同，Google Play 无法覆盖安装。重新安装后，请再次输入车机屏幕上的代码。
 
+## 适用的手机
+
+- Android 13 或更新版本。
+- 已在车上用 Samsung Galaxy S25 Ultra 测试。
+- 视频编码器较弱的手机（许多联发科和紫光展锐机型，如 Infinix、Tecno、部分 Galaxy A）会向车机发送比例相同、稍小的画面。“无车预览”在这些手机上可用（已在 Infinix Hot 40 上验证）；车上尚未测试。如果画面没有铺满屏幕或没有显示，请发邮件至 xiaodroidlink@lifestyle.salon。
+
 ## 截图
 
 在手机应用中可通过“无车预览”查看仪表盘。

@@ -43,6 +43,12 @@ Les mises à jour arrivent automatiquement par Google Play.
 
 Si vous aviez installé XiaoDroidLink depuis un fichier APK, désinstallez-le d'abord : l'APK et la version Google Play sont signés différemment, Google Play ne peut donc pas l'installer par-dessus. Après la réinstallation, saisissez de nouveau le code affiché par la voiture.
 
+## Quels téléphones
+
+- Android 13 ou plus récent.
+- Testé dans la voiture avec un Samsung Galaxy S25 Ultra.
+- Les téléphones à encodeur vidéo plus faible (beaucoup de MediaTek et Unisoc, p. ex. Infinix, Tecno, certains Galaxy A) envoient à la voiture une image un peu plus petite aux mêmes proportions. « Aperçu sans voiture » y fonctionne (vérifié sur un Infinix Hot 40) ; dans la voiture ce n'est pas encore testé. Si l'image ne remplit pas l'écran ou n'apparaît pas, écrivez à xiaodroidlink@lifestyle.salon.
+
 ## Captures d'écran
 
 Le bouton d'aperçu sans voiture de l'application permet de voir le tableau de bord sur le téléphone.

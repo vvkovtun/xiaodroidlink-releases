@@ -46,6 +46,12 @@ Updates arrive through Google Play automatically.
 
 If you installed XiaoDroidLink from an APK file before, uninstall it first: the APK and the Google Play version are signed differently, so Google Play cannot install over it. After reinstalling, enter the code from the car screen again.
 
+## Which phones work
+
+- Android 13 or newer.
+- Tested in the car with a Samsung Galaxy S25 Ultra.
+- Phones with a weaker video encoder (many MediaTek and Unisoc phones, e.g. Infinix, Tecno, some Galaxy A) send the car a slightly smaller picture with the same proportions. "Preview without car" works on them (checked on an Infinix Hot 40); in the car this has not been tested yet — if the picture does not fill the screen or does not appear, please write to xiaodroidlink@lifestyle.salon.
+
 ## Screenshots
 
 Tap Preview without car in the phone app to inspect the dashboard.
