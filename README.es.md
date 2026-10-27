@@ -140,7 +140,7 @@ Con el interruptor apagado, el botón del asistente en el volante abre como ante
 
 Para hablar con la **IA del teléfono**, pulsa el botón del volante y di «inteligencia artificial», «AI», «ChatGPT» o «Gemini». El teléfono pide al asistente del coche que salga («退出小爱») y abre la IA.
 
-**Llamadas por voz:** pulsa el botón del volante y di «llama a Olena», «llama a mamá». El teléfono busca el nombre en sus contactos y llama; si hay varios, la pantalla del coche muestra hasta tres para elegir. La primera vez, permite el acceso a los contactos en el teléfono. Si el Bluetooth del coche no está conectado, el teléfono no llama (la conversación iría a su altavoz): abre la elección del coche y te pide que vuelvas a llamar.
+**Llamadas por voz:** pulsa el botón del volante y di «llama a Olena», «llama a mamá». El teléfono busca el nombre en sus contactos y llama; si hay varios, la pantalla del coche muestra hasta tres para elegir. La primera vez, permite en el teléfono el acceso a los contactos y a las llamadas. Si el Bluetooth del coche no está conectado, el teléfono no llama (la conversación iría a su altavoz): abre la elección del coche y te pide que vuelvas a llamar.
 
 **La respuesta del coche en pantalla:** después de una orden, el teléfono escucha la respuesta en chino del coche y la muestra en la pantalla del coche en tu idioma (traducida por Google Translate, necesita internet).
 
@@ -162,6 +162,7 @@ Habla con normalidad. El teléfono busca qué quieres cambiar y si es encender o
 | Limpiaparabrisas | «limpiaparabrisas», «lavaparabrisas» |
 | Luces | «enciende la luz», «apaga la luz» (habitáculo), «antiniebla» (trasera), «luz ambiental roja», «luz ambiental azul» |
 | Pantalla, sonido, modos | «tema claro», «tema oscuro», «volumen 20», «activa el modo nieve» (el coche pide confirmar) |
+| Llamadas | «llama a mamá», «llama a Olena» (un nombre de los contactos del teléfono) — comprobado el 27 de octubre |
 | IA del teléfono | «inteligencia artificial», «AI», «ChatGPT», «Gemini» |
 
 Para la calefacción del asiento puedes añadir «conductor» o «pasajero»: «calefacción del asiento del pasajero», «calefacción del asiento del conductor», «calefacción de los asientos traseros». El coche no enciende las luces largas por voz, solo con la palanca izquierda; el teléfono te lo indica.

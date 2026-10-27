@@ -143,7 +143,7 @@ With the switch off, the steering wheel assistant button opens the phone AI as b
 
 To talk to the **phone AI**, press the wheel button and say "artificial intelligence", "AI", "ChatGPT" or "Gemini". The phone asks the car assistant to quit ("退出小爱") and opens the AI.
 
-**Calls by voice:** press the wheel button and say "call Olena", "call mom". The phone finds the name in its contacts and calls; if several match, the car screen shows up to three to pick from. The first time, allow access to contacts on the phone. If the car's Bluetooth is not connected, the phone does not call (the conversation would go to the phone speaker): it opens the car selection and asks you to call again.
+**Calls by voice:** press the wheel button and say "call Olena", "call mom". The phone finds the name in its contacts and calls; if several match, the car screen shows up to three to pick from. The first time, allow access to contacts and phone calls on the phone. If the car's Bluetooth is not connected, the phone does not call (the conversation would go to the phone speaker): it opens the car selection and asks you to call again.
 
 **The car's reply on the screen:** after a command, the phone listens to the car's Chinese reply and shows it on the car screen in your language (translated by Google Translate, needs internet).
 
@@ -167,6 +167,7 @@ In Ukrainian the app also understands Russian and mixed words ("открой о�
 | Wipers | "turn on the wipers", "washer" |
 | Lights | "turn on the light", "turn off the light" (cabin), "fog light" (rear), "ambient light red", "ambient light blue" |
 | Screen, sound, modes | "light theme", "dark theme", "volume 20", "turn on snow mode" (the car asks to confirm) |
+| Calls | "call mom", "call Olena" (a name from the phone contacts) — verified 27 October |
 | Phone AI | "artificial intelligence", "AI", "ChatGPT", "Gemini" |
 
 For seat heating you can add "driver" or "passenger": "passenger seat heating", "driver seat heating", "rear seat heating". The car does not tell battery and range by voice ("not supported"; look at the car screen). The car does not switch the high beam by voice, only with the left stalk; the phone tells you so.

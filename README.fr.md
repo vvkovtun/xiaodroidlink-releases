@@ -140,7 +140,7 @@ Interrupteur désactivé, le bouton de l'assistant au volant ouvre comme avant l
 
 Pour parler à l'**IA du téléphone**, appuyez sur le bouton du volant et dites « intelligence artificielle », « AI », « ChatGPT » ou « Gemini ». Le téléphone demande à l'assistant de la voiture de quitter (« 退出小爱 ») et ouvre l'IA.
 
-**Appels à la voix :** appuyez sur le bouton du volant et dites « appelle Olena », « appelle maman ». Le téléphone cherche le nom dans ses contacts et appelle ; s'il y en a plusieurs, l'écran de la voiture en propose jusqu'à trois. La première fois, autorisez l'accès aux contacts sur le téléphone. Si le Bluetooth de la voiture n'est pas connecté, le téléphone n'appelle pas (la conversation passerait par son haut-parleur) : il ouvre le choix de la voiture et vous demande de rappeler.
+**Appels à la voix :** appuyez sur le bouton du volant et dites « appelle Olena », « appelle maman ». Le téléphone cherche le nom dans ses contacts et appelle ; s'il y en a plusieurs, l'écran de la voiture en propose jusqu'à trois. La première fois, autorisez sur le téléphone l'accès aux contacts et aux appels. Si le Bluetooth de la voiture n'est pas connecté, le téléphone n'appelle pas (la conversation passerait par son haut-parleur) : il ouvre le choix de la voiture et vous demande de rappeler.
 
 **La réponse de la voiture à l'écran :** après une commande, le téléphone écoute la réponse en chinois de la voiture et l'affiche sur l'écran de la voiture dans votre langue (traduite par Google Traduction, Internet nécessaire).
 
@@ -162,6 +162,7 @@ Parlez normalement. Le téléphone cherche ce que vous voulez changer et s'il fa
 | Essuie-glaces | « essuie-glaces », « lave-glace » |
 | Feux | « allume la lumière », « éteins la lumière » (habitacle), « antibrouillard » (arrière), « éclairage d'ambiance rouge », « éclairage d'ambiance bleu » |
 | Écran, son, modes | « thème clair », « thème sombre », « volume 20 », « active le mode neige » (la voiture demande confirmation) |
+| Appels | « appelle maman », « appelle Olena » (un nom des contacts du téléphone) — vérifié le 27 octobre |
 | IA du téléphone | « intelligence artificielle », « AI », « ChatGPT », « Gemini » |
 
 Pour le siège chauffant, vous pouvez préciser « conducteur » ou « passager » : « siège chauffant passager », « siège chauffant conducteur », « sièges arrière chauffants ». La voiture n’allume pas les feux de route à la voix, seulement avec la manette gauche ; le téléphone vous le dit.
