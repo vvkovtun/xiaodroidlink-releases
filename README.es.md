@@ -155,18 +155,18 @@ Habla con normalidad. El teléfono busca qué quieres cambiar y si es encender o
 | Temperatura | «más calor», «más frío», «temperatura 22», «enciende el aire», «apaga el aire» |
 | Asientos | «calefacción del asiento», «apaga la calefacción del asiento», «asiento ventilado», «apaga la ventilación», «masaje» |
 | Volante, cristales, retrovisores | «volante calefactado», «desempañado trasero», «desempañado del parabrisas», «retrovisores calefactados» |
-| Ventanillas | «abre las ventanillas», «cierra las ventanillas» |
+| Ventanillas | «abre las ventanillas», «cierra las ventanillas», «abre las ventanillas a medias», «abre un poco las ventanillas» |
 | Maleteros | «abre el maletero delantero» (o «capó»), «cierra el maletero delantero», «abre el maletero», «cierra el maletero» |
 | Puerto de carga | «abre el puerto de carga», «cierra el puerto de carga» |
 | Retrovisores | «pliega los retrovisores», «despliega los retrovisores» |
 | Limpiaparabrisas | «limpiaparabrisas», «lavaparabrisas» |
 | Luces | «enciende la luz», «apaga la luz» (habitáculo), «antiniebla» (trasera), «luz ambiental roja», «luz ambiental azul» |
-| Tema de la pantalla | «tema claro», «tema oscuro» |
+| Pantalla, sonido, modos | «tema claro», «tema oscuro», «volumen 20», «activa el modo nieve» (el coche pide confirmar) |
 | IA del teléfono | «inteligencia artificial», «AI», «ChatGPT», «Gemini» |
 
 Para la calefacción del asiento puedes añadir «conductor» o «pasajero»: «calefacción del asiento del pasajero», «calefacción del asiento del conductor», «calefacción de los asientos traseros». El coche no enciende las luces largas por voz, solo con la palanca izquierda; el teléfono te lo indica.
 
-Aquí solo están las órdenes comprobadas en el coche el 25 y 26 de octubre de 2026. El teléfono entiende más (modos de conducción, batería y autonomía, volumen en cifras); aún las estamos probando y las añadiremos aquí. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
+Aquí solo están las órdenes comprobadas en el coche del 25 al 27 de octubre de 2026. El teléfono entiende más (suspensión, regeneración, radio FM); aún las estamos probando y las añadiremos aquí. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
 
 ### Limitaciones
 

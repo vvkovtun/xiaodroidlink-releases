@@ -160,18 +160,18 @@ In Ukrainian the app also understands Russian and mixed words ("открой о�
 | Temperature | "warmer", "cooler", "temperature 22", "turn on the air conditioning", "turn off the air conditioning" |
 | Seats | "seat heating", "turn off seat heating", "seat ventilation", "turn off ventilation", "seat massage" |
 | Wheel, glass, mirrors | "steering wheel heating", "rear defrost", "windshield defog", "mirror heating" |
-| Windows | "open the windows", "close the windows" |
+| Windows | "open the windows", "close the windows", "open the windows halfway", "open the windows a little" |
 | Front and rear trunk | "open the front trunk" (or "hood", "frunk"), "close the front trunk", "open the trunk", "close the trunk" |
 | Charge port | "open the charge port", "close the charge port" |
 | Mirrors | "fold the mirrors", "unfold the mirrors" |
 | Wipers | "turn on the wipers", "washer" |
 | Lights | "turn on the light", "turn off the light" (cabin), "fog light" (rear), "ambient light red", "ambient light blue" |
-| Screen theme | "light theme", "dark theme" |
+| Screen, sound, modes | "light theme", "dark theme", "volume 20", "turn on snow mode" (the car asks to confirm) |
 | Phone AI | "artificial intelligence", "AI", "ChatGPT", "Gemini" |
 
-For seat heating you can add "driver" or "passenger": "passenger seat heating", "driver seat heating", "rear seat heating". The car does not switch the high beam by voice, only with the left stalk; the phone tells you so.
+For seat heating you can add "driver" or "passenger": "passenger seat heating", "driver seat heating", "rear seat heating". The car does not tell battery and range by voice ("not supported"; look at the car screen). The car does not switch the high beam by voice, only with the left stalk; the phone tells you so.
 
-Only commands verified in the car on 25–26 October 2026 are listed. The phone understands more (drive modes, battery and range, volume as a number); we are still testing them and will add them here. The car itself decides whether to do a command: some actions may be allowed only when parked.
+Only commands verified in the car on 25–27 October 2026 are listed. The phone understands more (suspension, regeneration, FM radio); we are still testing them and will add them here. The car itself decides whether to do a command: some actions may be allowed only when parked.
 
 ### Limitations
 

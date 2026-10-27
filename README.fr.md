@@ -155,18 +155,18 @@ Parlez normalement. Le téléphone cherche ce que vous voulez changer et s'il fa
 | Température | « plus chaud », « plus frais », « température 22 », « allume la clim », « éteins la clim » |
 | Sièges | « siège chauffant », « éteins le siège chauffant », « siège ventilé », « éteins la ventilation », « massage » |
 | Volant, vitre, rétros | « volant chauffant », « dégivrage arrière », « désembuage du pare-brise », « rétros chauffants » |
-| Vitres | « ouvre les vitres », « ferme les vitres » |
+| Vitres | « ouvre les vitres », « ferme les vitres », « ouvre les vitres à moitié », « ouvre un peu les vitres » |
 | Coffres | « ouvre le capot » (ou « coffre avant »), « ferme le capot », « ouvre le coffre », « ferme le coffre » |
 | Trappe de charge | « ouvre la trappe de charge », « ferme la trappe de charge » |
 | Rétroviseurs | « rabats les rétros », « déplie les rétros » |
 | Essuie-glaces | « essuie-glaces », « lave-glace » |
 | Feux | « allume la lumière », « éteins la lumière » (habitacle), « antibrouillard » (arrière), « éclairage d'ambiance rouge », « éclairage d'ambiance bleu » |
-| Thème de l'écran | « thème clair », « thème sombre » |
+| Écran, son, modes | « thème clair », « thème sombre », « volume 20 », « active le mode neige » (la voiture demande confirmation) |
 | IA du téléphone | « intelligence artificielle », « AI », « ChatGPT », « Gemini » |
 
 Pour le siège chauffant, vous pouvez préciser « conducteur » ou « passager » : « siège chauffant passager », « siège chauffant conducteur », « sièges arrière chauffants ». La voiture n’allume pas les feux de route à la voix, seulement avec la manette gauche ; le téléphone vous le dit.
 
-Seules les commandes vérifiées dans la voiture les 25 et 26 octobre 2026 figurent ici. Le téléphone en comprend d’autres (modes de conduite, batterie et autonomie, volume en chiffres) ; nous les testons encore et les ajouterons ici. C’est la voiture qui décide d’exécuter : certaines actions peuvent n’être permises qu’à l’arrêt.
+Seules les commandes vérifiées dans la voiture du 25 au 27 octobre 2026 figurent ici. Le téléphone en comprend d’autres (suspension, récupération, radio FM) ; nous les testons encore et les ajouterons ici. C’est la voiture qui décide d’exécuter : certaines actions peuvent n’être permises qu’à l’arrêt.
 
 ### Limites
 
