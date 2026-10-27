@@ -138,6 +138,10 @@ Con el interruptor apagado, el botón del asistente en el volante abre como ante
 
 Para hablar con la **IA del teléfono**, pulsa el botón del volante y di «inteligencia artificial», «AI», «ChatGPT» o «Gemini». El teléfono pide al asistente del coche que salga («退出小爱») y abre la IA.
 
+**Llamadas por voz:** pulsa el botón del volante y di «llama a Olena», «llama a mamá». El teléfono busca el nombre en sus contactos y llama; si hay varios, la pantalla del coche muestra hasta tres para elegir. La primera vez, permite el acceso a los contactos en el teléfono. Si el Bluetooth del coche no está conectado, el teléfono no llama (la conversación iría a su altavoz): abre la elección del coche y te pide que vuelvas a llamar.
+
+**La respuesta del coche en pantalla:** después de una orden, el teléfono escucha la respuesta en chino del coche y la muestra en la pantalla del coche en tu idioma (traducida por Google Translate, necesita internet).
+
 **Lista de órdenes en pantalla:** en el coche, engranaje → **«🗣 Órdenes del asistente»** (arriba en los ajustes); en el teléfono, el botón **«Órdenes del asistente»** bajo el interruptor «Asistente del coche en tu idioma». Solo aparecen las órdenes verificadas en el coche y lo que el coche no hace por voz.
 
 ### Qué puedes decir
@@ -166,7 +170,7 @@ Aquí solo están las órdenes comprobadas en el coche el 25 y 26 de octubre de 
 
 - Hace falta el **botón del volante**. El teléfono no puede despertar al asistente con «小爱同学»: el coche solo parpadea un momento y no sigue escuchando (probado con todos los ajustes de activación por voz).
 - Deja el teléfono **en el habitáculo** (en el cargador o en un soporte), no en un bolsillo o bolso: el coche tiene que oír su altavoz.
-- El coche responde en chino.
+- El coche responde en chino; su respuesta aparece traducida en la pantalla del coche.
 
 ## Ajustes recomendados
 

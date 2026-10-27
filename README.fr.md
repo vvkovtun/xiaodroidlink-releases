@@ -138,6 +138,10 @@ Interrupteur désactivé, le bouton de l'assistant au volant ouvre comme avant l
 
 Pour parler à l'**IA du téléphone**, appuyez sur le bouton du volant et dites « intelligence artificielle », « AI », « ChatGPT » ou « Gemini ». Le téléphone demande à l'assistant de la voiture de quitter (« 退出小爱 ») et ouvre l'IA.
 
+**Appels à la voix :** appuyez sur le bouton du volant et dites « appelle Olena », « appelle maman ». Le téléphone cherche le nom dans ses contacts et appelle ; s'il y en a plusieurs, l'écran de la voiture en propose jusqu'à trois. La première fois, autorisez l'accès aux contacts sur le téléphone. Si le Bluetooth de la voiture n'est pas connecté, le téléphone n'appelle pas (la conversation passerait par son haut-parleur) : il ouvre le choix de la voiture et vous demande de rappeler.
+
+**La réponse de la voiture à l'écran :** après une commande, le téléphone écoute la réponse en chinois de la voiture et l'affiche sur l'écran de la voiture dans votre langue (traduite par Google Traduction, Internet nécessaire).
+
 **Liste des commandes à l'écran :** dans la voiture, engrenage → **« 🗣 Commandes de l'assistant »** (en haut des réglages) ; sur le téléphone, le bouton **« Commandes de l'assistant »** sous l'interrupteur « Assistant de la voiture dans votre langue ». Seules les commandes vérifiées dans la voiture y figurent, ainsi que ce que la voiture ne fait pas à la voix.
 
 ### Ce que vous pouvez dire
@@ -166,7 +170,7 @@ Seules les commandes vérifiées dans la voiture les 25 et 26 octobre 2026 figur
 
 - Il faut le **bouton du volant**. Le téléphone ne peut pas réveiller l'assistant avec « 小爱同学 » : la voiture clignote brièvement et n'écoute pas la suite (testé avec tous les réglages d'activation vocale).
 - Gardez le téléphone **dans l'habitacle** (sur le chargeur ou un support), pas dans une poche ou un sac : la voiture doit entendre son haut-parleur.
-- La voiture répond en chinois.
+- La voiture répond en chinois ; sa réponse s'affiche traduite sur l'écran de la voiture.
 
 ## Réglages recommandés
 

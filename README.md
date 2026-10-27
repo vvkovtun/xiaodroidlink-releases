@@ -141,6 +141,10 @@ With the switch off, the steering wheel assistant button opens the phone AI as b
 
 To talk to the **phone AI**, press the wheel button and say "artificial intelligence", "AI", "ChatGPT" or "Gemini". The phone asks the car assistant to quit ("退出小爱") and opens the AI.
 
+**Calls by voice:** press the wheel button and say "call Olena", "call mom". The phone finds the name in its contacts and calls; if several match, the car screen shows up to three to pick from. The first time, allow access to contacts on the phone. If the car's Bluetooth is not connected, the phone does not call (the conversation would go to the phone speaker): it opens the car selection and asks you to call again.
+
+**The car's reply on the screen:** after a command, the phone listens to the car's Chinese reply and shows it on the car screen in your language (translated by Google Translate, needs internet).
+
 **Command list on the screen:** in the car, gear → **"🗣 Assistant commands"** (top of the settings); on the phone, the **"Assistant commands"** button under the "Car assistant in your language" switch. Both show only the commands verified in the car, plus what the car does not do by voice.
 
 ### What You Can Say
@@ -171,7 +175,7 @@ Only commands verified in the car on 25–26 October 2026 are listed. The phone 
 
 - You need the **steering wheel button**. The phone cannot wake the car assistant with "小爱同学": the car only flashes briefly and stops listening (tested with every voice wake setting).
 - Keep the phone **in the cabin** (on the charger or in a holder), not in a pocket or bag: the car has to hear its speaker.
-- The car answers in Chinese.
+- The car answers in Chinese; its reply is shown translated on the car screen.
 - If the app language is Chinese, the phone passes the phrase as is. In Chinese you can also simply talk to the car assistant.
 
 ## Recommended Settings

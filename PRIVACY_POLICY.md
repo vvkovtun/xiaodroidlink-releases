@@ -1,6 +1,6 @@
 # XiaoDroidLink Privacy Policy
 
-Last updated: 2026-10-06
+Last updated: 2026-10-27
 
 XiaoDroidLink is developed by Salon Lifestyle. It connects an Android phone to a compatible Xiaomi YU7 CarLink screen. XiaoDroidLink is an independent project and is not an official Xiaomi, Samsung, Google, Android Auto, or ICCOA product.
 
@@ -14,9 +14,11 @@ XiaoDroidLink processes the following data only when the user enables the relate
 - Screen content after the user accepts Android's MediaProjection prompt, to show a selected phone app or the phone screen on the paired car display.
 - Notification content after the user grants notification access, to show media state, navigation directions, and selected messenger status on the car dashboard.
 - Incoming call notifications (caller name and the notification's Answer/Decline actions), to show a call card on the car dashboard. Nothing is stored or sent to the developer.
-- Favourite contacts: only the name and number of each contact the user picks in the system contact picker (up to four), stored on the phone for the Contacts widget. The app does not read the address book.
+- Favourite contacts: only the name and number of each contact the user picks in the system contact picker (up to four), stored on the phone for the Contacts widget.
+- Contacts (optional, read-only): when the user asks by voice to call someone ("call Olena"), the app searches the phone's contacts for that name to start the call. Contacts are read only on the phone at that moment; they are not stored by the app and not sent to the developer or any service.
 - Phone call permission (optional), so a tap on a favourite contact starts the call. Without it the phone's dialer opens instead.
 - Calendar (optional, read-only): the title, time and location of the next event within 24 hours, shown on the Calendar widget. It is read on the phone and not stored or sent to the developer.
+- Microphone, only after the user taps a voice button on the car screen or presses the assistant button on the steering wheel: speech is turned into text by the phone's speech recognition service (for example, Google speech services) to search for an address or a song, to call a contact, or to repeat a car command in Chinese. After a car command, the microphone briefly listens to the car assistant's spoken reply to show it as text.
 - Audio after the user enables optional audio through CarLink, to play phone audio through the paired car.
 - Accessibility window information and gestures after the user enables the service, to forward user-initiated touches from the car display and launch apps selected by the user.
 - Installed app names and icons to let the user choose apps for the car dashboard.
@@ -33,7 +35,9 @@ The following optional functions send encrypted HTTPS requests to third-party se
 - Open-Meteo for weather near the current location.
 - Overpass API for speed-camera data near the current location.
 - lrclib.net for song lyrics: the title, artist and length of the track that is playing are sent, only while the Lyrics widget is on a home screen.
-- Tryvoha.online for current air-alert information. The alert feed itself does not receive the phone location; region matching is performed on the device.
+- YouTube Music (music.youtube.com) for user-initiated song searches by voice: the spoken song title and artist are sent.
+- Google Translate (translate.googleapis.com) to translate the car assistant's spoken reply into the app language: only the text of that reply is sent, nothing about the user.
+- Tryvoha.online for current air-alert information. The alert feed itself does not receive the phone location; region matching is performed on the device. When Tryvoha.online is unavailable, the same public alert list is requested from ubilling.net.ua.
 
 Location and route requests are used only to return the requested feature. These public service providers may process technical request information, including the IP address, under their own privacy policies and retention rules. Users may configure self-hosted Nominatim and OSRM endpoints in the app.
 
