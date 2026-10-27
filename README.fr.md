@@ -150,7 +150,7 @@ Parlez normalement. Le téléphone cherche ce que vous voulez changer et s'il fa
 | Sièges | « siège chauffant », « éteins le siège chauffant », « siège ventilé », « éteins la ventilation », « massage » |
 | Volant, vitre, rétros | « volant chauffant », « dégivrage arrière », « désembuage du pare-brise », « rétros chauffants » |
 | Vitres | « ouvre les vitres », « ferme les vitres » |
-| Coffres | « ouvre le capot » (ou « coffre avant »), « ouvre le coffre », « ferme le coffre » |
+| Coffres | « ouvre le capot » (ou « coffre avant »), « ferme le capot », « ouvre le coffre », « ferme le coffre » |
 | Trappe de charge | « ouvre la trappe de charge », « ferme la trappe de charge » |
 | Rétroviseurs | « rabats les rétros », « déplie les rétros » |
 | Essuie-glaces | « essuie-glaces », « lave-glace » |
@@ -166,7 +166,6 @@ Seules les commandes vérifiées dans la voiture les 25 et 26 octobre 2026 figur
 
 - Il faut le **bouton du volant**. Le téléphone ne peut pas réveiller l'assistant avec « 小爱同学 » : la voiture clignote brièvement et n'écoute pas la suite (testé avec tous les réglages d'activation vocale).
 - Gardez le téléphone **dans l'habitacle** (sur le chargeur ou un support), pas dans une poche ou un sac : la voiture doit entendre son haut-parleur.
-- Le **coffre avant ne se ferme pas à la voix**, il s'ouvre seulement : la voiture ne le permet pas.
 - La voiture répond en chinois.
 
 ## Réglages recommandés

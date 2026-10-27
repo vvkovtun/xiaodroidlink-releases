@@ -150,7 +150,7 @@ Habla con normalidad. El teléfono busca qué quieres cambiar y si es encender o
 | Asientos | «calefacción del asiento», «apaga la calefacción del asiento», «asiento ventilado», «apaga la ventilación», «masaje» |
 | Volante, cristales, retrovisores | «volante calefactado», «desempañado trasero», «desempañado del parabrisas», «retrovisores calefactados» |
 | Ventanillas | «abre las ventanillas», «cierra las ventanillas» |
-| Maleteros | «abre el maletero delantero» (o «capó»), «abre el maletero», «cierra el maletero» |
+| Maleteros | «abre el maletero delantero» (o «capó»), «cierra el maletero delantero», «abre el maletero», «cierra el maletero» |
 | Puerto de carga | «abre el puerto de carga», «cierra el puerto de carga» |
 | Retrovisores | «pliega los retrovisores», «despliega los retrovisores» |
 | Limpiaparabrisas | «limpiaparabrisas», «lavaparabrisas» |
@@ -166,7 +166,6 @@ Aquí solo están las órdenes comprobadas en el coche el 25 y 26 de octubre de 
 
 - Hace falta el **botón del volante**. El teléfono no puede despertar al asistente con «小爱同学»: el coche solo parpadea un momento y no sigue escuchando (probado con todos los ajustes de activación por voz).
 - Deja el teléfono **en el habitáculo** (en el cargador o en un soporte), no en un bolsillo o bolso: el coche tiene que oír su altavoz.
-- El **maletero delantero no se cierra por voz**, solo se abre: el coche no lo permite.
 - El coche responde en chino.
 
 ## Ajustes recomendados

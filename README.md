@@ -155,7 +155,7 @@ In Ukrainian the app also understands Russian and mixed words ("открой о�
 | Seats | "seat heating", "turn off seat heating", "seat ventilation", "turn off ventilation", "seat massage" |
 | Wheel, glass, mirrors | "steering wheel heating", "rear defrost", "windshield defog", "mirror heating" |
 | Windows | "open the windows", "close the windows" |
-| Front and rear trunk | "open the front trunk" (or "hood", "frunk"), "open the trunk", "close the trunk" |
+| Front and rear trunk | "open the front trunk" (or "hood", "frunk"), "close the front trunk", "open the trunk", "close the trunk" |
 | Charge port | "open the charge port", "close the charge port" |
 | Mirrors | "fold the mirrors", "unfold the mirrors" |
 | Wipers | "turn on the wipers", "washer" |
@@ -171,7 +171,6 @@ Only commands verified in the car on 25–26 October 2026 are listed. The phone 
 
 - You need the **steering wheel button**. The phone cannot wake the car assistant with "小爱同学": the car only flashes briefly and stops listening (tested with every voice wake setting).
 - Keep the phone **in the cabin** (on the charger or in a holder), not in a pocket or bag: the car has to hear its speaker.
-- The **front trunk cannot be closed by voice**, only opened: the car does not allow it.
 - The car answers in Chinese.
 - If the app language is Chinese, the phone passes the phrase as is. In Chinese you can also simply talk to the car assistant.
 
