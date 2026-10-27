@@ -19,7 +19,7 @@ Ce projet est indépendant. Ce n'est pas un produit officiel Xiaomi, Samsung, IC
 - Appli de carte choisie dans le tableau de bord via la diffusion de l'écran du téléphone ; Google Maps reste le choix par défaut.
 - Audio via CarLink lorsque l'audio Bluetooth ne fonctionne pas.
 - Sélection des applications affichées dans la voiture.
-- Alertes vocales pour radars et alertes aériennes.
+- Alertes vocales pour radars et alertes aériennes — dans l'appui-tête du conducteur, dans la langue de l'appli (en anglais si le téléphone n'a pas de voix pour elle). Les radars sont chargés pour tout le pays où vous êtes, y compris à l'étranger.
 - Assistant de la voiture dans votre langue : bouton du volant, une commande, et le téléphone la transmet en chinois à la voiture.
 - Langues (14) : English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча.
 

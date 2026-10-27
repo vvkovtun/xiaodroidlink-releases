@@ -22,7 +22,7 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 - Built-in practical navigation on the OpenStreetMap map: address search, up to five address results, alternative routes, turn-by-turn instructions, remaining distance and time, automatic rerouting, and voice guidance.
 - Audio through CarLink when Bluetooth audio does not work.
 - App picker for apps shown in the car.
-- Voice warnings for speed cameras and air alerts.
+- Voice warnings for speed cameras and air alerts — in the driver's headrest, in the app language (in English if the phone has no voice for it). Cameras are loaded for the whole country you are in, at home and abroad.
 - Car assistant in your language: press the steering wheel button, say a command, and the phone tells the car in Chinese.
 - Languages (14): English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча.
 

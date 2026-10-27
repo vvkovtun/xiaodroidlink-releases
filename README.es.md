@@ -19,7 +19,7 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 - App de mapa seleccionada en el panel mediante transmisión de pantalla del teléfono; Google Maps es el valor predeterminado.
 - Audio por CarLink cuando el audio Bluetooth no funciona.
 - Selector de apps para mostrar en el coche.
-- Avisos de voz para radares y alertas aéreas.
+- Avisos de voz para radares y alertas aéreas — en el reposacabezas del conductor, en el idioma de la app (en inglés si el teléfono no tiene voz para él). Los radares se cargan para todo el país donde estás, también en el extranjero.
 - Asistente del coche en tu idioma: botón del volante, una orden, y el teléfono se la dice al coche en chino.
 - Idiomas (14): English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча.
 
