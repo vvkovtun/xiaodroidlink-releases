@@ -166,7 +166,7 @@ Parlez normalement. Le téléphone cherche ce que vous voulez changer et s'il fa
 
 Pour le siège chauffant, vous pouvez préciser « conducteur » ou « passager » : « siège chauffant passager », « siège chauffant conducteur », « sièges arrière chauffants ». La voiture n’allume pas les feux de route à la voix, seulement avec la manette gauche ; le téléphone vous le dit.
 
-Seules les commandes vérifiées dans la voiture du 25 au 27 octobre 2026 figurent ici. Le téléphone en comprend d’autres (suspension, récupération, radio FM) ; nous les testons encore et les ajouterons ici. C’est la voiture qui décide d’exécuter : certaines actions peuvent n’être permises qu’à l’arrêt.
+Seules les commandes vérifiées dans la voiture du 25 au 27 octobre 2026 figurent ici. Le téléphone en comprend d’autres (suspension, radio FM) ; nous les testons encore et les ajouterons ici. C’est la voiture qui décide d’exécuter : certaines actions peuvent n’être permises qu’à l’arrêt.
 
 ### Limites
 

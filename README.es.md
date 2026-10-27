@@ -166,7 +166,7 @@ Habla con normalidad. El teléfono busca qué quieres cambiar y si es encender o
 
 Para la calefacción del asiento puedes añadir «conductor» o «pasajero»: «calefacción del asiento del pasajero», «calefacción del asiento del conductor», «calefacción de los asientos traseros». El coche no enciende las luces largas por voz, solo con la palanca izquierda; el teléfono te lo indica.
 
-Aquí solo están las órdenes comprobadas en el coche del 25 al 27 de octubre de 2026. El teléfono entiende más (suspensión, regeneración, radio FM); aún las estamos probando y las añadiremos aquí. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
+Aquí solo están las órdenes comprobadas en el coche del 25 al 27 de octubre de 2026. El teléfono entiende más (suspensión, radio FM); aún las estamos probando y las añadiremos aquí. Es el coche quien decide si ejecuta la orden: algunas acciones pueden permitirse solo con el coche parado.
 
 ### Limitaciones
 

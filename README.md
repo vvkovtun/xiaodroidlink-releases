@@ -171,7 +171,7 @@ In Ukrainian the app also understands Russian and mixed words ("открой о�
 
 For seat heating you can add "driver" or "passenger": "passenger seat heating", "driver seat heating", "rear seat heating". The car does not tell battery and range by voice ("not supported"; look at the car screen). The car does not switch the high beam by voice, only with the left stalk; the phone tells you so.
 
-Only commands verified in the car on 25–27 October 2026 are listed. The phone understands more (suspension, regeneration, FM radio); we are still testing them and will add them here. The car itself decides whether to do a command: some actions may be allowed only when parked.
+Only commands verified in the car on 25–27 October 2026 are listed. The phone understands more (suspension, FM radio); we are still testing them and will add them here. The car itself decides whether to do a command: some actions may be allowed only when parked.
 
 ### Limitations
 
