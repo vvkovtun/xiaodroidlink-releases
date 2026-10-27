@@ -132,7 +132,9 @@ Interrupteur désactivé, le bouton de l'assistant au volant ouvre comme avant l
 
 ### Utiliser
 
-1. Appuyez sur le **bouton de l'assistant au volant** (molette gauche). L'assistant de la voiture se réveille et le téléphone écoute en même temps. La voiture affiche « Dites ce que la voiture doit faire… ».
+![Bouton de l'assistant : appuyez sur la molette de la branche gauche du volant](images/steering-wheel-assistant.png)
+
+1. **Appuyez sur la molette gauche** du volant (enfoncez-la, ne la tournez pas). L'assistant de la voiture se réveille et le téléphone écoute en même temps. La voiture affiche « Dites ce que la voiture doit faire… ».
 2. Dites une commande, par exemple « ouvre le capot ».
 3. Environ 3 secondes plus tard, le téléphone la dit en chinois, la voiture l'exécute et répond (en chinois aussi). Si le téléphone n'a pas reconnu la phrase, la voiture affiche « Pas compris : … ».
 

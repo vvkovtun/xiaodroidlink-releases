@@ -132,7 +132,9 @@ Con el interruptor apagado, el botón del asistente en el volante abre como ante
 
 ### Usar
 
-1. Pulsa el **botón del asistente en el volante** (rueda izquierda). El asistente del coche se despierta y el teléfono escucha a la vez. El coche muestra «Di qué debe hacer el coche…».
+![Botón del asistente: pulsa la rueda del radio izquierdo del volante](images/steering-wheel-assistant.png)
+
+1. **Pulsa la rueda izquierda** del volante (púlsala, no la gires). El asistente del coche se despierta y el teléfono escucha a la vez. El coche muestra «Di qué debe hacer el coche…».
 2. Di una orden, por ejemplo «abre el maletero delantero».
 3. Unos 3 segundos después el teléfono la dice en chino, y el coche la ejecuta y responde (también en chino). Si el teléfono no reconoció la frase, el coche muestra «No entendí: …».
 

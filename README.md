@@ -135,7 +135,9 @@ With the switch off, the steering wheel assistant button opens the phone AI as b
 
 ### Use It
 
-1. Press the **assistant button on the steering wheel** (the left scroll wheel). The car assistant wakes up and the phone listens at the same time. The car shows "Say what the car should do…".
+![The assistant button: press the scroll wheel on the left spoke of the steering wheel](images/steering-wheel-assistant.png)
+
+1. **Press the left scroll wheel** on the steering wheel (push it in, do not roll it). The car assistant wakes up and the phone listens at the same time. The car shows "Say what the car should do…".
 2. Say a command, for example "open the front trunk".
 3. About 3 seconds later the phone says it in Chinese, and the car does it and answers (also in Chinese). If the phone did not recognise the phrase, the car shows "Didn't understand: …".
 
