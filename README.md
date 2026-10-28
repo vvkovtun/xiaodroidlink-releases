@@ -1,6 +1,6 @@
 # XiaoDroidLink — User Guide
 
-Languages: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md)
+Languages: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink connects an Android phone to the Xiaomi YU7 screen through CarLink. It can show a dashboard or the phone screen in the car, control music, open selected apps, send car-screen touches back to the phone, and use Google Maps through screen casting.
 
@@ -24,7 +24,7 @@ This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Androi
 - App picker for apps shown in the car.
 - Voice warnings for speed cameras and air alerts — in the driver's headrest, in the app language (in English if the phone has no voice for it). Cameras are loaded for the whole country you are in, at home and abroad.
 - Car assistant in your language: press the steering wheel button, say a command, and the phone tells the car in Chinese.
-- Languages (14): English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча.
+- Languages (15): English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча, Русский.
 
 ## Videos
 
@@ -147,7 +147,7 @@ To talk to the **phone AI**, press the wheel button and say "artificial intellig
 
 **The car's reply on the screen:** after a command, the phone listens to the car's Chinese reply and shows it on the car screen in your language (translated by Google Translate, needs internet).
 
-**Command list on the screen:** in the car, gear → **"🗣 Assistant commands"** (top of the settings); on the phone, the **"Assistant commands"** button under the "Car assistant in your language" switch. Both show only the commands verified in the car, plus what the car does not do by voice.
+**Command list on the screen:** press the wheel button and say "commands" or "what can you do" — the list opens on the car screen. Or in the car, gear → **"🗣 Assistant commands"** (top of the settings); on the phone, the **"Assistant commands"** button under the "Car assistant in your language" switch. Both show only the commands verified in the car, plus what the car does not do by voice.
 
 ### What You Can Say
 

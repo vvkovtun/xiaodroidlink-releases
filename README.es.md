@@ -1,6 +1,6 @@
 # XiaoDroidLink — Guía de usuario
 
-Idiomas: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md)
+Idiomas: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink conecta un teléfono Android a la pantalla del Xiaomi YU7 mediante CarLink. La aplicación puede mostrar un panel o la pantalla del teléfono en el coche, controlar la música, abrir apps seleccionadas, enviar los toques de la pantalla del coche al teléfono y usar Google Maps mediante transmisión de pantalla.
 
@@ -21,7 +21,7 @@ Este es un proyecto independiente. No es un producto oficial de Xiaomi, Samsung,
 - Selector de apps para mostrar en el coche.
 - Avisos de voz para radares y alertas aéreas — en el reposacabezas del conductor, en el idioma de la app (en inglés si el teléfono no tiene voz para él). Los radares se cargan para todo el país donde estás, también en el extranjero.
 - Asistente del coche en tu idioma: botón del volante, una orden, y el teléfono se la dice al coche en chino.
-- Idiomas (14): English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча.
+- Idiomas (15): English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча, Русский.
 
 ## Vídeos
 
@@ -144,7 +144,7 @@ Para hablar con la **IA del teléfono**, pulsa el botón del volante y di «inte
 
 **La respuesta del coche en pantalla:** después de una orden, el teléfono escucha la respuesta en chino del coche y la muestra en la pantalla del coche en tu idioma (traducida por Google Translate, necesita internet).
 
-**Lista de órdenes en pantalla:** en el coche, engranaje → **«🗣 Órdenes del asistente»** (arriba en los ajustes); en el teléfono, el botón **«Órdenes del asistente»** bajo el interruptor «Asistente del coche en tu idioma». Solo aparecen las órdenes verificadas en el coche y lo que el coche no hace por voz.
+**Lista de órdenes en pantalla:** pulsa el botón del volante y di «comandos»: la lista se abre en la pantalla del coche. O en el coche, engranaje → **«🗣 Órdenes del asistente»** (arriba en los ajustes); en el teléfono, el botón **«Órdenes del asistente»** bajo el interruptor «Asistente del coche en tu idioma». Solo aparecen las órdenes verificadas en el coche y lo que el coche no hace por voz.
 
 ### Qué puedes decir
 

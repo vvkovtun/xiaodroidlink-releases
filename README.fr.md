@@ -1,6 +1,6 @@
 # XiaoDroidLink — Guide utilisateur
 
-Langues : [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md)
+Langues : [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink connecte un téléphone Android à l'écran Xiaomi YU7 via CarLink. L'application peut afficher un tableau de bord ou l'écran du téléphone dans la voiture, contrôler la musique, ouvrir les applications choisies, renvoyer les gestes tactiles de l'écran de la voiture vers le téléphone et utiliser Google Maps par diffusion d'écran.
 
@@ -21,7 +21,7 @@ Ce projet est indépendant. Ce n'est pas un produit officiel Xiaomi, Samsung, IC
 - Sélection des applications affichées dans la voiture.
 - Alertes vocales pour radars et alertes aériennes — dans l'appui-tête du conducteur, dans la langue de l'appli (en anglais si le téléphone n'a pas de voix pour elle). Les radars sont chargés pour tout le pays où vous êtes, y compris à l'étranger.
 - Assistant de la voiture dans votre langue : bouton du volant, une commande, et le téléphone la transmet en chinois à la voiture.
-- Langues (14) : English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча.
+- Langues (15) : English, Українська, 中文, Français, Español, Deutsch, Polski, Қазақша, Azərbaycanca, Oʻzbekcha, Тоҷикӣ, ქართული, Հայերեն, Кыргызча, Русский.
 
 ## Vidéos
 
@@ -144,7 +144,7 @@ Pour parler à l'**IA du téléphone**, appuyez sur le bouton du volant et dites
 
 **La réponse de la voiture à l'écran :** après une commande, le téléphone écoute la réponse en chinois de la voiture et l'affiche sur l'écran de la voiture dans votre langue (traduite par Google Traduction, Internet nécessaire).
 
-**Liste des commandes à l'écran :** dans la voiture, engrenage → **« 🗣 Commandes de l'assistant »** (en haut des réglages) ; sur le téléphone, le bouton **« Commandes de l'assistant »** sous l'interrupteur « Assistant de la voiture dans votre langue ». Seules les commandes vérifiées dans la voiture y figurent, ainsi que ce que la voiture ne fait pas à la voix.
+**Liste des commandes à l'écran :** appuyez sur le bouton du volant et dites « commandes » — la liste s'ouvre sur l'écran de la voiture. Ou dans la voiture, engrenage → **« 🗣 Commandes de l'assistant »** (en haut des réglages) ; sur le téléphone, le bouton **« Commandes de l'assistant »** sous l'interrupteur « Assistant de la voiture dans votre langue ». Seules les commandes vérifiées dans la voiture y figurent, ainsi que ce que la voiture ne fait pas à la voix.
 
 ### Ce que vous pouvez dire
 
