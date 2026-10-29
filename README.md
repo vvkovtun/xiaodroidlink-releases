@@ -83,7 +83,7 @@ Open the Permissions section in XiaoDroidLink and grant what the app needs:
 - Bluetooth, location, microphone, notifications — for car discovery, Wi-Fi, audio, and notifications.
 - Notification access — for music, Google Maps directions, and messages.
 - Accessibility — for touch control from the car screen into phone apps.
-- Modify system settings — for correct screen orientation.
+- Modify system settings — required, so the picture fills the whole car screen.
 - Unrestricted battery — so Android does not stop the connection in the background.
 - Screen casting — for Google Maps and phone screen mode.
 

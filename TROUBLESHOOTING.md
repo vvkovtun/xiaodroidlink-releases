@@ -63,7 +63,7 @@ If there are no three dots, first try the switch, get the refusal and come back 
 
 > Phone: give XiaoDroidLink notification access
 
-The dashboard shows no track title, player buttons do nothing, and messages and Google Maps directions are missing. The music block says `No active player` / `Notification access needed`.
+The dashboard shows no track title, player buttons do nothing, and messages and Google Maps directions are missing. The music block says `Music is not playing` / `Notification access needed`.
 
 1. Tap `Fix`.
 2. Choose **XiaoDroidLink** in the list.
@@ -191,7 +191,7 @@ If the car never shows a code, close CarLink in the car, open it again and tap `
 | `… is not installed on the phone` | Install the app or remove it from `Apps in the car`. |
 | `Could not open …` | Open the app once on the phone by hand (some need a sign-in), then try again. |
 | `Player unavailable` · `No music app` | Start music on the phone once. Check `Music button player` in settings and notification access. |
-| `No active player` · `Start music on the phone` | Nothing is playing. Tap ▶ or start a player on the phone. |
+| `Music is not playing` · `Press ▶` | Nothing is playing. Tap ▶ — the player chosen with the button showing its name at the top of the music block starts. |
 | `Voice assistant unavailable` | Install ChatGPT or choose an assistant: `Android Settings → Apps → Default apps → Digital assistant app`. Check the `Microphone button` field. |
 | `Could not open the message` | The messenger did not let the chat open. Open it on the phone. |
 | `Could not open settings` | Open XiaoDroidLink on the phone by hand. |
