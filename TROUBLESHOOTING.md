@@ -101,6 +101,8 @@ The car shows the picture but sound plays from the phone. The hint under the tit
 | `Phone: turn on “Audio through CarLink” in XiaoDroidLink` | Tap `Fix` or turn on `Settings` → `Audio through CarLink`. |
 | `Phone: allow screen casting — audio is not sent without it` | Audio through CarLink travels together with screen casting. Tap `Fix` and allow casting as in the previous section. |
 
+**Spotify and SoundCloud do not play in the car.** They do not let other apps take their sound, and the YU7 does not accept music over Bluetooth. XiaoDroidLink therefore does not list them as players. Sound was checked to work from YouTube Music, Deezer, Samsung Music and VLC.
+
 Only music is carried over CarLink. Navigation voice, ChatGPT and calls use the car's Bluetooth — if you see the notification `The car's Bluetooth is not connected`, tap it and pick the car in the Bluetooth list. The app drops the connection for that moment (the YU7 does not accept Bluetooth while CarLink is running) and reconnects by itself once Bluetooth is connected. Do not connect the car's Bluetooth in advance, before CarLink starts: the car drops such a connection when CarLink starts. After connecting through the notification, do not close CarLink on the car screen — Bluetooth then survives later connections too. Details: the section “Calls And Voice Through The Car's Bluetooth” in the user guide.
 
 ### The car cannot be found or connected
