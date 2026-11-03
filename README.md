@@ -1,6 +1,6 @@
 # XiaoDroidLink — User Guide
 
-Languages: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
+Languages: [English](README.md) · [Українська](readme/README.ua.md) · [中文](readme/README.zh.md) · [Français](readme/README.fr.md) · [Español](readme/README.es.md) · [Deutsch](readme/README.de.md) · [Polski](readme/README.pl.md) · [Қазақша](readme/README.kk.md) · [Azərbaycanca](readme/README.az.md) · [Oʻzbekcha](readme/README.uz.md) · [Тоҷикӣ](readme/README.tg.md) · [ქართული](readme/README.ka.md) · [Հայերեն](readme/README.hy.md) · [Кыргызча](readme/README.ky.md) · [Русский](readme/README.ru.md)
 
 XiaoDroidLink connects an Android phone to the Xiaomi YU7 screen through CarLink. It can show a dashboard or the phone screen in the car, control music, open selected apps, send car-screen touches back to the phone, and use Google Maps through screen casting.
 
@@ -34,7 +34,7 @@ Presentation in English (49 s):
 
 [![XiaoDroidLink — presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4)
 
-Every feature and widget in detail: [All features](FEATURES.md) · [Home screen widgets](WIDGETS.md).
+Every feature and widget in detail: [All features](docs/FEATURES.md) · [Home screen widgets](docs/WIDGETS.md).
 
 ## Install from Google Play
 
@@ -251,7 +251,7 @@ The built-in map draws its own blue vehicle arrow. While moving, it uses the pho
 
 ## Troubleshooting
 
-Full list of phone and car screen messages, with screenshots of what to turn on: [on-screen errors and how to fix them](TROUBLESHOOTING.md).
+Full list of phone and car screen messages, with screenshots of what to turn on: [on-screen errors and how to fix them](docs/TROUBLESHOOTING.md).
 
 ### The car is not found
 
@@ -353,6 +353,6 @@ Android/data/salon.lifestyle.xiaodroidlink/files/probe.log
 
 ## Support
 
-**Extra features via a computer** (music keeps playing when you lock the phone, almost black phone screen while driving): [one-time setup with our helper](EXTRAS_ADB.md).
+**Extra features via a computer** (music keeps playing when you lock the phone, almost black phone screen while driving): [one-time setup with our helper](docs/EXTRAS_ADB.md).
 
 Support: xiaodroidlink@lifestyle.salon
