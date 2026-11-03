@@ -4,6 +4,8 @@ Dillər: [English](../README.md) · [Українська](README.ua.md) · [中
 
 XiaoDroidLink Android telefonunu CarLink vasitəsilə Xiaomi YU7 ekranına qoşur: saat, hava, musiqi, xəritə və mesajlarla panel, avtomobildə toxunuşla idarə olunan telefon ekranı, naviqasiya və sizin dilinizdə avtomobil assistenti.
 
+**CarLink (ICCOA) olan avtomobillərlə işləyir.** İstifadəçilər Xiaomi, Toyota, Nissan, Haval, Deepal, GAC, Wuling və Lynk & Co ilə işlədiyini artıq təsdiqləyib. CarLink olan başqa avtomobil? Sınayın və tətbiqdən hesabat göndərin — həll edəcəyik.
+
 Bu müstəqil tətbiqdir, Xiaomi, Samsung, ICCOA, Android Auto və ya Google-un rəsmi məhsulu deyil.
 
 ## Quraşdırma
@@ -16,12 +18,21 @@ XiaoDroidLink Google Play-dədir: [https://play.google.com/store/apps/details?id
 2. XiaoDroidLink-i açın, «Qoşul» düyməsinə toxunun, avtomobil ekranındakı 6 rəqəmli kodu daxil edin və avtomobilin Wi‑Fi şəbəkəsinə icazə verin.
 3. «İcazələr» bölməsində lazım olanlara icazə verin. Sonra avtomobilə minəndə telefon özü qoşulacaq.
 
+## XiaoDroidLink səs əmrləri — istənilən avtomobildə
+
+- Xəritə vidjetində 🎤: ünvanı deyin, marşrut başlayacaq.
+- Musiqi kartında 🎤: mahnı və ya ifaçı adını deyin, musiqi başlayacaq.
+
 ## Avtomobil assistenti sizin dilinizdə
+
+**Yalnız Xiaomi avtomobilləri üçün.** Digər avtomobillərdə sükandakı düymə avtomobilin öz assistentini açır; hansı əmrləri başa düşdüyü modeldən asılıdır.
 
 Yandırmaq: Ayarlar → «Avtomobil assistenti sizin dilinizdə». Sükandakı assistent düyməsini basın, əmri deyin (məsələn, «baqajı aç»), telefon onu avtomobilə çin dilində deyəcək. Əmrlərin siyahısı: Ayarlar → «Assistent əmrləri» (telefonda və avtomobildə). Azərbaycanca əmrlər tərcümə olunub, lakin avtomobildə hələ yoxlanılmayıb — hansısa işləməsə, bizə yazın.
 
 ## Ətraflı
 
 İngilis dilində ətraflı təlimat: [User guide](../README.md) · [Bütün imkanlar](../docs/FEATURES.md) · [Vidjetlər](../docs/WIDGETS.md) · [Problemlərin həlli](../docs/TROUBLESHOOTING.md).
+
+**Kompüter vasitəsilə əlavə funksiyalar** (telefonu kilidlədikdə musiqi dayanmır; yolda telefon ekranı demək olar ki, qara): [köməkçimizlə birdəfəlik quraşdırma (ingiliscə)](../docs/EXTRAS_ADB.md).
 
 Suallar və problemlər: xiaodroidlink@lifestyle.salon

@@ -4,6 +4,8 @@ Langues : [English](../README.md) · [Українська](README.ua.md) · [�
 
 XiaoDroidLink connecte un téléphone Android à l'écran Xiaomi YU7 via CarLink. L'application peut afficher un tableau de bord ou l'écran du téléphone dans la voiture, contrôler la musique, ouvrir les applications choisies, renvoyer les gestes tactiles de l'écran de la voiture vers le téléphone et utiliser Google Maps par diffusion d'écran.
 
+**Fonctionne avec les voitures CarLink (ICCOA).** Les utilisateurs ont déjà confirmé le fonctionnement avec Xiaomi, Toyota, Nissan, Haval, Deepal, GAC, Wuling et Lynk & Co. Une autre voiture CarLink ? Essayez et envoyez un rapport depuis l'appli, nous nous en occuperons.
+
 Ce projet est indépendant. Ce n'est pas un produit officiel Xiaomi, Samsung, ICCOA, Android Auto ou Google.
 
 ## Fonctionnalités
@@ -75,14 +77,43 @@ Le bouton d'aperçu sans voiture de l'application permet de voir le tableau de b
 
 ## Première configuration
 
-Dans XiaoDroidLink, ouvrez la section Permissions et accordez les accès nécessaires :
+Après l'installation, XiaoDroidLink vous guide lui-même : une carte orange **« Configuration : étape 1 sur 5 »** apparaît en haut de l'écran principal. La carte dit pourquoi l'autorisation est nécessaire, et la ligne sous le bouton dit quoi toucher. Touchez le bouton orange **« Autoriser »** et suivez la ligne en dessous. Une étape peut être passée (« Passer — je le ferai plus tard ») : une ligne « Étapes passées » avec un bouton **« Configurer maintenant »** remplace alors la carte. Quand tout est accordé, la carte disparaît.
 
-- Bluetooth, position, microphone, notifications — pour trouver la voiture, le Wi-Fi, l'audio et les notifications.
-- Accès aux notifications — pour la musique, Google Maps et les messages.
-- Accessibilité — pour contrôler les applications du téléphone depuis l'écran de la voiture.
-- Modification des paramètres système — pour l'orientation correcte de l'écran.
-- Batterie sans restriction — pour éviter qu'Android coupe la connexion en arrière-plan.
-- Diffusion de l'écran — pour Google Maps et le mode écran du téléphone.
+| 1 | 2 | 3 |
+|---|---|---|
+| ![Étape 1 : trouver la voiture et le son](../images/xiaodroidlink-fr-setup-1.png) | ![Étape 2 : toucher depuis l'écran de la voiture](../images/xiaodroidlink-fr-setup-2.png) | ![Étape 3 : musique et indications Google Maps](../images/xiaodroidlink-fr-setup-3.png) |
+
+| 4 | 5 |
+|---|---|
+| ![Étape 4 : image sur tout l'écran](../images/xiaodroidlink-fr-setup-4.png) | ![Étape 5 : sans restriction de batterie](../images/xiaodroidlink-fr-setup-5.png) |
+
+**Étape 1. Trouver la voiture et le son.** Touchez « Autoriser ». Android affiche 4 fenêtres l'une après l'autre :
+
+| Fenêtre Android | Quoi toucher |
+|---|---|
+| Accès à la position | « Précise », puis « Lorsque vous utilisez l'appli » |
+| Enregistrer de l'audio (micro) | « Lorsque vous utilisez l'appli » |
+| Appareils à proximité | « Autoriser » |
+| Envoyer des notifications | « Autoriser » |
+
+**Étape 2. Toucher depuis l'écran de la voiture** (accessibilité).
+1. Touchez « Autoriser », lisez l'explication et touchez « J'accepte ». « Accessibilité » s'ouvre.
+2. Ouvrez la section des applications téléchargées : Samsung — **« Applications installées »** ; Xiaomi, Redmi, POCO — **« Applications téléchargées »** ; autres téléphones — « Téléchargées » ou « Applications installées ».
+3. Touchez **« XiaoDroidLink: car touch controls »**.
+4. Activez l'**interrupteur en haut**.
+5. Android demande d'autoriser le contrôle total de l'appareil — touchez **« Autoriser »**.
+6. Plus bas, l'interrupteur **« Raccourci … »** — **laissez-le désactivé** : un toucher accidentel désactive le contrôle depuis la voiture.
+7. Revenez dans XiaoDroidLink avec Retour.
+
+**Étape 3. Musique et indications Google Maps** (accès aux notifications). Touchez « Autoriser ». La liste **« Accès aux notifications »** s'ouvre : touchez **XiaoDroidLink** et confirmez « Autoriser ». L'application revient d'elle-même.
+
+**Étape 4. Image sur tout l'écran de la voiture.** Touchez « Autoriser ». La page **« Modifier les paramètres système »** de XiaoDroidLink s'ouvre : activez l'**autorisation**. L'application revient d'elle-même.
+
+**Étape 5. Sans restriction de batterie.** Touchez « Autoriser ». Android demande d'arrêter l'optimisation de la batterie : touchez **« OK »** sur Samsung ou **« Autoriser »** sur les autres téléphones.
+
+À la première connexion, Android demande aussi de diffuser l'écran : choisissez **« Tout l'écran »** et touchez **« Commencer »**.
+
+Si une étape échoue, la carte a un bouton « Toujours bloqué ? Envoyer un rapport au développeur » — voir [Envoyer un rapport ou une suggestion](#envoyer-un-rapport-ou-une-suggestion).
 
 ## Connexion à la voiture
 
@@ -116,7 +147,14 @@ Bon à savoir :
 - Le YU7 n'accepte pas la musique par Bluetooth pendant CarLink, donc `Son via CarLink` doit rester activé.
 - Testé sur le Xiaomi YU7 Max. Il arrive que la voiture coupe quand même le Bluetooth : refaites les étapes 2 à 4.
 
+## Commandes vocales XiaoDroidLink — dans toute voiture
+
+- 🎤 sur le widget carte : dites une adresse et l'itinéraire démarre.
+- 🎤 sur la carte musique : dites un titre ou un artiste et la musique démarre.
+
 ## Assistant de la voiture dans votre langue
+
+**Voitures Xiaomi uniquement.** Dans les autres voitures, le bouton du volant ouvre l'assistant de la voiture ; les commandes qu'il comprend dépendent du modèle.
 
 L'assistant de la voiture (XiaoAI, 超级小爱) ne comprend que le chinois. XiaoDroidLink traduit pour lui : vous dites une commande dans votre langue, le téléphone la répète en chinois **par son propre haut-parleur**, et la voiture l'exécute. Vous pouvez ainsi piloter le climat, les sièges, les vitres, le coffre avant, les essuie-glaces, les feux et le thème de l’écran.
 
@@ -124,7 +162,7 @@ Les commandes sont comprises en ukrainien, russe, anglais, français et espagnol
 
 ### Activer
 
-1. Sur le téléphone : XiaoDroidLink → Réglages → l'interrupteur **« Assistant de la voiture dans votre langue »**.
+1. Depuis la 7.95, l'assistant est activé par défaut. Pour le désactiver : sur le téléphone, XiaoDroidLink → Réglages → l'interrupteur **« Assistant de la voiture dans votre langue »**.
 2. Autorisez le micro si le téléphone le demande.
 3. Le téléphone a besoin d'une voix chinoise de synthèse vocale. Samsung et Google l'ont en général déjà. Sinon, la voiture affiche une aide : Paramètres → Synthèse vocale → installez le chinois.
 
@@ -249,6 +287,22 @@ Liste complète des messages affichés sur le téléphone et dans la voiture, av
 - Gardez la notification de connexion active.
 - Si le téléphone a un gestionnaire batterie, ajoutez XiaoDroidLink à la liste blanche.
 
+## Envoyer un rapport ou une suggestion
+
+Si quelque chose ne marche pas ou si vous avez une idée d'amélioration, écrivez au développeur directement depuis l'application. Tout ce qu'il faut pour analyser est joint automatiquement : modèle du téléphone, version d'Android, autorisations et journal.
+
+| Le bouton dans l'application | Le formulaire |
+|---|---|
+| ![Bouton « Un problème ? Envoyer un rapport »](../images/xiaodroidlink-fr-report-button.png) | ![Formulaire : le problème, la voiture, photos facultatives](../images/xiaodroidlink-fr-report-form.png) |
+
+1. Sur le téléphone, ouvrez XiaoDroidLink, descendez jusqu'à « Recommander XiaoDroidLink » et touchez **« Un problème ? Envoyer un rapport »**. Si la connexion échoue, la configuration a le même bouton : « Toujours bloqué ? Envoyer un rapport au développeur ».
+2. Dans le formulaire, écrivez brièvement **ce qui ne marche pas ou ce qu'il faudrait améliorer**.
+3. Dans **« Voiture »**, indiquez la marque et le modèle, p. ex. « Toyota bZ3X ». Si le téléphone s'est déjà connecté à la voiture, le champ est rempli tout seul.
+4. Si vous voulez, touchez **« 📷 Ajouter des photos — facultatif »** et choisissez jusqu'à 3 photos, p. ex. l'écran de la voiture avec l'erreur. Le rapport part aussi sans photos.
+5. Touchez **« Envoyer »** : votre messagerie ouvre un e-mail prêt pour xiaodroidlink@lifestyle.salon, avec le journal et les photos. Si vous avez plusieurs messageries, choisissez-en une. Il reste à toucher Envoyer dans la messagerie — sinon l'e-mail ne part pas.
+
+S'il n'y a pas d'application de messagerie, l'application propose une autre application pour l'envoi, ou écrivez à xiaodroidlink@lifestyle.salon.
+
 ## Journaux de diagnostic
 
 Dans l'application :
@@ -264,5 +318,7 @@ Android/data/salon.lifestyle.xiaodroidlink/files/probe.log
 ```
 
 ## Support
+
+**Fonctions supplémentaires via un ordinateur** (la musique continue quand vous verrouillez le téléphone ; écran du téléphone presque noir pendant la route): [configuration unique avec notre assistant (en anglais)](../docs/EXTRAS_ADB.md).
 
 Assistance : xiaodroidlink@lifestyle.salon

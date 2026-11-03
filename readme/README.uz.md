@@ -4,6 +4,8 @@ Tillar: [English](../README.md) · [Українська](README.ua.md) · [中�
 
 XiaoDroidLink Android telefonni CarLink orqali Xiaomi YU7 ekraniga ulaydi: soat, ob-havo, musiqa, xarita va xabarlar bilan panel, avtomobilda teginish bilan boshqariladigan telefon ekrani, navigatsiya va sizning tilingizda avtomobil yordamchisi.
 
+**CarLink (ICCOA) bor avtomobillar bilan ishlaydi.** Foydalanuvchilar Xiaomi, Toyota, Nissan, Haval, Deepal, GAC, Wuling va Lynk & Co avtomobillarida ishlashini allaqachon tasdiqlashgan. CarLink bor boshqa avtomobil? Sinab ko'ring va ilovadan hisobot yuboring — hal qilamiz.
+
 Bu mustaqil ilova, Xiaomi, Samsung, ICCOA, Android Auto yoki Google-ning rasmiy mahsuloti emas.
 
 ## Oʻrnatish
@@ -16,12 +18,21 @@ XiaoDroidLink Google Play-da bor: [https://play.google.com/store/apps/details?id
 2. XiaoDroidLink-ni oching, «Ulanish»ni bosing, avtomobil ekranidagi 6 xonali kodni kiriting va avtomobil Wi‑Fi tarmogʻiga ruxsat bering.
 3. «Ruxsatlar» boʻlimida keraklilariga ruxsat bering. Keyin avtomobilga oʻtirganingizda telefon oʻzi ulanadi.
 
+## XiaoDroidLink ovozli buyruqlari — istalgan avtomobilda
+
+- Xarita vidjetidagi 🎤: manzilni ayting — marshrut boshlanadi.
+- Musiqa kartasidagi 🎤: qo'shiq yoki ijrochi nomini ayting — musiqa yoqiladi.
+
 ## Avtomobil yordamchisi sizning tilingizda
+
+**Faqat Xiaomi avtomobillari uchun.** Boshqa avtomobillarda rul tugmasi avtomobilning o'z yordamchisini yoqadi; u qaysi buyruqlarni tushunishi avtomobil modeliga bog'liq.
 
 Yoqish: Sozlamalar → «Avtomobil yordamchisi sizning tilingizda». Ruldagi yordamchi tugmasini bosing, buyruqni ayting (masalan, «yuk xonasini och»), telefon uni avtomobilga xitoy tilida aytadi. Buyruqlar roʻyxati: Sozlamalar → «Yordamchi buyruqlari» (telefonda va avtomobilda). Oʻzbekcha buyruqlar tarjima qilingan, lekin avtomobilda hali tekshirilmagan — biror buyruq ishlamasa, bizga yozing. Telefoningiz oʻzbekcha nutqni taniy olmasa, buyruq ham ishlamaydi.
 
 ## Batafsil
 
 Ingliz tilidagi batafsil qoʻllanma: [User guide](../README.md) · [Barcha imkoniyatlar](../docs/FEATURES.md) · [Vidjetlar](../docs/WIDGETS.md) · [Muammolarni hal qilish](../docs/TROUBLESHOOTING.md).
+
+**Kompyuter orqali qoʻshimcha funksiyalar** (telefonni qulflaganda musiqa toʻxtamaydi; yoʻlda telefon ekrani deyarli qora): [yordamchimiz bilan bir martalik sozlash (inglizcha)](../docs/EXTRAS_ADB.md).
 
 Savollar va muammolar: xiaodroidlink@lifestyle.salon

@@ -4,6 +4,8 @@ Languages: [English](README.md) · [Українська](readme/README.ua.md) �
 
 XiaoDroidLink connects an Android phone to the Xiaomi YU7 screen through CarLink. It can show a dashboard or the phone screen in the car, control music, open selected apps, send car-screen touches back to the phone, and use Google Maps through screen casting.
 
+**Works with CarLink (ICCOA) cars.** Users have already confirmed it works with Xiaomi, Toyota, Nissan, Haval, Deepal, GAC, Wuling and Lynk & Co. Another car with CarLink? Try it and send a report from the app — we'll sort it out.
+
 This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Android Auto, or Google product.
 
 ## Features
@@ -78,14 +80,46 @@ Tap Preview without car in the phone app to inspect the dashboard.
 
 ## First Setup
 
-Open the Permissions section in XiaoDroidLink and grant what the app needs:
+After installing, XiaoDroidLink walks you through setup itself: an orange card **"Setup: step 1 of 5"** appears at the top of the main screen. The card says why the permission is needed, and the line under the button says what to tap. Tap the orange **"Allow"** and follow the line under it. A step can be skipped ("Skip — I'll do it later"): then a "Setup steps skipped" line with a **"Set up now"** button replaces the card. When everything is granted, the card disappears.
 
-- Bluetooth, location, microphone, notifications — for car discovery, Wi-Fi, audio, and notifications.
-- Notification access — for music, Google Maps directions, and messages.
-- Accessibility — for touch control from the car screen into phone apps.
-- Modify system settings — required, so the picture fills the whole car screen.
-- Unrestricted battery — so Android does not stop the connection in the background.
-- Screen casting — for Google Maps and phone screen mode.
+| 1 | 2 | 3 |
+|---|---|---|
+| ![Step 1: finding the car and sound](images/xiaodroidlink-en-setup-1.png) | ![Step 2: touches from the car screen](images/xiaodroidlink-en-setup-2.png) | ![Step 3: music and Google Maps directions](images/xiaodroidlink-en-setup-3.png) |
+
+| 4 | 5 |
+|---|---|
+| ![Step 4: picture on the whole car screen](images/xiaodroidlink-en-setup-4.png) | ![Step 5: unrestricted battery](images/xiaodroidlink-en-setup-5.png) |
+
+**Step 1. Finding the car and sound.** Tap "Allow". Android shows 4 windows one after another:
+
+| Android window | What to tap |
+|---|---|
+| Access this device's location | "Precise", then "While using the app" |
+| Record audio (microphone) | "While using the app" |
+| Find, connect to and determine the relative position of nearby devices | "Allow" |
+| Send you notifications | "Allow" |
+
+**Step 2. Touches from the car screen** (accessibility).
+1. Tap "Allow", read the explanation and tap "I agree". "Accessibility" opens.
+2. Open the section with downloaded apps:
+   - Samsung: **"Installed apps"**;
+   - Xiaomi, Redmi, POCO: **"Downloaded apps"**;
+   - other phones: "Downloaded" or "Installed apps".
+3. Tap **"XiaoDroidLink: car touch controls"**.
+4. Turn on the **switch at the top** (Off → On).
+5. Android asks whether to allow full control of the device — tap **"Allow"**.
+6. Below there is a **"… shortcut"** switch — **leave it off**: an accidental tap on the button or gesture turns off control from the car.
+7. Go back to XiaoDroidLink with Back.
+
+**Step 3. Music and Google Maps directions** (notification access). Tap "Allow". The **"Notification access"** list opens: tap **XiaoDroidLink** and confirm "Allow". The app comes back by itself.
+
+**Step 4. Picture on the whole car screen.** Tap "Allow". XiaoDroidLink's **"Change system settings"** page opens: turn on **"Allow permission"**. The app comes back by itself.
+
+**Step 5. Unrestricted battery.** Tap "Allow". Android asks whether to stop optimizing battery usage: tap **"OK"** on Samsung or **"Allow"** on other phones.
+
+On the first connection Android also asks to cast the screen: choose **"Entire screen"** and tap **"Start"**.
+
+If a step doesn't work, the card has a "Still stuck? Send a report to the developer" button — see [Send A Report Or A Suggestion](#send-a-report-or-a-suggestion).
 
 ## Connect To The Car
 
@@ -119,7 +153,14 @@ Good to know:
 - The YU7 does not accept music over Bluetooth while CarLink runs, so `Audio through CarLink` must stay on.
 - Tested on the Xiaomi YU7 Max. Now and then the car still drops Bluetooth — repeat steps 2–4.
 
+## XiaoDroidLink voice commands — in any car
+
+- 🎤 on the map widget: say an address and the route starts.
+- 🎤 on the music card: say a song or artist and it starts playing.
+
 ## Car Assistant In Your Language
+
+**Xiaomi cars only.** In other cars the steering-wheel button opens the car's own assistant; which commands it understands depends on the car model.
 
 The car assistant (XiaoAI, 超级小爱) understands only Chinese. XiaoDroidLink translates for it: you say a command in your language, the phone repeats it in Chinese **through its own speaker**, and the car does it. This way you can control climate, seats, windows, the front trunk, wipers, lights and the screen theme.
 
@@ -127,7 +168,7 @@ Commands are understood in Ukrainian, Russian, English, French and Spanish, and 
 
 ### Turn It On
 
-1. On the phone: XiaoDroidLink → Settings → the **"Car assistant in your language"** switch.
+1. Since 7.95 the assistant is on by default. To turn it off: on the phone, XiaoDroidLink → Settings → the **"Car assistant in your language"** switch.
 2. Allow microphone access if the phone asks.
 3. The phone needs a Chinese text-to-speech voice. Samsung and Google usually have it already. If not, the car shows a hint: Settings → Text-to-speech → install Chinese.
 
@@ -212,8 +253,6 @@ The built-in map draws its own blue vehicle arrow. While moving, it uses the pho
 
 Full list of phone and car screen messages, with screenshots of what to turn on: [on-screen errors and how to fix them](docs/TROUBLESHOOTING.md).
 
-**Extra features via a computer** (music keeps playing when you lock the phone, almost black phone screen while driving): [one-time setup with our helper](docs/EXTRAS_ADB.md).
-
 ### The car is not found
 
 - Open CarLink on the car screen.
@@ -282,6 +321,22 @@ Full list of phone and car screen messages, with screenshots of what to turn on:
 - Keep the active connection notification.
 - If your phone has a custom battery manager, add XiaoDroidLink to its whitelist.
 
+## Send A Report Or A Suggestion
+
+If something doesn't work, or you have an idea how to make the app better, write to the developer right from the app. Everything needed to look into it is attached automatically: phone model, Android version, permissions and the log.
+
+| The button in the app | The report form |
+|---|---|
+| ![The "Something not working? Send a report" button](images/xiaodroidlink-en-report-button.png) | ![Report form: what's wrong, the car, optional photos](images/xiaodroidlink-en-report-form.png) |
+
+1. On the phone, open XiaoDroidLink, scroll down to "Recommend XiaoDroidLink" and tap **"Something not working? Send a report"**. If you can't connect, the setup has the same button: "Still stuck? Send a report to the developer".
+2. In the form, write briefly **what isn't working or what could be better**.
+3. In **"Car"**, enter the make and model, e.g. "Toyota bZ3X". If the phone has already connected to the car, it is filled in for you.
+4. Optionally tap **"📷 Add photos — optional"** and pick up to 3 photos, e.g. the car screen with the error. The report goes without photos too.
+5. Tap **"Send"**: your mail app opens a ready e-mail to xiaodroidlink@lifestyle.salon with the log and photos attached. If you have several mail apps, pick one. Then tap Send in the mail app — without it the e-mail is not sent.
+
+If there is no mail app on the phone, the app offers another app to send the report, or write to xiaodroidlink@lifestyle.salon.
+
 ## Diagnostic Logs
 
 In the app:
@@ -297,5 +352,7 @@ Android/data/salon.lifestyle.xiaodroidlink/files/probe.log
 ```
 
 ## Support
+
+**Extra features via a computer** (music keeps playing when you lock the phone, almost black phone screen while driving): [one-time setup with our helper](docs/EXTRAS_ADB.md).
 
 Support: xiaodroidlink@lifestyle.salon

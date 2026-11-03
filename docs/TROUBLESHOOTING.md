@@ -178,7 +178,7 @@ If the car never shows a code, close CarLink in the car, open it again and tap `
 | Message | What to do |
 |---|---|
 | `No permission to cast the phone screen` · `The phone screen is not being cast` · `The map app is unavailable without screen casting` | Allow casting on the phone — see [above](#map-and-phone-screen-are-not-shown). |
-| `Unlock the phone to see the map` · `Phone is locked` | Unlock the phone. Android does not cast a locked screen. The phone screen dims by itself; there is no need to lock it. |
+| `Unlock the phone to see the map` · `Phone is locked` | Unlock the phone. Android does not cast a locked screen. The phone screen dims by itself; there is no need to lock it. With the [extra features](EXTRAS_ADB.md) music and the connection stay while the phone is locked. |
 | `Phone in hand — touch the screen to bring the map back` | You picked the phone up and are using it, so the car temporarily hides its screen. Touch the car screen. |
 | `Waiting for the phone picture…` · `Opening Google Maps…` | Wait a few seconds. If it stays, tap `Home`, then `Maps` again. |
 | `Loading the OpenStreetMap map…` | The built-in map needs internet on the phone for new areas. |
@@ -222,6 +222,7 @@ If the car never shows a code, close CarLink in the car, open it again and tap `
 - `Permissions` → `Unrestricted battery` → `Grant`. Samsung: `Settings → Apps → XiaoDroidLink → Battery → Unrestricted`; also remove the app from the "Sleeping apps" lists.
 - Do not swipe XiaoDroidLink away from recent apps and do not dismiss its `Car connection` notification.
 - Turn the VPN off.
+- Music stops and the car reconnects every time you lock the phone with the button: Android stops screen casting on lock. Do not lock — the phone dims by itself. Or [set up the extra features with our helper](EXTRAS_ADB.md) once: then locking keeps music and the connection.
 - If touch stopped working after a drop, check whether Android switched the accessibility service off (the red card will tell).
 
 ## If nothing helped
