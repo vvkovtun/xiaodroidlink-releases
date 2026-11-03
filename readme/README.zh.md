@@ -4,7 +4,7 @@
 
 XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机屏幕。它可以在车机上显示仪表盘或手机屏幕，控制音乐，打开选定应用，把车机触摸操作传回手机，并通过屏幕投射显示 Google Maps。
 
-**适用于支持 CarLink（ICCOA）的汽车。** 用户已确认可用于小米（YU7、SU7）、丰田、日产、哈弗、深蓝、广汽、五菱、领克和捷达。其他支持 CarLink 的汽车？请试用并在应用内发送报告，我们会解决。
+**适用于支持 CarLink（ICCOA）的汽车。** 用户已确认可用于小米（YU7、SU7）、丰田（RAV4）、日产（奇骏 T32）、哈弗（枭龙MAX）、深蓝（S05）、广汽（埃安Y Plus）、五菱（星光730）、领克（08）和捷达（VS8）。其他支持 CarLink 的汽车？请试用并在应用内发送报告，我们会解决。
 
 这是一个独立项目，不是 Xiaomi、Samsung、ICCOA、Android Auto 或 Google 的官方产品。
 

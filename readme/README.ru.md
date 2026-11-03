@@ -4,7 +4,7 @@
 
 XiaoDroidLink подключает Android-телефон к экрану машины через ICCOA CarLink: панель с часами, погодой, музыкой, картой и сообщениями, экран телефона в машине с управлением касанием, навигация и помощник машины на вашем языке. Проверено на Xiaomi YU7; по отзывам пользователей работает и на других машинах с CarLink (например, китайские Toyota).
 
-**Работает с машинами с CarLink (ICCOA).** Пользователи уже подтвердили работу с машинами Xiaomi (YU7, SU7), Toyota, Nissan, Haval, Deepal, GAC, Wuling, Lynk & Co и Jetta. Другая машина с CarLink — попробуйте и отправьте отчёт из приложения, мы разберёмся.
+**Работает с машинами с CarLink (ICCOA).** Пользователи уже подтвердили работу с машинами Xiaomi (YU7, SU7), Toyota (RAV4), Nissan (X-Trail T32), Haval (Xiaolong Max), Deepal (S05), GAC (Aion Y Plus), Wuling (Starlight 730), Lynk & Co (08) и Jetta (VS8). Другая машина с CarLink — попробуйте и отправьте отчёт из приложения, мы разберёмся.
 
 Это независимое приложение, не официальный продукт Xiaomi, Samsung, ICCOA, Android Auto или Google.
 

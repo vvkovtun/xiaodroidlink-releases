@@ -4,7 +4,7 @@
 
 XiaoDroidLink телефони Android-ро тавассути CarLink ба экрани Xiaomi YU7 пайваст мекунад: панел бо соат, обу ҳаво, мусиқӣ, харита ва паёмҳо, экрани телефон дар мошин бо идоракунии ламсӣ, навигатсия ва ёрдамчии мошин бо забони шумо.
 
-**Бо мошинҳои дорои CarLink (ICCOA) кор мекунад.** Корбарон аллакай кори онро бо мошинҳои Xiaomi (YU7, SU7), Toyota, Nissan, Haval, Deepal, GAC, Wuling, Lynk & Co ва Jetta тасдиқ кардаанд. Мошини дигар бо CarLink? Санҷед ва аз барнома ҳисобот фиристед — ҳал мекунем.
+**Бо мошинҳои дорои CarLink (ICCOA) кор мекунад.** Корбарон аллакай кори онро бо мошинҳои Xiaomi (YU7, SU7), Toyota (RAV4), Nissan (X-Trail T32), Haval (Xiaolong Max), Deepal (S05), GAC (Aion Y Plus), Wuling (Starlight 730), Lynk & Co (08) ва Jetta (VS8) тасдиқ кардаанд. Мошини дигар бо CarLink? Санҷед ва аз барнома ҳисобот фиристед — ҳал мекунем.
 
 Ин барномаи мустақил аст, на маҳсулоти расмии Xiaomi, Samsung, ICCOA, Android Auto ё Google.
 
