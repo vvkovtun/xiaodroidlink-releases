@@ -1,6 +1,6 @@
 # XiaoDroidLink — інструкція для користувача
 
-Мови: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
+Мови: [English](../README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink підключає Android-телефон до екрана Xiaomi YU7 через CarLink. Застосунок дозволяє показувати панель або екран телефона в машині, керувати музикою, відкривати вибрані програми, передавати дотики з екрана машини назад у телефон і використовувати Google Maps через трансляцію екрана.
 
@@ -32,7 +32,7 @@ XiaoDroidLink підключає Android-телефон до екрана Xiaomi
 
 [![XiaoDroidLink — презентація українською](https://i.ytimg.com/vi/dEqKUfcbPsQ/hqdefault.jpg)](https://www.youtube.com/shorts/dEqKUfcbPsQ)
 
-Докладно про кожну функцію й віджет: [Усі можливості](FEATURES.ua.md) · [Віджети головного екрана](WIDGETS.ua.md).
+Докладно про кожну функцію й віджет: [Усі можливості](../docs/FEATURES.ua.md) · [Віджети головного екрана](../docs/WIDGETS.ua.md).
 
 ## Встановити з Google Play
 
@@ -58,23 +58,23 @@ XiaoDroidLink є в Google Play.
 
 | Вигляд на екрані машини |
 |---|
-| ![Панель XiaoDroidLink на екрані машини українською](images/xiaodroidlink-ua-car-preview.png) |
+| ![Панель XiaoDroidLink на екрані машини українською](../images/xiaodroidlink-ua-car-preview.png) |
 
 | Екран 2 з 3: медіа | Екран 3 з 3: поїздка |
 |---|---|
-| ![XiaoDroidLink екран медіа](images/xiaodroidlink-ua-car-media.png) | ![XiaoDroidLink екран поїздки](images/xiaodroidlink-ua-car-drive.png) |
+| ![XiaoDroidLink екран медіа](../images/xiaodroidlink-ua-car-media.png) | ![XiaoDroidLink екран поїздки](../images/xiaodroidlink-ua-car-drive.png) |
 
 | Каталог дизайнів |
 |---|
-| ![XiaoDroidLink каталог дизайнів](images/xiaodroidlink-ua-car-catalog.png) |
+| ![XiaoDroidLink каталог дизайнів](../images/xiaodroidlink-ua-car-catalog.png) |
 
 | Головний екран | Дозволи |
 |---|---|
-| ![Екран підключення XiaoDroidLink українською](images/xiaodroidlink-ua-main.png) | ![Дозволи XiaoDroidLink українською](images/xiaodroidlink-ua-permissions.png) |
+| ![Екран підключення XiaoDroidLink українською](../images/xiaodroidlink-ua-main.png) | ![Дозволи XiaoDroidLink українською](../images/xiaodroidlink-ua-permissions.png) |
 
 | Налаштування |
 |---|
-| ![Налаштування XiaoDroidLink українською](images/xiaodroidlink-ua-settings.png) |
+| ![Налаштування XiaoDroidLink українською](../images/xiaodroidlink-ua-settings.png) |
 
 ## Перший запуск
 
@@ -135,7 +135,7 @@ XiaoDroidLink є в Google Play.
 
 ### Як користуватися
 
-![Кнопка помічника: натисніть коліщатко на лівій спиці керма](images/steering-wheel-assistant.png)
+![Кнопка помічника: натисніть коліщатко на лівій спиці керма](../images/steering-wheel-assistant.png)
 
 1. **Натисни ліве коліщатко** на кермі (саме натисни, не прокручуй). Прокинеться помічник машини, і одночасно слухатиме телефон. У машині з'явиться «Скажіть, що зробити машині…».
 2. Скажи команду українською, наприклад «відкрий капот».
@@ -210,7 +210,9 @@ XiaoDroidLink є в Google Play.
 
 ## Якщо щось не працює
 
-Повний список повідомлень з екрана телефона й машини, зі скріншотами, де що ввімкнути: [помилки на екрані й що з ними робити](TROUBLESHOOTING.ua.md).
+Повний список повідомлень з екрана телефона й машини, зі скріншотами, де що ввімкнути: [помилки на екрані й що з ними робити](../docs/TROUBLESHOOTING.ua.md).
+
+**Додаткові функції через комп'ютер** (музика не зупиняється, коли блокуєте телефон; майже чорний екран телефона в дорозі): [одноразове налаштування нашим помічником](../docs/EXTRAS_ADB.ua.md).
 
 ### Машину не видно
 

@@ -1,6 +1,6 @@
 # XiaoDroidLink — Guía de usuario
 
-Idiomas: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
+Idiomas: [English](../README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink conecta un teléfono Android a la pantalla del Xiaomi YU7 mediante CarLink. La aplicación puede mostrar un panel o la pantalla del teléfono en el coche, controlar la música, abrir apps seleccionadas, enviar los toques de la pantalla del coche al teléfono y usar Google Maps mediante transmisión de pantalla.
 
@@ -29,7 +29,7 @@ Presentación en inglés (49 s):
 
 [![XiaoDroidLink presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4)
 
-Cada función y widget en detalle (en inglés): [All features](FEATURES.md) · [Home screen widgets](WIDGETS.md).
+Cada función y widget en detalle (en inglés): [All features](../docs/FEATURES.md) · [Home screen widgets](../docs/WIDGETS.md).
 
 ## Instalar desde Google Play
 
@@ -55,23 +55,23 @@ La opción de vista previa sin coche permite ver el panel en el teléfono.
 
 | Vista en la pantalla del coche |
 |---|
-| ![Panel de XiaoDroidLink en la pantalla del coche en español](images/xiaodroidlink-es-car-preview.png) |
+| ![Panel de XiaoDroidLink en la pantalla del coche en español](../images/xiaodroidlink-es-car-preview.png) |
 
 | Pantalla 2 de 3: multimedia | Pantalla 3 de 3: viaje |
 |---|---|
-| ![XiaoDroidLink media screen](images/xiaodroidlink-en-car-media.png) | ![XiaoDroidLink trip screen](images/xiaodroidlink-en-car-drive.png) |
+| ![XiaoDroidLink media screen](../images/xiaodroidlink-en-car-media.png) | ![XiaoDroidLink trip screen](../images/xiaodroidlink-en-car-drive.png) |
 
 | Catálogo de diseños |
 |---|
-| ![XiaoDroidLink design catalog](images/xiaodroidlink-en-car-catalog.png) |
+| ![XiaoDroidLink design catalog](../images/xiaodroidlink-en-car-catalog.png) |
 
 | Pantalla principal | Permisos |
 |---|---|
-| ![XiaoDroidLink main screen](images/xiaodroidlink-en-main.png) | ![XiaoDroidLink permissions screen](images/xiaodroidlink-en-permissions.png) |
+| ![XiaoDroidLink main screen](../images/xiaodroidlink-en-main.png) | ![XiaoDroidLink permissions screen](../images/xiaodroidlink-en-permissions.png) |
 
 | Ajustes |
 |---|
-| ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
+| ![XiaoDroidLink settings screen](../images/xiaodroidlink-en-settings.png) |
 
 ## Primera configuración
 
@@ -132,7 +132,7 @@ Con el interruptor apagado, el botón del asistente en el volante abre como ante
 
 ### Usar
 
-![Botón del asistente: pulsa la rueda del radio izquierdo del volante](images/steering-wheel-assistant.png)
+![Botón del asistente: pulsa la rueda del radio izquierdo del volante](../images/steering-wheel-assistant.png)
 
 1. **Pulsa la rueda izquierda** del volante (púlsala, no la gires). El asistente del coche se despierta y el teléfono escucha a la vez. El coche muestra «Di qué debe hacer el coche…».
 2. Di una orden, por ejemplo «abre el maletero delantero».
@@ -185,7 +185,7 @@ Aquí solo están las órdenes comprobadas en el coche del 25 al 27 de octubre d
 
 ## Solución de problemas
 
-Lista completa de mensajes del teléfono y del coche, con capturas de pantalla (en inglés): [errores en pantalla y cómo resolverlos](TROUBLESHOOTING.md).
+Lista completa de mensajes del teléfono y del coche, con capturas de pantalla (en inglés): [errores en pantalla y cómo resolverlos](../docs/TROUBLESHOOTING.md).
 
 ### No se encuentra el coche
 

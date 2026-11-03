@@ -1,6 +1,6 @@
 # XiaoDroidLink — краткая инструкция
 
-Языки: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
+Языки: [English](../README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink подключает Android-телефон к экрану Xiaomi YU7 через CarLink: панель с часами, погодой, музыкой, картой и сообщениями, экран телефона в машине с управлением касанием, навигация и помощник машины на вашем языке.
 
@@ -22,6 +22,8 @@ XiaoDroidLink есть в Google Play: [https://play.google.com/store/apps/detai
 
 ## Подробнее
 
-Подробная инструкция на английском: [User guide](README.md) · [Все функции](FEATURES.md) · [Виджеты](WIDGETS.md) · [Решение проблем](TROUBLESHOOTING.md).
+Подробная инструкция на английском: [User guide](../README.md) · [Все функции](../docs/FEATURES.md) · [Виджеты](../docs/WIDGETS.md) · [Решение проблем](../docs/TROUBLESHOOTING.md).
+
+**Дополнительные функции через компьютер** (музыка не останавливается, когда блокируете телефон; почти чёрный экран телефона в дороге): [одноразовая настройка нашим помощником](../docs/EXTRAS_ADB.ru.md).
 
 Вопросы и проблемы: xiaodroidlink@lifestyle.salon

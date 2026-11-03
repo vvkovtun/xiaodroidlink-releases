@@ -2,7 +2,7 @@
 
 Languages: [English](FEATURES.md) · [Українська](FEATURES.ua.md)
 
-[← User guide](README.md) · [Widgets](WIDGETS.md)
+[← User guide](../README.md) · [Widgets](WIDGETS.md)
 
 ## Videos
 
@@ -70,11 +70,11 @@ Short demo (13 s) of the home screen, music, messages, assistant and navigation:
 ## Calls, messages, assistant
 
 - **Incoming call card** with "Answer" and "Decline" over any screen.
-- **Calls through the car's Bluetooth.** The handset next to the clock shows whether calls are connected. Tap it to open the phone's Bluetooth car picker right on the car display. The [user guide](README.md) explains why it works this way.
+- **Calls through the car's Bluetooth.** The handset next to the clock shows whether calls are connected. Tap it to open the phone's Bluetooth car picker right on the car display. The [user guide](../README.md) explains why it works this way.
 - **Favourite contacts:** one-tap calling, up to four contacts.
 - **Messages:** a counter of new messages per messenger, the last message with read-aloud, and a banner for new notifications.
 - **Voice assistant** of the phone in one tap.
-- **Car voice: control the YU7 in your language.** The car assistant (XiaoAI) understands only Chinese, so the phone speaks the command to it in Chinese through its own speaker. Press the assistant button on the steering wheel and say, for example, "open the front trunk", "seat heating" or "fold the mirrors", and the car does it within seconds. Turn it on in the phone app with the "Car assistant in your language" switch. Say "artificial intelligence" (or "ChatGPT", "Gemini") to open the phone's AI instead. The list of commands is in the settings: on the car screen (gear → "🗣 Assistant commands") and on the phone. Keep the phone in the cabin, not in a pocket. The car does not let the phone wake its assistant by voice ("小爱同学"), so the steering wheel button is needed. How it works and the full list of commands are in the [user guide](README.md#car-assistant-in-your-language).
+- **Car voice: control the YU7 in your language.** The car assistant (XiaoAI) understands only Chinese, so the phone speaks the command to it in Chinese through its own speaker. Press the assistant button on the steering wheel and say, for example, "open the front trunk", "seat heating" or "fold the mirrors", and the car does it within seconds. Turn it on in the phone app with the "Car assistant in your language" switch. Say "artificial intelligence" (or "ChatGPT", "Gemini") to open the phone's AI instead. The list of commands is in the settings: on the car screen (gear → "🗣 Assistant commands") and on the phone. Keep the phone in the cabin, not in a pocket. The car does not let the phone wake its assistant by voice ("小爱同学"), so the steering wheel button is needed. How it works and the full list of commands are in the [user guide](../README.md#car-assistant-in-your-language).
 
 ## What the app needs from the phone
 

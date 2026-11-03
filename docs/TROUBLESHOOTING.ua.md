@@ -23,7 +23,7 @@
 
 | На телефоні | На екрані машини |
 |---|---|
-| <img src="images/help/ua-main-problems.png" width="260" alt="Червона картка «Не працює» на головному екрані"> | <img src="images/help/ua-car-problems.png" width="560" alt="Червоний рядок помилки на панелі в машині"> |
+| <img src="../images/help/ua-main-problems.png" width="260" alt="Червона картка «Не працює» на головному екрані"> | <img src="../images/help/ua-car-problems.png" width="560" alt="Червоний рядок помилки на панелі в машині"> |
 
 1. **Червона картка «Не працює»** вгорі головного екрана на телефоні. У кожному рядку написано, що саме не працює, і є кнопка `Виправити` — вона відкриває потрібне налаштування.
 2. **Червоний рядок зі знаком «!»** на панелі в машині. Це та сама проблема, що й на телефоні. `(+3)` у кінці означає, що є ще три проблеми — рядок показує їх по одній, поки не виправиш усі. З екрана машини це не виправити: потрібен телефон.
@@ -45,7 +45,7 @@
 
 | 1. Погодитись | 2. Знайти службу | 3. Увімкнути | 4. Дозволити |
 |---|---|---|---|
-| <img src="images/help/ua-a11y-consent.png" width="190" alt="Пояснення перед відкриттям налаштувань"> | <img src="images/help/ua-a11y-list.png" width="190" alt="Список спеціальних можливостей"> | <img src="images/help/ua-a11y-toggle.png" width="190" alt="Перемикач служби XiaoDroidLink"> | <img src="images/help/ua-a11y-allow.png" width="190" alt="Підтвердження доступу"> |
+| <img src="../images/help/ua-a11y-consent.png" width="190" alt="Пояснення перед відкриттям налаштувань"> | <img src="../images/help/ua-a11y-list.png" width="190" alt="Список спеціальних можливостей"> | <img src="../images/help/ua-a11y-toggle.png" width="190" alt="Перемикач служби XiaoDroidLink"> | <img src="../images/help/ua-a11y-allow.png" width="190" alt="Підтвердження доступу"> |
 
 Samsung: `Налаштування → Спеціальні можливості → Встановлені програми → XiaoDroidLink: car touch controls`.
 
@@ -71,7 +71,7 @@ Samsung: `Налаштування → Спеціальні можливості
 
 | 1. Вибрати XiaoDroidLink | 2. Увімкнути доступ |
 |---|---|
-| <img src="images/help/ua-notif-list.png" width="220" alt="Список застосунків з доступом до сповіщень"> | <img src="images/help/ua-notif-toggle.png" width="220" alt="Перемикач доступу до сповіщень"> |
+| <img src="../images/help/ua-notif-list.png" width="220" alt="Список застосунків з доступом до сповіщень"> | <img src="../images/help/ua-notif-toggle.png" width="220" alt="Перемикач доступу до сповіщень"> |
 
 Samsung: `Налаштування → Сповіщення → Додаткові налаштування → Доступ до сповіщень`.
 
@@ -86,7 +86,7 @@ Samsung: `Налаштування → Сповіщення → Додатков
 1. Відкрий XiaoDroidLink на телефоні (або натисни сповіщення `Увімкнути карту й звук у машині`).
 2. У вікні Android залиш `Показати весь екран` і натисни `Показати екран` (на старших версіях — `Весь екран` → `Почати`).
 
-<img src="images/help/ua-cast-1.png" width="240" alt="Вікно Android з дозволом на трансляцію екрана">
+<img src="../images/help/ua-cast-1.png" width="240" alt="Вікно Android з дозволом на трансляцію екрана">
 
 - Якщо вибрати «Один додаток» — машина покаже лише його, а панель карти лишиться порожньою.
 - Якщо натиснув `Скасувати` — застосунок працює далі як панель із вбудованою картою OpenStreetMap. Вікно можна викликати знову: `Дозволи` → `Трансляція екрана` → `Надати`.
@@ -123,7 +123,7 @@ Samsung: `Налаштування → Сповіщення → Додатков
 
 | Bluetooth вимкнено | Машину не видно |
 |---|---|
-| <img src="images/help/ua-bt-off.png" width="240" alt="Помилка: Bluetooth вимкнено"> | <img src="images/help/ua-car-not-found.png" width="240" alt="Машину не видно"> |
+| <img src="../images/help/ua-bt-off.png" width="240" alt="Помилка: Bluetooth вимкнено"> | <img src="../images/help/ua-car-not-found.png" width="240" alt="Машину не видно"> |
 
 ### Етап «Bluetooth»
 

@@ -1,6 +1,6 @@
 # XiaoDroidLink — Kurzanleitung
 
-Sprachen: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
+Sprachen: [English](../README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink verbindet ein Android-Handy über CarLink mit dem Bildschirm des Xiaomi YU7: Dashboard mit Uhr, Wetter, Musik, Karte und Nachrichten, Handybildschirm im Auto mit Bedienung per Berührung, Navigation und der Autoassistent in deiner Sprache.
 
@@ -22,6 +22,6 @@ Einschalten: Einstellungen → „Autoassistent in deiner Sprache“. Assistente
 
 ## Mehr
 
-Ausführliche Anleitung auf Englisch: [User guide](README.md) · [Alle Funktionen](FEATURES.md) · [Widgets](WIDGETS.md) · [Problemlösung](TROUBLESHOOTING.md).
+Ausführliche Anleitung auf Englisch: [User guide](../README.md) · [Alle Funktionen](../docs/FEATURES.md) · [Widgets](../docs/WIDGETS.md) · [Problemlösung](../docs/TROUBLESHOOTING.md).
 
 Fragen und Probleme: xiaodroidlink@lifestyle.salon

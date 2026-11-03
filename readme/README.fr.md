@@ -1,6 +1,6 @@
 # XiaoDroidLink — Guide utilisateur
 
-Langues : [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
+Langues : [English](../README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink connecte un téléphone Android à l'écran Xiaomi YU7 via CarLink. L'application peut afficher un tableau de bord ou l'écran du téléphone dans la voiture, contrôler la musique, ouvrir les applications choisies, renvoyer les gestes tactiles de l'écran de la voiture vers le téléphone et utiliser Google Maps par diffusion d'écran.
 
@@ -29,7 +29,7 @@ Présentation en anglais (49 s) :
 
 [![XiaoDroidLink presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4)
 
-Chaque fonction et widget en détail (en anglais) : [All features](FEATURES.md) · [Home screen widgets](WIDGETS.md).
+Chaque fonction et widget en détail (en anglais) : [All features](../docs/FEATURES.md) · [Home screen widgets](../docs/WIDGETS.md).
 
 ## Installer depuis Google Play
 
@@ -55,23 +55,23 @@ Le bouton d'aperçu sans voiture de l'application permet de voir le tableau de b
 
 | Aperçu sur l’écran de la voiture |
 |---|
-| ![Tableau de bord XiaoDroidLink sur l’écran de la voiture en français](images/xiaodroidlink-fr-car-preview.png) |
+| ![Tableau de bord XiaoDroidLink sur l’écran de la voiture en français](../images/xiaodroidlink-fr-car-preview.png) |
 
 | Écran 2 sur 3 : médias | Écran 3 sur 3 : trajet |
 |---|---|
-| ![XiaoDroidLink media screen](images/xiaodroidlink-en-car-media.png) | ![XiaoDroidLink trip screen](images/xiaodroidlink-en-car-drive.png) |
+| ![XiaoDroidLink media screen](../images/xiaodroidlink-en-car-media.png) | ![XiaoDroidLink trip screen](../images/xiaodroidlink-en-car-drive.png) |
 
 | Catalogue de designs |
 |---|
-| ![XiaoDroidLink design catalog](images/xiaodroidlink-en-car-catalog.png) |
+| ![XiaoDroidLink design catalog](../images/xiaodroidlink-en-car-catalog.png) |
 
 | Écran principal | Autorisations |
 |---|---|
-| ![XiaoDroidLink main screen](images/xiaodroidlink-en-main.png) | ![XiaoDroidLink permissions screen](images/xiaodroidlink-en-permissions.png) |
+| ![XiaoDroidLink main screen](../images/xiaodroidlink-en-main.png) | ![XiaoDroidLink permissions screen](../images/xiaodroidlink-en-permissions.png) |
 
 | Réglages |
 |---|
-| ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
+| ![XiaoDroidLink settings screen](../images/xiaodroidlink-en-settings.png) |
 
 ## Première configuration
 
@@ -132,7 +132,7 @@ Interrupteur désactivé, le bouton de l'assistant au volant ouvre comme avant l
 
 ### Utiliser
 
-![Bouton de l'assistant : appuyez sur la molette de la branche gauche du volant](images/steering-wheel-assistant.png)
+![Bouton de l'assistant : appuyez sur la molette de la branche gauche du volant](../images/steering-wheel-assistant.png)
 
 1. **Appuyez sur la molette gauche** du volant (enfoncez-la, ne la tournez pas). L'assistant de la voiture se réveille et le téléphone écoute en même temps. La voiture affiche « Dites ce que la voiture doit faire… ».
 2. Dites une commande, par exemple « ouvre le capot ».
@@ -185,7 +185,7 @@ Seules les commandes vérifiées dans la voiture du 25 au 27 octobre 2026 figure
 
 ## Dépannage
 
-Liste complète des messages affichés sur le téléphone et dans la voiture, avec captures d'écran (en anglais) : [erreurs à l'écran et solutions](TROUBLESHOOTING.md).
+Liste complète des messages affichés sur le téléphone et dans la voiture, avec captures d'écran (en anglais) : [erreurs à l'écran et solutions](../docs/TROUBLESHOOTING.md).
 
 ### La voiture est introuvable
 

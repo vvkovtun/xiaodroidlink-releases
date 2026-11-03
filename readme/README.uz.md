@@ -1,6 +1,6 @@
 # XiaoDroidLink — qisqa qoʻllanma
 
-Tillar: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
+Tillar: [English](../README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink Android telefonni CarLink orqali Xiaomi YU7 ekraniga ulaydi: soat, ob-havo, musiqa, xarita va xabarlar bilan panel, avtomobilda teginish bilan boshqariladigan telefon ekrani, navigatsiya va sizning tilingizda avtomobil yordamchisi.
 
@@ -22,6 +22,6 @@ Yoqish: Sozlamalar → «Avtomobil yordamchisi sizning tilingizda». Ruldagi yor
 
 ## Batafsil
 
-Ingliz tilidagi batafsil qoʻllanma: [User guide](README.md) · [Barcha imkoniyatlar](FEATURES.md) · [Vidjetlar](WIDGETS.md) · [Muammolarni hal qilish](TROUBLESHOOTING.md).
+Ingliz tilidagi batafsil qoʻllanma: [User guide](../README.md) · [Barcha imkoniyatlar](../docs/FEATURES.md) · [Vidjetlar](../docs/WIDGETS.md) · [Muammolarni hal qilish](../docs/TROUBLESHOOTING.md).
 
 Savollar va muammolar: xiaodroidlink@lifestyle.salon

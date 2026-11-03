@@ -1,6 +1,6 @@
 # XiaoDroidLink — дастури мухтасар
 
-Забонҳо: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
+Забонҳо: [English](../README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink телефони Android-ро тавассути CarLink ба экрани Xiaomi YU7 пайваст мекунад: панел бо соат, обу ҳаво, мусиқӣ, харита ва паёмҳо, экрани телефон дар мошин бо идоракунии ламсӣ, навигатсия ва ёрдамчии мошин бо забони шумо.
 
@@ -22,6 +22,6 @@ XiaoDroidLink дар Google Play ҳаст: [https://play.google.com/store/apps/d
 
 ## Муфассал
 
-Дастури муфассал бо забони англисӣ: [User guide](README.md) · [Ҳамаи имкониятҳо](FEATURES.md) · [Виҷетҳо](WIDGETS.md) · [Ҳалли мушкилот](TROUBLESHOOTING.md).
+Дастури муфассал бо забони англисӣ: [User guide](../README.md) · [Ҳамаи имкониятҳо](../docs/FEATURES.md) · [Виҷетҳо](../docs/WIDGETS.md) · [Ҳалли мушкилот](../docs/TROUBLESHOOTING.md).
 
 Саволҳо ва мушкилот: xiaodroidlink@lifestyle.salon

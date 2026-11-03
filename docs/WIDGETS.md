@@ -2,11 +2,11 @@
 
 Languages: [English](WIDGETS.md) · [Українська](WIDGETS.ua.md)
 
-[← User guide](README.md) · [All features](FEATURES.md)
+[← User guide](../README.md) · [All features](FEATURES.md)
 
 XiaoDroidLink builds its home screen on the Xiaomi YU7 display out of widgets, like a phone launcher. The grid has 6 columns and 4 rows. You get up to four screens: three ready-made ones and a fourth empty one for your own set. Switch screens with the "Screens 1 / 4 ›" button in the dock, or swipe sideways on an empty area.
 
-![XiaoDroidLink home screen on the car display](images/xiaodroidlink-en-car-preview.png)
+![XiaoDroidLink home screen on the car display](../images/xiaodroidlink-en-car-preview.png)
 
 ## Editing a screen
 

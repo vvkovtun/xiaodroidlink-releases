@@ -23,7 +23,7 @@ The screenshots were taken on stock Android 16. Samsung, Xiaomi and other phones
 
 | On the phone | On the car screen |
 |---|---|
-| <img src="images/help/en-main-problems.png" width="260" alt="Red Not working card on the main screen"> | <img src="images/help/en-car-problems.png" width="560" alt="Red error line on the car dashboard"> |
+| <img src="../images/help/en-main-problems.png" width="260" alt="Red Not working card on the main screen"> | <img src="../images/help/en-car-problems.png" width="560" alt="Red error line on the car dashboard"> |
 
 1. **The red "Not working" card** at the top of the main screen on the phone. Each row says what is not working and has a `Fix` button that opens the right setting.
 2. **The red line with "!"** on the car dashboard. It is the same problem as on the phone. `(+3)` at the end means three more problems are waiting — the line shows them one at a time until all are fixed. It cannot be fixed from the car screen: you need the phone.
@@ -45,7 +45,7 @@ Taps on the car screen do not reach the phone and dock apps do not open. The acc
 
 | 1. Agree | 2. Find the service | 3. Turn it on | 4. Allow |
 |---|---|---|---|
-| <img src="images/help/en-a11y-consent.png" width="190" alt="Explanation shown before settings open"> | <img src="images/help/en-a11y-list.png" width="190" alt="Accessibility list"> | <img src="images/help/en-a11y-toggle.png" width="190" alt="XiaoDroidLink service switch"> | <img src="images/help/en-a11y-allow.png" width="190" alt="Access confirmation"> |
+| <img src="../images/help/en-a11y-consent.png" width="190" alt="Explanation shown before settings open"> | <img src="../images/help/en-a11y-list.png" width="190" alt="Accessibility list"> | <img src="../images/help/en-a11y-toggle.png" width="190" alt="XiaoDroidLink service switch"> | <img src="../images/help/en-a11y-allow.png" width="190" alt="Access confirmation"> |
 
 Samsung: `Settings → Accessibility → Installed apps → XiaoDroidLink: car touch controls`.
 
@@ -71,7 +71,7 @@ The dashboard shows no track title, player buttons do nothing, and messages and 
 
 | 1. Choose XiaoDroidLink | 2. Allow access |
 |---|---|
-| <img src="images/help/en-notif-list.png" width="220" alt="Apps with notification access"> | <img src="images/help/en-notif-toggle.png" width="220" alt="Notification access switch"> |
+| <img src="../images/help/en-notif-list.png" width="220" alt="Apps with notification access"> | <img src="../images/help/en-notif-toggle.png" width="220" alt="Notification access switch"> |
 
 Samsung: `Settings → Notifications → Advanced settings → Notification access`.
 
@@ -86,7 +86,7 @@ The car shows the dashboard, but instead of Google Maps or the phone screen it s
 1. Open XiaoDroidLink on the phone (or tap the notification `Turn on map and audio in the car`).
 2. In the Android dialog keep `Share entire screen` and tap `Share screen` (on older versions: `Entire screen` → `Start`).
 
-<img src="images/help/en-cast-1.png" width="240" alt="Android screen casting dialog">
+<img src="../images/help/en-cast-1.png" width="240" alt="Android screen casting dialog">
 
 - If you choose "A single app", the car shows only that app and the dashboard map stays empty.
 - If you tapped `Cancel`, the app keeps working as a dashboard with the built-in OpenStreetMap map. Bring the dialog back with `Permissions` → `Screen casting` → `Grant`.
@@ -123,7 +123,7 @@ The text appears under the stage name on the main screen. The four chips `Blueto
 
 | Bluetooth is off | Car not found |
 |---|---|
-| <img src="images/help/en-bt-off.png" width="240" alt="Error: Bluetooth is off"> | <img src="images/help/en-car-not-found.png" width="240" alt="Car not found"> |
+| <img src="../images/help/en-bt-off.png" width="240" alt="Error: Bluetooth is off"> | <img src="../images/help/en-car-not-found.png" width="240" alt="Car not found"> |
 
 ### "Bluetooth" stage
 

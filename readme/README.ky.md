@@ -1,6 +1,6 @@
 # XiaoDroidLink — кыскача колдонмо
 
-Тилдер: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
+Тилдер: [English](../README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink Android телефонду CarLink аркылуу Xiaomi YU7 экранына туташтырат: саат, аба ырайы, музыка, карта жана билдирүүлөр менен панель, унаада тийүү менен башкарылуучу телефондун экраны, навигация жана сиздин тилиңиздеги унаанын жардамчысы.
 
@@ -22,6 +22,6 @@ XiaoDroidLink Google Play'де бар: [https://play.google.com/store/apps/detai
 
 ## Кененирээк
 
-Англис тилиндеги толук колдонмо: [User guide](README.md) · [Бардык мүмкүнчүлүктөр](FEATURES.md) · [Виджеттер](WIDGETS.md) · [Көйгөйлөрдү чечүү](TROUBLESHOOTING.md).
+Англис тилиндеги толук колдонмо: [User guide](../README.md) · [Бардык мүмкүнчүлүктөр](../docs/FEATURES.md) · [Виджеттер](../docs/WIDGETS.md) · [Көйгөйлөрдү чечүү](../docs/TROUBLESHOOTING.md).
 
 Суроолор жана көйгөйлөр: xiaodroidlink@lifestyle.salon

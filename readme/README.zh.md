@@ -1,6 +1,6 @@
 # XiaoDroidLink — 用户指南
 
-语言：[English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
+语言：[English](../README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机屏幕。它可以在车机上显示仪表盘或手机屏幕，控制音乐，打开选定应用，把车机触摸操作传回手机，并通过屏幕投射显示 Google Maps。
 
@@ -29,7 +29,7 @@ XiaoDroidLink 可以通过 CarLink 将 Android 手机连接到小米 YU7 车机�
 
 [![XiaoDroidLink presentation in English](https://i.ytimg.com/vi/3C1UO75dUE4/hqdefault.jpg)](https://www.youtube.com/shorts/3C1UO75dUE4)
 
-每项功能和小组件的详细说明（英文）：[All features](FEATURES.md) · [Home screen widgets](WIDGETS.md)。
+每项功能和小组件的详细说明（英文）：[All features](../docs/FEATURES.md) · [Home screen widgets](../docs/WIDGETS.md)。
 
 ## 从 Google Play 安装
 
@@ -55,23 +55,23 @@ XiaoDroidLink 已在 Google Play 上架。
 
 | 车机屏幕预览 |
 |---|
-| ![XiaoDroidLink 中文车机仪表盘预览](images/xiaodroidlink-zh-car-preview.png) |
+| ![XiaoDroidLink 中文车机仪表盘预览](../images/xiaodroidlink-zh-car-preview.png) |
 
 | 第 2 屏（共 3 屏）：媒体 | 第 3 屏（共 3 屏）：行程 |
 |---|---|
-| ![XiaoDroidLink media screen](images/xiaodroidlink-en-car-media.png) | ![XiaoDroidLink trip screen](images/xiaodroidlink-en-car-drive.png) |
+| ![XiaoDroidLink media screen](../images/xiaodroidlink-en-car-media.png) | ![XiaoDroidLink trip screen](../images/xiaodroidlink-en-car-drive.png) |
 
 | 设计目录 |
 |---|
-| ![XiaoDroidLink design catalog](images/xiaodroidlink-en-car-catalog.png) |
+| ![XiaoDroidLink design catalog](../images/xiaodroidlink-en-car-catalog.png) |
 
 | 主屏幕 | 权限 |
 |---|---|
-| ![XiaoDroidLink main screen](images/xiaodroidlink-en-main.png) | ![XiaoDroidLink permissions screen](images/xiaodroidlink-en-permissions.png) |
+| ![XiaoDroidLink main screen](../images/xiaodroidlink-en-main.png) | ![XiaoDroidLink permissions screen](../images/xiaodroidlink-en-permissions.png) |
 
 | 设置 |
 |---|
-| ![XiaoDroidLink settings screen](images/xiaodroidlink-en-settings.png) |
+| ![XiaoDroidLink settings screen](../images/xiaodroidlink-en-settings.png) |
 
 ## 首次设置
 
@@ -134,7 +134,7 @@ XiaoDroidLink 已在 Google Play 上架。
 
 ### 使用
 
-![语音按钮：按下方向盘左侧辐条上的滚轮](images/steering-wheel-assistant.png)
+![语音按钮：按下方向盘左侧辐条上的滚轮](../images/steering-wheel-assistant.png)
 
 1. **按下方向盘左侧滚轮**（是按下，不是滚动）。车机助手被唤醒，手机同时开始聆听，车机屏幕显示“请说出要车辆做什么…”。
 2. 用应用语言说出指令。
@@ -167,7 +167,7 @@ XiaoDroidLink 已在 Google Play 上架。
 
 ## 常见问题
 
-手机和车机屏幕上全部提示的完整列表及设置截图（英文）：[屏幕错误与解决方法](TROUBLESHOOTING.md)。
+手机和车机屏幕上全部提示的完整列表及设置截图（英文）：[屏幕错误与解决方法](../docs/TROUBLESHOOTING.md)。
 
 ### 找不到车辆
 

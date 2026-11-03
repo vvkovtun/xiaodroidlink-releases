@@ -1,6 +1,6 @@
 # XiaoDroidLink — համառոտ ուղեցույց
 
-Լեզուներ: [English](README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
+Լեզուներ: [English](../README.md) · [Українська](README.ua.md) · [中文](README.zh.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md) · [Polski](README.pl.md) · [Қазақша](README.kk.md) · [Azərbaycanca](README.az.md) · [Oʻzbekcha](README.uz.md) · [Тоҷикӣ](README.tg.md) · [ქართული](README.ka.md) · [Հայերեն](README.hy.md) · [Кыргызча](README.ky.md) · [Русский](README.ru.md)
 
 XiaoDroidLink-ը Android հեռախոսը CarLink-ով միացնում է Xiaomi YU7-ի էկրանին՝ վահանակ ժամացույցով, եղանակով, երաժշտությամբ, քարտեզով և հաղորդագրություններով, հեռախոսի էկրանը մեքենայում հպումով կառավարմամբ, նավիգացիա և մեքենայի օգնականը ձեր լեզվով։
 
@@ -22,6 +22,6 @@ XiaoDroidLink-ը կա Google Play-ում՝ [https://play.google.com/store/apps/d
 
 ## Մանրամասն
 
-Մանրամասն ուղեցույց անգլերենով՝ [User guide](README.md) · [Բոլոր հնարավորությունները](FEATURES.md) · [Վիջեթներ](WIDGETS.md) · [Խնդիրների լուծում](TROUBLESHOOTING.md)։
+Մանրամասն ուղեցույց անգլերենով՝ [User guide](../README.md) · [Բոլոր հնարավորությունները](../docs/FEATURES.md) · [Վիջեթներ](../docs/WIDGETS.md) · [Խնդիրների լուծում](../docs/TROUBLESHOOTING.md)։
 
 Հարցեր և խնդիրներ՝ xiaodroidlink@lifestyle.salon
