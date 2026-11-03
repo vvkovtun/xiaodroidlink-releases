@@ -4,7 +4,7 @@ Sprachen: [English](../README.md) · [Українська](README.ua.md) · [�
 
 XiaoDroidLink verbindet ein Android-Handy über CarLink mit dem Bildschirm des Xiaomi YU7: Dashboard mit Uhr, Wetter, Musik, Karte und Nachrichten, Handybildschirm im Auto mit Bedienung per Berührung, Navigation und der Autoassistent in deiner Sprache.
 
-**Funktioniert mit CarLink-Autos (ICCOA).** Nutzer haben bereits bestätigt, dass es mit Xiaomi, Toyota, Nissan, Haval, Deepal, GAC, Wuling und Lynk & Co funktioniert. Ein anderes Auto mit CarLink? Ausprobieren und einen Bericht aus der App senden – wir kümmern uns darum.
+**Funktioniert mit CarLink-Autos (ICCOA).** Nutzer haben bereits bestätigt, dass es mit Xiaomi (YU7, SU7), Toyota, Nissan, Haval, Deepal, GAC, Wuling, Lynk & Co und Jetta funktioniert. Ein anderes Auto mit CarLink? Ausprobieren und einen Bericht aus der App senden – wir kümmern uns darum.
 
 Das ist eine unabhängige App, kein offizielles Produkt von Xiaomi, Samsung, ICCOA, Android Auto oder Google.
 
