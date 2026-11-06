@@ -1,6 +1,6 @@
 # XiaoDroidLink Privacy Policy
 
-Last updated: 2026-10-27
+Last updated: 2026-11-06
 
 XiaoDroidLink is developed by Salon Lifestyle. It connects an Android phone to a compatible Xiaomi YU7 CarLink screen. XiaoDroidLink is an independent project and is not an official Xiaomi, Samsung, Google, Android Auto, or ICCOA product.
 
@@ -17,6 +17,7 @@ XiaoDroidLink processes the following data only when the user enables the relate
 - Favourite contacts: only the name and number of each contact the user picks in the system contact picker (up to four), stored on the phone for the Contacts widget.
 - Contacts (optional, read-only): when the user asks by voice to call someone ("call Olena"), the app searches the phone's contacts for that name to start the call. Contacts are read only on the phone at that moment; they are not stored by the app and not sent to the developer or any service.
 - Phone call permission (optional), so a tap on a favourite contact starts the call. Without it the phone's dialer opens instead.
+- Phone call management (optional): to answer, decline and end an ordinary call from the car screen and to know when the phone is ringing or in a call. The app does not read call history or phone numbers for this, and nothing is stored or sent to the developer.
 - Calendar (optional, read-only): the title, time and location of the next event within 24 hours, shown on the Calendar widget. It is read on the phone and not stored or sent to the developer.
 - Microphone, only after the user taps a voice button on the car screen or presses the assistant button on the steering wheel: speech is turned into text by the phone's speech recognition service (for example, Google speech services) to search for an address or a song, to call a contact, or to repeat a car command in Chinese. After a car command, the microphone briefly listens to the car assistant's spoken reply to show it as text.
 - Audio after the user enables optional audio through CarLink, to play phone audio through the paired car.
