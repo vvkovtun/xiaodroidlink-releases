@@ -162,6 +162,32 @@ If the car never shows a code, close CarLink in the car, open it again and tap `
 | `Could not join the car Wi‑Fi` | Three attempts in a row failed. | Turn phone Wi‑Fi off and on. If Android shows "Connect to device?", accept. Close and reopen CarLink in the car. Forget old car networks in the phone's Wi‑Fi settings. |
 | `The car Wi‑Fi disappeared` | The network vanished while running; the app reconnects. | Wait. If it repeats, turn off "smart" switching from Wi‑Fi to mobile data on the phone. |
 
+#### Car Wi‑Fi not visible in some countries (Belarus)
+
+CarLink cars (Xiaomi YU7, Jetta VS8, Toyota bZ3X, Lynk & Co 08 and others) always run their network on 5 GHz,
+channel 149 (5745 MHz). The phone cannot change it — the car ignores the request (tested on YU7).
+
+The phone takes its country from the mobile network (SIM and cell tower) and enables only the frequencies allowed
+there. Belarus does not allow 5725–5850 MHz (channels 149–165), so a phone on a Belarusian mobile network simply does
+not see the car Wi‑Fi. Russia, Ukraine, Poland and the EU allow this band — the same car works there. The same can
+happen when the phone firmware is tied to a region with such limits.
+
+**What to do (confirmed by a user in Belarus, 09.11.2026):**
+
+1. Turn on airplane mode.
+2. Restart the phone, keep airplane mode on.
+3. Turn on Wi‑Fi and Bluetooth (airplane mode stays on).
+4. Open CarLink in the car and tap `Connect`.
+
+Without a mobile network the phone does not know the country and does not apply the limit. Without the restart it
+remembers the last country, so step 2 is required. Once the car shows the picture, you can turn airplane mode off —
+the car connection stays until you leave the car, and mobile internet and calls come back (confirmed by a user,
+09.11.2026). After each time you leave the car, repeat the steps from the start for the next connection while in such a
+country; after leaving it everything works as usual.
+
+On Samsung, changing the firmware region (CSC) to a European one such as XXV also helps, but not for long: after
+airplane mode the phone takes the country from the mobile network again.
+
 ### "Car" stage
 
 | Message | What it means | What to do |
