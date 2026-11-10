@@ -87,7 +87,9 @@ XiaoDroidLink есть в Google Play: [https://play.google.com/store/apps/detai
 
 ## Подробнее
 
-Подробная инструкция на английском: [User guide](../README.md) · [Все функции](../docs/FEATURES.md) · [Виджеты](../docs/WIDGETS.md) · [Решение проблем](../docs/TROUBLESHOOTING.md).
+Подробная инструкция на английском: [User guide](../README.md) · [Все функции](../docs/FEATURES.md) · [Виджеты](../docs/WIDGETS.md).
+
+Ошибки на экране и что с ними делать — на русском: [Решение проблем](../docs/TROUBLESHOOTING.ru.md).
 
 **Дополнительные функции через компьютер** (музыка не останавливается, когда блокируете телефон; почти чёрный экран телефона в дороге): [одноразовая настройка нашим помощником](../docs/EXTRAS_ADB.ru.md).
 

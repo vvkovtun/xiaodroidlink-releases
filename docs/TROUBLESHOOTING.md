@@ -1,6 +1,6 @@
 # XiaoDroidLink — on-screen errors and how to fix them
 
-Languages: [English](TROUBLESHOOTING.md) · [Українська](TROUBLESHOOTING.ua.md)
+Languages: [English](TROUBLESHOOTING.md) · [Українська](TROUBLESHOOTING.ua.md) · [Русский](TROUBLESHOOTING.ru.md)
 
 Every message the app shows on the phone and on the car screen, and what to do about each. Find your text with the page search (Ctrl+F) or in the contents below.
 

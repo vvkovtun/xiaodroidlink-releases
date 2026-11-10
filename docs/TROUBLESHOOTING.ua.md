@@ -1,6 +1,6 @@
 # XiaoDroidLink — помилки на екрані й що з ними робити
 
-Мови: [English](TROUBLESHOOTING.md) · [Українська](TROUBLESHOOTING.ua.md)
+Мови: [English](TROUBLESHOOTING.md) · [Українська](TROUBLESHOOTING.ua.md) · [Русский](TROUBLESHOOTING.ru.md)
 
 Тут зібрані всі повідомлення, які застосунок показує на телефоні й на екрані машини, і що зробити з кожним. Знайди свій текст через пошук на сторінці (Ctrl+F) або в змісті.
 
