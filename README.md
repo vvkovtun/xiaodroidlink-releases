@@ -4,7 +4,7 @@ Languages: [English](README.md) · [Українська](readme/README.ua.md) �
 
 XiaoDroidLink connects an Android phone to the Xiaomi YU7 screen through CarLink. It can show a dashboard or the phone screen in the car, control music, open selected apps, send car-screen touches back to the phone, and use Google Maps through screen casting.
 
-**Works with CarLink (ICCOA) cars.** Users have already confirmed it works with Xiaomi (YU7, SU7), Toyota (RAV4), Nissan (X-Trail T32), Haval (Xiaolong Max), Deepal (S05), GAC (Aion Y Plus), Wuling (Starlight 730), Lynk & Co (08) and Jetta (VS8). Another car with CarLink? Try it and send a report from the app — we'll sort it out.
+**Works with CarLink (ICCOA) cars.** Users have already confirmed it works with Xiaomi (YU7, SU7), Toyota (RAV4, Camry 80), Nissan (X-Trail T32), Haval (Xiaolong Max), Deepal (S05), GAC (Aion Y Plus), Wuling (Starlight 730), Lynk & Co (08) and Jetta (VS8). Another car with CarLink? Try it and send a report from the app — we'll sort it out.
 
 This is an independent app. It is not an official Xiaomi, Samsung, ICCOA, Android Auto, or Google product.
 

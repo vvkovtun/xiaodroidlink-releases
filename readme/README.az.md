@@ -4,7 +4,7 @@ Dillər: [English](../README.md) · [Українська](README.ua.md) · [中
 
 XiaoDroidLink Android telefonunu CarLink vasitəsilə Xiaomi YU7 ekranına qoşur: saat, hava, musiqi, xəritə və mesajlarla panel, avtomobildə toxunuşla idarə olunan telefon ekranı, naviqasiya və sizin dilinizdə avtomobil assistenti.
 
-**CarLink (ICCOA) olan avtomobillərlə işləyir.** İstifadəçilər Xiaomi (YU7, SU7), Toyota (RAV4), Nissan (X-Trail T32), Haval (Xiaolong Max), Deepal (S05), GAC (Aion Y Plus), Wuling (Starlight 730), Lynk & Co (08) və Jetta (VS8) ilə işlədiyini artıq təsdiqləyib. CarLink olan başqa avtomobil? Sınayın və tətbiqdən hesabat göndərin — həll edəcəyik.
+**CarLink (ICCOA) olan avtomobillərlə işləyir.** İstifadəçilər Xiaomi (YU7, SU7), Toyota (RAV4, Camry 80), Nissan (X-Trail T32), Haval (Xiaolong Max), Deepal (S05), GAC (Aion Y Plus), Wuling (Starlight 730), Lynk & Co (08) və Jetta (VS8) ilə işlədiyini artıq təsdiqləyib. CarLink olan başqa avtomobil? Sınayın və tətbiqdən hesabat göndərin — həll edəcəyik.
 
 Bu müstəqil tətbiqdir, Xiaomi, Samsung, ICCOA, Android Auto və ya Google-un rəsmi məhsulu deyil.
 

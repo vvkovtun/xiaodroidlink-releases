@@ -29,8 +29,14 @@ You do this once.
 1. Settings → **About phone**.
 2. Tap **"OS version"** (or "MIUI version") **7 times**.
 3. Settings → **Additional settings** → **Developer options**.
-4. Turn on **"USB debugging"** and **"USB debugging (Security settings)"**.
-   For the second one Xiaomi requires a Mi account sign-in and a SIM card in the phone.
+4. Turn on **"USB debugging"**.
+5. Now the **"USB debugging (Security settings)"** item appears. It needs two things:
+   - **Mi account sign-in**: Settings → **Mi Account** (or Xiaomi Account) → sign in;
+   - **a SIM card** in the phone.
+   When both are done, open Developer options again and turn on **"USB debugging (Security settings)"**. The phone asks to confirm — tap "Yes".
+6. Unplug the cable, plug it back in and tap **"Allow"** on the phone.
+   If "(Security settings)" is greyed out, check both conditions in step 5.
+   **Why the helper says "partly done":** without this item Xiaomi does not let the helper grant the dim-screen and service-restart permissions. The account must be signed in **on the phone**; the car's account is not needed.
 
 **Other phones** (Honor, vivo, OnePlus, Pixel, Motorola…)
 1. Settings → **About phone** → tap **"Build number" 7 times**.
@@ -83,7 +89,7 @@ You can switch off the dark screen without a computer too: pull down the phone's
 | "The phone is not visible" only on Windows | Windows needs the phone driver. Samsung: install "Samsung USB Driver" from samsung.com. Others usually install by themselves — wait a minute after plugging in. |
 | The "Allow USB debugging" window does not appear | Unplug and plug the cable in again, unlock the phone. |
 | "XiaoDroidLink is too old" | Update XiaoDroidLink in Google Play and run the helper again. |
-| "Partly done" on Xiaomi | Turn on "USB debugging (Security settings)" (step 1) and run again. |
+| "Partly done" on Xiaomi / Redmi / POCO | "USB debugging (Security settings)" is off. Sign in to the Mi account, insert a SIM card, turn the item on (step 1, items 5–6) and run again. |
 | "Did not work" | Send the text from the helper window via "Something not working? Send report" in the app. |
 
 The permissions stay after XiaoDroidLink updates and disappear only when it is uninstalled.
