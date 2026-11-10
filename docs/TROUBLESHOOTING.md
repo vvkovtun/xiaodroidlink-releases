@@ -188,7 +188,7 @@ country; after leaving it everything works as usual.
 On Samsung, changing the firmware region (CSC) to a European one such as XXV also helps, but not for long: after
 airplane mode the phone takes the country from the mobile network again.
 
-On Xiaomi phones with root, changing the Wi‑Fi region to a country where channel 149 is allowed (a European one, for
+From other users' experience, on Xiaomi phones with root changing the Wi‑Fi region to a country where channel 149 is allowed (a European one, for
 example) also helps. It is the same issue as with Xiaomi Interconnectivity: the car and the phone connect directly over
 Wi‑Fi on the same channel.
 
