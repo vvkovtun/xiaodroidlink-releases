@@ -162,14 +162,23 @@ If the car never shows a code, close CarLink in the car, open it again and tap `
 | `Could not join the car Wi‑Fi` | Three attempts in a row failed. | Turn phone Wi‑Fi off and on. If Android shows "Connect to device?", accept. Close and reopen CarLink in the car. Forget old car networks in the phone's Wi‑Fi settings. |
 | `The car Wi‑Fi disappeared` | The network vanished while running; the app reconnects. | Wait. If it repeats, turn off "smart" switching from Wi‑Fi to mobile data on the phone. |
 
-#### Car Wi‑Fi not visible in some countries (Belarus)
+<a id="channel-149"></a>
+
+#### Car Wi‑Fi not visible in some countries (Belarus, Egypt, Turkey…)
 
 CarLink cars (Xiaomi YU7, Jetta VS8, Toyota bZ3X, Lynk & Co 08 and others) always run their network on 5 GHz,
 channel 149 (5745 MHz). The phone cannot change it — the car ignores the request (tested on YU7).
 
 The phone takes its country from the mobile network (SIM and cell tower) and enables only the frequencies allowed
-there. Belarus does not allow 5725–5850 MHz (channels 149–165), so a phone on a Belarusian mobile network simply does
-not see the car Wi‑Fi. Russia, Ukraine, Poland and the EU allow this band — the same car works there. The same can
+there. Some countries do not allow 5725–5850 MHz (channels 149–165), so a phone on such a country's mobile network
+simply does not see the car Wi‑Fi. Russia, Ukraine, Kazakhstan, Armenia, Poland and the EU allow this band — the same
+car works there.
+
+Countries where channel 149 is not allowed (per the [wireless-regdb](https://git.kernel.org/pub/scm/linux/kernel/git/wens/wireless-regdb.git/tree/db.txt) frequency database):
+Afghanistan, Algeria, Azerbaijan, Belarus, Bhutan, Cambodia, Chad, Egypt, Ethiopia, Georgia, Greenland, Iran, Japan,
+Lesotho, Malawi, Mauritania, Morocco, Oman, Samoa, Saudi Arabia, South Africa, Suriname, Tunisia, Turkey, Uzbekistan,
+Yemen, Zimbabwe, plus Aruba, Anguilla, Guadeloupe, Martinique, Réunion, Mayotte, French Guiana and other French and
+Dutch overseas territories. Phone frequency tables may differ slightly; the workaround is confirmed by users in Belarus. The same can
 happen when the phone firmware is tied to a region with such limits.
 
 **What to do (confirmed by a user in Belarus, 09.11.2026):**
