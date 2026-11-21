@@ -1,6 +1,6 @@
 # XiaoDroidLink Privacy Policy
 
-Last updated: 2026-11-06
+Last updated: 2026-11-21
 
 XiaoDroidLink is developed by Salon Lifestyle. It connects an Android phone to a compatible Xiaomi YU7 CarLink screen. XiaoDroidLink is an independent project and is not an official Xiaomi, Samsung, Google, Android Auto, or ICCOA product.
 
@@ -25,6 +25,23 @@ XiaoDroidLink processes the following data only when the user enables the relate
 - Installed app names and icons to let the user choose apps for the car dashboard.
 
 The app does not use advertising SDKs, analytics SDKs, or crash-reporting SDKs, and does not sell personal data.
+
+## Anonymous usage statistics
+
+To learn which cars work, where connection fails and which features people use, the app sends anonymous usage statistics to Google Analytics (Google Analytics 4 Measurement Protocol, sent directly over HTTPS without a Google SDK). It is on by default and can be turned off at any time in the app settings ("Anonymous statistics"); turning it off also deletes events not yet sent.
+
+What is sent:
+
+- A random app-instance number created on the phone (not linked to the user's name, Google account, phone number or advertising ID).
+- App version, app language, phone manufacturer and model, Android version, and the country code of the SIM card.
+- Car identification from the car's CarLink signal and certificate: manufacturer and model codes and the car's model name.
+- Chosen design and theme, map app, list of widget types on the dashboard, and whether optional features (Accessibility, audio through CarLink, auto-connect, computer helper) are enabled.
+- For each connection attempt: how far it got (search, code, Wi-Fi, login, streaming), the reason shown to the user if it failed, whether a code was needed, and how many seconds it took.
+- After each trip: its length in minutes, the number of connection drops, whether audio and screen casting worked, the package name of the music player, and how many times routes, voice, quick actions, manual position and car calls were used; and once a day whether the app was used in the car for at least five minutes.
+
+What is never sent: location, addresses or routes, contacts, call or message content, notifications, screen content, Wi-Fi network names, Bluetooth or MAC addresses, phone numbers or e-mail addresses.
+
+Google processes this data under the Google Analytics terms and the Google Privacy Policy (https://policies.google.com/privacy); Google may see the phone's IP address when it receives a request. Event-level data is kept for two months (the Google Analytics default); only aggregated reports are kept longer.
 
 ## Online services
 
@@ -56,7 +73,7 @@ Online service requests use HTTPS. Car pairing uses cryptographic authentication
 
 ## User choices
 
-Users can disable permissions and special access at any time in Android settings. They can stop a CarLink session in the app or its notification. Disabling access may disable the related feature.
+Users can disable permissions and special access at any time in Android settings, and turn off anonymous statistics in the app settings. They can stop a CarLink session in the app or its notification. Disabling access may disable the related feature.
 
 ## Contact
 
